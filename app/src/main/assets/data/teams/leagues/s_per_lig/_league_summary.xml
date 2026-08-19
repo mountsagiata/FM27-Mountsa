@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Süper Lig" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Süper Lig</name>
+    <total_players>469</total_players>
+    <average_team_rating>68.1</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Galatasaray SK" players="26">
+      <name>Galatasaray SK</name>
+      <average_rating>75.5</average_rating>
+      <total_value_eur>425200000</total_value_eur>
+      <top_players>
+        <player name="V. Osimhen" rating="87"/>
+        <player name="L. Torreira" rating="83"/>
+        <player name="İ. Gündoğan" rating="83"/>
+        <player name="L. Sané" rating="82"/>
+        <player name="D. Sánchez" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Fenerbahçe SK" players="28">
+      <name>Fenerbahçe SK</name>
+      <average_rating>75.5</average_rating>
+      <total_value_eur>335000000</total_value_eur>
+      <top_players>
+        <player name="Ederson" rating="85"/>
+        <player name="Y. En-Nesyri" rating="82"/>
+        <player name="Anderson Talisca" rating="81"/>
+        <player name="M. Škriniar" rating="81"/>
+        <player name="Fred" rating="80"/>
+      </top_players>
+    </team>
+    <team name="Beşiktaş JK" players="26">
+      <name>Beşiktaş JK</name>
+      <average_rating>73.6</average_rating>
+      <total_value_eur>180999998</total_value_eur>
+      <top_players>
+        <player name="O. Kökçü" rating="82"/>
+        <player name="Rafa" rating="82"/>
+        <player name="M. Günok" rating="78"/>
+        <player name="Gabriel Paulista" rating="77"/>
+        <player name="V. Černý" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Trabzonspor" players="24">
+      <name>Trabzonspor</name>
+      <average_rating>71.0</average_rating>
+      <total_value_eur>102775000</total_value_eur>
+      <top_players>
+        <player name="A. Onana" rating="80"/>
+        <player name="E. Višća" rating="78"/>
+        <player name="O. Zubkov" rating="78"/>
+        <player name="S. Savić" rating="78"/>
+        <player name="O. Yokuşlu" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Medipol Başakşehir FK" players="28">
+      <name>Medipol Başakşehir FK</name>
+      <average_rating>70.4</average_rating>
+      <total_value_eur>74429998</total_value_eur>
+      <top_players>
+        <player name="A. Harit" rating="75"/>
+        <player name="Y. Sarı" rating="75"/>
+        <player name="Léo Duarte" rating="75"/>
+        <player name="C. Operi" rating="74"/>
+        <player name="E. Shomurodov" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Samsunspor" players="25">
+      <name>Samsunspor</name>
+      <average_rating>69.0</average_rating>
+      <total_value_eur>60115000</total_value_eur>
+      <top_players>
+        <player name="R. van Drongelen" rating="75"/>
+        <player name="C. Holse" rating="74"/>
+        <player name="Afonso Sousa" rating="74"/>
+        <player name="O. Ntcham" rating="73"/>
+        <player name="A. Makoumbou" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Çaykur Rizespor" players="23">
+      <name>Çaykur Rizespor</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>53799999</total_value_eur>
+      <top_players>
+        <player name="Y. Fofana" rating="76"/>
+        <player name="Q. Laçi" rating="74"/>
+        <player name="A. Sowe" rating="74"/>
+        <player name="C. Højer" rating="73"/>
+        <player name="M. Sagnan" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Kocaelispor" players="26">
+      <name>Kocaelispor</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>38650000</total_value_eur>
+      <top_players>
+        <player name="B. Petković" rating="76"/>
+        <player name="M. Haïdara" rating="73"/>
+        <player name="K. Linetty" rating="73"/>
+        <player name="M. Wieteska" rating="72"/>
+        <player name="H. Smolčić" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Antalyaspor" players="27">
+      <name>Antalyaspor</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>37409999</total_value_eur>
+      <top_players>
+        <player name="N. Storm" rating="74"/>
+        <player name="A. Ömür" rating="73"/>
+        <player name="G. Dzhikiya" rating="73"/>
+        <player name="Y. Boli" rating="73"/>
+        <player name="T. Čvančara" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Eyüpspor" players="25">
+      <name>Eyüpspor</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>36865000</total_value_eur>
+      <top_players>
+        <player name="M. Thiam" rating="75"/>
+        <player name="K. Demirbay" rating="74"/>
+        <player name="Samu Sáiz" rating="74"/>
+        <player name="T. Stepanenko" rating="73"/>
+        <player name="E. Akbaba" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Alanyaspor" players="27">
+      <name>Alanyaspor</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>37835000</total_value_eur>
+      <top_players>
+        <player name="Paulo Victor" rating="75"/>
+        <player name="I. Hagi" rating="74"/>
+        <player name="S. Mounié" rating="73"/>
+        <player name="G. Makouta" rating="72"/>
+        <player name="E. Karaca" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Gaziantep FK" players="28">
+      <name>Gaziantep FK</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>41139999</total_value_eur>
+      <top_players>
+        <player name="A. Maxim" rating="76"/>
+        <player name="Kévin Rodrigues" rating="75"/>
+        <player name="B. Ndiaye" rating="74"/>
+        <player name="M. Bayo" rating="73"/>
+        <player name="D. Sorescu" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Gençlerbirliği SK" players="29">
+      <name>Gençlerbirliği SK</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>43479999</total_value_eur>
+      <top_players>
+        <player name="Ricardo Velho" rating="76"/>
+        <player name="S. Koita" rating="74"/>
+        <player name="Pedro Pereira" rating="74"/>
+        <player name="H. Onyekuru" rating="72"/>
+        <player name="D. Goutas" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Göztepe SK" players="23">
+      <name>Göztepe SK</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>32745000</total_value_eur>
+      <top_players>
+        <player name="M. Lis" rating="73"/>
+        <player name="A. Dennis" rating="70"/>
+        <player name="E. Bekiroğlu" rating="70"/>
+        <player name="Juan" rating="69"/>
+        <player name="O. Bayrak" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Kasımpaşa SK" players="24">
+      <name>Kasımpaşa SK</name>
+      <average_rating>65.4</average_rating>
+      <total_value_eur>29785000</total_value_eur>
+      <top_players>
+        <player name="H. Hajradinović" rating="76"/>
+        <player name="Cláudio Winck" rating="74"/>
+        <player name="M. Fall" rating="73"/>
+        <player name="A. Gianniotis" rating="73"/>
+        <player name="A. Szalai" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Konyaspor" players="24">
+      <name>Konyaspor</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>28814999</total_value_eur>
+      <top_players>
+        <player name="Guilherme Sityá" rating="76"/>
+        <player name="R. Bazoer" rating="74"/>
+        <player name="E. Bardhi" rating="74"/>
+        <player name="J. Muleka" rating="70"/>
+        <player name="U. Nayir" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Kayserispor" players="29">
+      <name>Kayserispor</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>31640000</total_value_eur>
+      <top_players>
+        <player name="Carlos Mané" rating="73"/>
+        <player name="João Mendes" rating="73"/>
+        <player name="S. Denswil" rating="73"/>
+        <player name="L. Bénes" rating="72"/>
+        <player name="D. Toköz" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Fatih Karagümrük" players="27">
+      <name>Fatih Karagümrük</name>
+      <average_rating>63.4</average_rating>
+      <total_value_eur>29270000</total_value_eur>
+      <top_players>
+        <player name="M. Kranevitter" rating="74"/>
+        <player name="Ricardo Esgaio" rating="73"/>
+        <player name="Camacho" rating="73"/>
+        <player name="S. Larsson" rating="72"/>
+        <player name="D. Fofana" rating="72"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Hrvatska nogometna liga" total_teams="2" generated="2026-05-10">
+  <league_info>
+    <name>Hrvatska nogometna liga</name>
+    <total_players>62</total_players>
+    <average_team_rating>67.5</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Dinamo Zagreb" players="33">
+      <name>Dinamo Zagreb</name>
+      <average_rating>67.9</average_rating>
+      <total_value_eur>85510000</total_value_eur>
+      <top_players>
+        <player name="I. Bennacer" rating="80"/>
+        <player name="S. McKenna" rating="75"/>
+        <player name="D. Ljubičić" rating="73"/>
+        <player name="R. Pierre-Gabriel" rating="73"/>
+        <player name="D. Beljo" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Hajduk Split" players="29">
+      <name>Hajduk Split</name>
+      <average_rating>67.1</average_rating>
+      <total_value_eur>58350000</total_value_eur>
+      <top_players>
+        <player name="M. Livaja" rating="79"/>
+        <player name="A. Rebić" rating="72"/>
+        <player name="Hugo Guillamón" rating="72"/>
+        <player name="I. Ivušić" rating="72"/>
+        <player name="Edgar" rating="71"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

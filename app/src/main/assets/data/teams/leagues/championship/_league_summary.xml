@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Championship" total_teams="24" generated="2026-05-10">
+  <league_info>
+    <name>Championship</name>
+    <total_players>684</total_players>
+    <average_team_rating>67.9</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Ipswich Town" players="27">
+      <name>Ipswich Town</name>
+      <average_rating>71.6</average_rating>
+      <total_value_eur>103344999</total_value_eur>
+      <top_players>
+        <player name="L. Davis" rating="76"/>
+        <player name="A. Matusiwa" rating="76"/>
+        <player name="C. Akpom" rating="76"/>
+        <player name="J. Cajuste" rating="75"/>
+        <player name="J. Philogene" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Birmingham City" players="27">
+      <name>Birmingham City</name>
+      <average_rating>70.7</average_rating>
+      <total_value_eur>79830000</total_value_eur>
+      <top_players>
+        <player name="B. Osayi-Samuel" rating="76"/>
+        <player name="M. Ducksch" rating="76"/>
+        <player name="K. Furuhashi" rating="75"/>
+        <player name="K. Fujimoto" rating="74"/>
+        <player name="T. Doyle" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Coventry City" players="23">
+      <name>Coventry City</name>
+      <average_rating>70.2</average_rating>
+      <total_value_eur>62100000</total_value_eur>
+      <top_players>
+        <player name="J. Rudoni" rating="74"/>
+        <player name="M. van Ewijk" rating="74"/>
+        <player name="M. Grimes" rating="74"/>
+        <player name="H. Wright" rating="73"/>
+        <player name="L. Woolfenden" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Southampton" players="29">
+      <name>Southampton</name>
+      <average_rating>70.1</average_rating>
+      <total_value_eur>97330000</total_value_eur>
+      <top_players>
+        <player name="F. Azaz" rating="74"/>
+        <player name="F. Downes" rating="74"/>
+        <player name="T. Harwood-Bellis" rating="74"/>
+        <player name="J. Aribo" rating="73"/>
+        <player name="R. Manning" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Leicester City" players="29">
+      <name>Leicester City</name>
+      <average_rating>70.0</average_rating>
+      <total_value_eur>94280000</total_value_eur>
+      <top_players>
+        <player name="A. Fatawu" rating="76"/>
+        <player name="B. Soumaré" rating="75"/>
+        <player name="V. Kristiansen" rating="75"/>
+        <player name="S. Mavididi" rating="75"/>
+        <player name="Ricardo Pereira" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Middlesbrough" players="26">
+      <name>Middlesbrough</name>
+      <average_rating>69.5</average_rating>
+      <total_value_eur>59465000</total_value_eur>
+      <top_players>
+        <player name="H. Hackney" rating="73"/>
+        <player name="A. Morris" rating="73"/>
+        <player name="M. Whittaker" rating="73"/>
+        <player name="A. Browne" rating="72"/>
+        <player name="R. McGree" rating="72"/>
+      </top_players>
+    </team>
+    <team name="West Bromwich Albion" players="24">
+      <name>West Bromwich Albion</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>57155000</total_value_eur>
+      <top_players>
+        <player name="S. Iling-Junior" rating="74"/>
+        <player name="A. Mowatt" rating="73"/>
+        <player name="C. Mepham" rating="73"/>
+        <player name="K. Bielik" rating="72"/>
+        <player name="J. Maja" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Derby County" players="27">
+      <name>Derby County</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>45475000</total_value_eur>
+      <top_players>
+        <player name="B. Brereton Díaz" rating="74"/>
+        <player name="E. Adams" rating="73"/>
+        <player name="C. Morris" rating="73"/>
+        <player name="L. Travis" rating="72"/>
+        <player name="M. Clarke" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Hull City" players="29">
+      <name>Hull City</name>
+      <average_rating>68.3</average_rating>
+      <total_value_eur>59200000</total_value_eur>
+      <top_players>
+        <player name="O. McBurnie" rating="74"/>
+        <player name="A. Hadžiahmetović" rating="73"/>
+        <player name="J. Lundstram" rating="73"/>
+        <player name="M. Belloumi" rating="73"/>
+        <player name="L. Millar" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Bristol City" players="29">
+      <name>Bristol City</name>
+      <average_rating>68.3</average_rating>
+      <total_value_eur>58515000</total_value_eur>
+      <top_players>
+        <player name="J. Knight" rating="73"/>
+        <player name="M. Bird" rating="73"/>
+        <player name="R. Dickie" rating="73"/>
+        <player name="S. Twine" rating="72"/>
+        <player name="A. Mehmeti" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Swansea City" players="25">
+      <name>Swansea City</name>
+      <average_rating>68.1</average_rating>
+      <total_value_eur>56975000</total_value_eur>
+      <top_players>
+        <player name="M. Benson" rating="73"/>
+        <player name="A. Idah" rating="73"/>
+        <player name="C. Burgess" rating="73"/>
+        <player name="Gonçalo Franco" rating="72"/>
+        <player name="M. Yalcouyé" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Norwich City" players="31">
+      <name>Norwich City</name>
+      <average_rating>67.9</average_rating>
+      <total_value_eur>74175000</total_value_eur>
+      <top_players>
+        <player name="J. Sargent" rating="75"/>
+        <player name="M. Kvistgaarden" rating="74"/>
+        <player name="J. Schlupp" rating="73"/>
+        <player name="M. Jurásek" rating="73"/>
+        <player name="K. McLean" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Sheffield United" players="34">
+      <name>Sheffield United</name>
+      <average_rating>67.7</average_rating>
+      <total_value_eur>89900000</total_value_eur>
+      <top_players>
+        <player name="G. Hamer" rating="77"/>
+        <player name="M. Cooper" rating="76"/>
+        <player name="H. Burrows" rating="74"/>
+        <player name="C. Ogbene" rating="74"/>
+        <player name="B. Mee" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Stoke City" players="28">
+      <name>Stoke City</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>48375000</total_value_eur>
+      <top_players>
+        <player name="V. Johansson" rating="74"/>
+        <player name="A. Cresswell" rating="73"/>
+        <player name="M. Manhoef" rating="72"/>
+        <player name="S. Nzonzi" rating="72"/>
+        <player name="S. Thomas" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Watford" players="29">
+      <name>Watford</name>
+      <average_rating>67.3</average_rating>
+      <total_value_eur>57280000</total_value_eur>
+      <top_players>
+        <player name="G. Chakvetadze" rating="74"/>
+        <player name="I. Louza" rating="73"/>
+        <player name="N. Mendy" rating="73"/>
+        <player name="M. Sissoko" rating="72"/>
+        <player name="M. Bola" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Preston North End" players="29">
+      <name>Preston North End</name>
+      <average_rating>67.0</average_rating>
+      <total_value_eur>43975000</total_value_eur>
+      <top_players>
+        <player name="B. Whiteman" rating="72"/>
+        <player name="M. Frøkjær" rating="72"/>
+        <player name="J. Storey" rating="71"/>
+        <player name="L. Lindsay" rating="71"/>
+        <player name="A. McCann" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Wrexham" players="32">
+      <name>Wrexham</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>54700000</total_value_eur>
+      <top_players>
+        <player name="B. Sheaf" rating="74"/>
+        <player name="N. Broadhead" rating="73"/>
+        <player name="I. Kaboré" rating="73"/>
+        <player name="L. Cacace" rating="72"/>
+        <player name="L. O'Brien" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Queens Park Rangers" players="31">
+      <name>Queens Park Rangers</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>56675000</total_value_eur>
+      <top_players>
+        <player name="I. Chair" rating="74"/>
+        <player name="J. Dunne" rating="73"/>
+        <player name="P. Nardi" rating="73"/>
+        <player name="K. Saito" rating="72"/>
+        <player name="J. Clarke-Salter" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Oxford United" players="30">
+      <name>Oxford United</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>41425000</total_value_eur>
+      <top_players>
+        <player name="C. Brannagan" rating="71"/>
+        <player name="B. Davies" rating="71"/>
+        <player name="B. De Keersmaecker" rating="70"/>
+        <player name="S. Dembélé" rating="70"/>
+        <player name="C. Brown" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Charlton Athletic" players="24">
+      <name>Charlton Athletic</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>30425000</total_value_eur>
+      <top_players>
+        <player name="T. Kaminski" rating="74"/>
+        <player name="R. Burke" rating="71"/>
+        <player name="A. Bell" rating="70"/>
+        <player name="J. Rankin-Costello" rating="69"/>
+        <player name="J. Bree" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Millwall FC" players="33">
+      <name>Millwall FC</name>
+      <average_rating>66.3</average_rating>
+      <total_value_eur>52670000</total_value_eur>
+      <top_players>
+        <player name="A. Doughty" rating="74"/>
+        <player name="T. Ballo" rating="73"/>
+        <player name="J. Cooper" rating="73"/>
+        <player name="C. De Norre" rating="72"/>
+        <player name="W. Smallbone" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Portsmouth" players="32">
+      <name>Portsmouth</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>48140000</total_value_eur>
+      <top_players>
+        <player name="C. Chaplin" rating="74"/>
+        <player name="J. Murphy" rating="73"/>
+        <player name="C. Bishop" rating="72"/>
+        <player name="C. Lang" rating="71"/>
+        <player name="N. Schmid" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Blackburn Rovers" players="29">
+      <name>Blackburn Rovers</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>39980000</total_value_eur>
+      <top_players>
+        <player name="S. Tronstad" rating="72"/>
+        <player name="T. Cantwell" rating="72"/>
+        <player name="R. Morishita" rating="70"/>
+        <player name="Yuri Ribeiro" rating="70"/>
+        <player name="R. Hedges" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Sheffield Wednesday" players="27">
+      <name>Sheffield Wednesday</name>
+      <average_rating>62.6</average_rating>
+      <total_value_eur>27625000</total_value_eur>
+      <top_players>
+        <player name="B. Bannan" rating="73"/>
+        <player name="M. Lowe" rating="71"/>
+        <player name="Y. Valery" rating="71"/>
+        <player name="J. Lowe" rating="70"/>
+        <player name="N. Chalobah" rating="69"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

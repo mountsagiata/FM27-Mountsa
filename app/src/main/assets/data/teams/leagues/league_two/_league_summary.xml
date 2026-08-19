@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="League Two" total_teams="24" generated="2026-05-10">
+  <league_info>
+    <name>League Two</name>
+    <total_players>648</total_players>
+    <average_team_rating>60.1</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Milton Keynes Dons" players="27">
+      <name>Milton Keynes Dons</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>15470000</total_value_eur>
+      <top_players>
+        <player name="K. Wilson" rating="69"/>
+        <player name="C. Paterson" rating="68"/>
+        <player name="A. Collins" rating="68"/>
+        <player name="M. Ekpiteta" rating="68"/>
+        <player name="N. Méndez-Laing" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Shrewsbury Town" players="21">
+      <name>Shrewsbury Town</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>9555000</total_value_eur>
+      <top_players>
+        <player name="S. Clucas" rating="66"/>
+        <player name="M. Benning" rating="65"/>
+        <player name="G. Nurse" rating="65"/>
+        <player name="S. Stubbs" rating="64"/>
+        <player name="W. Boyle" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Notts County" players="27">
+      <name>Notts County</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>14495000</total_value_eur>
+      <top_players>
+        <player name="O. Norburn" rating="65"/>
+        <player name="J. Jones" rating="65"/>
+        <player name="A. Jatta" rating="65"/>
+        <player name="M. Palmer" rating="64"/>
+        <player name="B. Cotter" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Bristol Rovers" players="26">
+      <name>Bristol Rovers</name>
+      <average_rating>61.3</average_rating>
+      <total_value_eur>15930000</total_value_eur>
+      <top_players>
+        <player name="J. McEachran" rating="66"/>
+        <player name="L. Thomas" rating="66"/>
+        <player name="L. Southwood" rating="65"/>
+        <player name="J. Sparkes" rating="64"/>
+        <player name="C. Mola" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Cambridge United" players="26">
+      <name>Cambridge United</name>
+      <average_rating>61.0</average_rating>
+      <total_value_eur>12900000</total_value_eur>
+      <top_players>
+        <player name="P. Mpanzu" rating="68"/>
+        <player name="L. Bennett" rating="65"/>
+        <player name="S. Lavery" rating="65"/>
+        <player name="K. Watts" rating="65"/>
+        <player name="D. Ball" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Barrow" players="25">
+      <name>Barrow</name>
+      <average_rating>61.0</average_rating>
+      <total_value_eur>9385000</total_value_eur>
+      <top_players>
+        <player name="T. Barkhuizen" rating="66"/>
+        <player name="R. Healey" rating="66"/>
+        <player name="B. Jackson" rating="64"/>
+        <player name="B. Whitfield" rating="63"/>
+        <player name="N. Canavan" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Salford City" players="27">
+      <name>Salford City</name>
+      <average_rating>60.9</average_rating>
+      <total_value_eur>12925000</total_value_eur>
+      <top_players>
+        <player name="M. Rose" rating="68"/>
+        <player name="J. Grant" rating="66"/>
+        <player name="D. Udoh" rating="66"/>
+        <player name="O. Turton" rating="66"/>
+        <player name="L. Garbutt" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Swindon Town" players="26">
+      <name>Swindon Town</name>
+      <average_rating>60.5</average_rating>
+      <total_value_eur>10420000</total_value_eur>
+      <top_players>
+        <player name="R. Tafazolli" rating="66"/>
+        <player name="W. Wright" rating="64"/>
+        <player name="B. Bodin" rating="64"/>
+        <player name="O. Palmer" rating="64"/>
+        <player name="G. Kilkenny" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Grimsby Town" players="27">
+      <name>Grimsby Town</name>
+      <average_rating>60.5</average_rating>
+      <total_value_eur>11885000</total_value_eur>
+      <top_players>
+        <player name="J. Walker" rating="63"/>
+        <player name="D. Rose" rating="63"/>
+        <player name="J. Svanþórs­son" rating="63"/>
+        <player name="G. McEachran" rating="63"/>
+        <player name="H. Rodgers" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Chesterfield" players="27">
+      <name>Chesterfield</name>
+      <average_rating>60.4</average_rating>
+      <total_value_eur>11010000</total_value_eur>
+      <top_players>
+        <player name="D. Markanday" rating="65"/>
+        <player name="T. Naylor" rating="64"/>
+        <player name="R. Stirk" rating="64"/>
+        <player name="L. Mandeville" rating="64"/>
+        <player name="J. Berry" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Fleetwood Town" players="27">
+      <name>Fleetwood Town</name>
+      <average_rating>60.3</average_rating>
+      <total_value_eur>11125000</total_value_eur>
+      <top_players>
+        <player name="C. Evans" rating="67"/>
+        <player name="D. Hume" rating="65"/>
+        <player name="S. Rooney" rating="64"/>
+        <player name="Z. Medley" rating="64"/>
+        <player name="M. Virtue" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Barnet" players="29">
+      <name>Barnet</name>
+      <average_rating>60.2</average_rating>
+      <total_value_eur>12275000</total_value_eur>
+      <top_players>
+        <player name="B. Winterburn" rating="65"/>
+        <player name="A. Hartigan" rating="64"/>
+        <player name="C. Stead" rating="64"/>
+        <player name="S. High" rating="63"/>
+        <player name="N. Ofoborh" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Colchester United" players="28">
+      <name>Colchester United</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>12405000</total_value_eur>
+      <top_players>
+        <player name="J. Payne" rating="65"/>
+        <player name="T. Bishop" rating="64"/>
+        <player name="E. Iandolo" rating="64"/>
+        <player name="W. Goodwin" rating="64"/>
+        <player name="M. Macey" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Gillingham" players="28">
+      <name>Gillingham</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>11275000</total_value_eur>
+      <top_players>
+        <player name="G. McCleary" rating="66"/>
+        <player name="B. Dack" rating="65"/>
+        <player name="J. Smith" rating="65"/>
+        <player name="A. Little" rating="64"/>
+        <player name="S. Vokes" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Walsall" players="28">
+      <name>Walsall</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>13680000</total_value_eur>
+      <top_players>
+        <player name="J. Hollman" rating="66"/>
+        <player name="A. Flint" rating="65"/>
+        <player name="V. Harper" rating="64"/>
+        <player name="C. Barrett" rating="64"/>
+        <player name="H. Williams" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Crawley Town" players="29">
+      <name>Crawley Town</name>
+      <average_rating>59.9</average_rating>
+      <total_value_eur>12350000</total_value_eur>
+      <top_players>
+        <player name="J. Flint" rating="64"/>
+        <player name="J. Williams" rating="64"/>
+        <player name="L. Watson" rating="63"/>
+        <player name="S. Malone" rating="63"/>
+        <player name="J. Wollacott" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Tranmere Rovers" players="24">
+      <name>Tranmere Rovers</name>
+      <average_rating>59.7</average_rating>
+      <total_value_eur>8195000</total_value_eur>
+      <top_players>
+        <player name="R. Smallwood" rating="64"/>
+        <player name="O. Patrick" rating="64"/>
+        <player name="E. Bristow" rating="64"/>
+        <player name="N. Smith" rating="64"/>
+        <player name="P. Brough" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Bromley" players="26">
+      <name>Bromley</name>
+      <average_rating>59.6</average_rating>
+      <total_value_eur>9140000</total_value_eur>
+      <top_players>
+        <player name="M. Pinnock" rating="65"/>
+        <player name="M. Cheek" rating="64"/>
+        <player name="B. Thompson" rating="63"/>
+        <player name="I. Odutayo" rating="63"/>
+        <player name="W. Hondermarck" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Cheltenham Town" players="29">
+      <name>Cheltenham Town</name>
+      <average_rating>59.5</average_rating>
+      <total_value_eur>10435000</total_value_eur>
+      <top_players>
+        <player name="I. Hutchinson" rating="64"/>
+        <player name="E. Archer" rating="64"/>
+        <player name="S. Sherring" rating="64"/>
+        <player name="J. Wilson" rating="64"/>
+        <player name="L. Kinsella" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Harrogate Town" players="26">
+      <name>Harrogate Town</name>
+      <average_rating>59.4</average_rating>
+      <total_value_eur>7275000</total_value_eur>
+      <top_players>
+        <player name="B. Morris" rating="64"/>
+        <player name="M. Bennett" rating="64"/>
+        <player name="A. O'Connor" rating="64"/>
+        <player name="B. Fox" rating="63"/>
+        <player name="E. Taylor" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Oldham Athletic" players="28">
+      <name>Oldham Athletic</name>
+      <average_rating>59.2</average_rating>
+      <total_value_eur>8200000</total_value_eur>
+      <top_players>
+        <player name="R. Woods" rating="63"/>
+        <player name="J. Caprice" rating="62"/>
+        <player name="J. Robson" rating="62"/>
+        <player name="M. Fondop" rating="62"/>
+        <player name="M. Monthé" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Crewe Alexandra" players="31">
+      <name>Crewe Alexandra</name>
+      <average_rating>58.5</average_rating>
+      <total_value_eur>12930000</total_value_eur>
+      <top_players>
+        <player name="D. Rankine" rating="65"/>
+        <player name="M. Demetriou" rating="65"/>
+        <player name="J. Lankester" rating="63"/>
+        <player name="L. Moult" rating="63"/>
+        <player name="M. Sanders" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Newport County" players="27">
+      <name>Newport County</name>
+      <average_rating>58.4</average_rating>
+      <total_value_eur>9595000</total_value_eur>
+      <top_players>
+        <player name="M. Smith" rating="64"/>
+        <player name="B. Kamwa" rating="63"/>
+        <player name="N. Opoku" rating="63"/>
+        <player name="M. Baker" rating="62"/>
+        <player name="A. Glennon" rating="61"/>
+      </top_players>
+    </team>
+    <team name="Accrington Stanley" players="29">
+      <name>Accrington Stanley</name>
+      <average_rating>57.5</average_rating>
+      <total_value_eur>8095000</total_value_eur>
+      <top_players>
+        <player name="S. Whalley" rating="62"/>
+        <player name="P. Madden" rating="62"/>
+        <player name="J. Bauress" rating="61"/>
+        <player name="D. Love" rating="61"/>
+        <player name="F. Rawson" rating="61"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

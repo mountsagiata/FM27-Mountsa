@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Nemzeti Bajnokság I" total_teams="1" generated="2026-05-10">
+  <league_info>
+    <name>Nemzeti Bajnokság I</name>
+    <total_players>33</total_players>
+    <average_team_rating>69.3</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Ferencvárosi Torna Club" players="33">
+      <name>Ferencvárosi Torna Club</name>
+      <average_rating>69.3</average_rating>
+      <total_value_eur>64855000</total_value_eur>
+      <top_players>
+        <player name="D. Dibusz" rating="78"/>
+        <player name="M. Abu Fani" rating="75"/>
+        <player name="B. Varga" rating="75"/>
+        <player name="Cadu" rating="74"/>
+        <player name="N. Keïta" rating="73"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

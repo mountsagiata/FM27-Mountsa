@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Primera Division" total_teams="10" generated="2026-05-10">
+  <league_info>
+    <name>Primera Division</name>
+    <total_players>248</total_players>
+    <average_team_rating>64.8</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Universidad de Chile" players="26">
+      <name>Universidad de Chile</name>
+      <average_rating>68.2</average_rating>
+      <total_value_eur>37705000</total_value_eur>
+      <top_players>
+        <player name="S. Rodríguez" rating="75"/>
+        <player name="C. Aránguiz" rating="74"/>
+        <player name="L. Fernández" rating="73"/>
+        <player name="R. Contreras" rating="73"/>
+        <player name="L. Di Yorio" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Colo-Colo" players="27">
+      <name>Colo-Colo</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>47600000</total_value_eur>
+      <top_players>
+        <player name="C. Aquino" rating="77"/>
+        <player name="A. Vidal" rating="73"/>
+        <player name="S. Vegas" rating="73"/>
+        <player name="L. Cepeda" rating="72"/>
+        <player name="V. Pizarro" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Deportivo Táchira" players="23">
+      <name>Deportivo Táchira</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>17990000</total_value_eur>
+      <top_players>
+        <player name="R. Rosales" rating="70"/>
+        <player name="M. Cova" rating="69"/>
+        <player name="C. Sosa" rating="69"/>
+        <player name="J. Camargo" rating="69"/>
+        <player name="N. Hernández" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Universidad Católica" players="27">
+      <name>Universidad Católica</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>25665000</total_value_eur>
+      <top_players>
+        <player name="F. Zampedri" rating="74"/>
+        <player name="F. Zuqui" rating="72"/>
+        <player name="E. Mena" rating="71"/>
+        <player name="G. Medel" rating="71"/>
+        <player name="B. Ampuero" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Carabobo FC" players="21">
+      <name>Carabobo FC</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>21500000</total_value_eur>
+      <top_players>
+        <player name="G. González" rating="69"/>
+        <player name="M. Pernía" rating="69"/>
+        <player name="E. Tortolero" rating="68"/>
+        <player name="L. Aponte" rating="68"/>
+        <player name="L. Bruera" rating="68"/>
+      </top_players>
+    </team>
+    <team name="CD Palestino" players="28">
+      <name>CD Palestino</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>20545000</total_value_eur>
+      <top_players>
+        <player name="F. Meza" rating="72"/>
+        <player name="C. Suárez" rating="72"/>
+        <player name="J. Abrigo" rating="72"/>
+        <player name="B. Carrasco" rating="71"/>
+        <player name="J. Fernández" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Deportes Iquique" players="24">
+      <name>Deportes Iquique</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>11500000</total_value_eur>
+      <top_players>
+        <player name="É. Puch" rating="71"/>
+        <player name="M. Dávila" rating="68"/>
+        <player name="Á. Ramos" rating="68"/>
+        <player name="C. Fuentes" rating="67"/>
+        <player name="S. Pino" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Unión Española" players="24">
+      <name>Unión Española</name>
+      <average_rating>63.7</average_rating>
+      <total_value_eur>23250000</total_value_eur>
+      <top_players>
+        <player name="P. Aránguiz" rating="71"/>
+        <player name="M. Marín" rating="69"/>
+        <player name="A. Uribe" rating="68"/>
+        <player name="B. Véjar" rating="67"/>
+        <player name="S. Ramírez" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Academia Puerto Cabello" players="20">
+      <name>Academia Puerto Cabello</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>15310000</total_value_eur>
+      <top_players>
+        <player name="H. Contreras" rating="68"/>
+        <player name="G. Padrón" rating="68"/>
+        <player name="J. Paredes" rating="68"/>
+        <player name="M. Mbaye" rating="68"/>
+        <player name="L. Romero" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Caracas FC" players="28">
+      <name>Caracas FC</name>
+      <average_rating>62.0</average_rating>
+      <total_value_eur>20500000</total_value_eur>
+      <top_players>
+        <player name="M. Covea" rating="67"/>
+        <player name="J. Yendis" rating="67"/>
+        <player name="L. Mago" rating="67"/>
+        <player name="V. Rodríguez" rating="66"/>
+        <player name="D. Aguilar" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

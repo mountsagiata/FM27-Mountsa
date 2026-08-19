@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Primera División" total_teams="5" generated="2026-05-10">
+  <league_info>
+    <name>Primera División</name>
+    <total_players>108</total_players>
+    <average_team_rating>66.1</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Peñarol" players="24">
+      <name>Peñarol</name>
+      <average_rating>69.6</average_rating>
+      <total_value_eur>56600000</total_value_eur>
+      <top_players>
+        <player name="L. Fernández" rating="78"/>
+        <player name="M. Campaña" rating="74"/>
+        <player name="J. Cabrera" rating="72"/>
+        <player name="J. Méndez" rating="72"/>
+        <player name="D. Terans" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Club Nacional de Football" players="20">
+      <name>Club Nacional de Football</name>
+      <average_rating>68.9</average_rating>
+      <total_value_eur>40225000</total_value_eur>
+      <top_players>
+        <player name="S. Coates" rating="79"/>
+        <player name="N. López" rating="76"/>
+        <player name="L. Boggio" rating="73"/>
+        <player name="J. Millán" rating="73"/>
+        <player name="R. Otero" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Boston River" players="22">
+      <name>Boston River</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>25535000</total_value_eur>
+      <top_players>
+        <player name="M. Vera" rating="69"/>
+        <player name="A. Amado" rating="69"/>
+        <player name="J. Acosta" rating="68"/>
+        <player name="B. Barcia" rating="67"/>
+        <player name="F. Martínez" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Racing Club de Montevideo" players="21">
+      <name>Racing Club de Montevideo</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>19500000</total_value_eur>
+      <top_players>
+        <player name="M. Ferreira" rating="69"/>
+        <player name="G. Cotugno" rating="69"/>
+        <player name="J. Varela" rating="68"/>
+        <player name="T. Espinosa" rating="68"/>
+        <player name="H. Silveira" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Cerro Largo" players="21">
+      <name>Cerro Largo</name>
+      <average_rating>63.2</average_rating>
+      <total_value_eur>16600000</total_value_eur>
+      <top_players>
+        <player name="S. Assís" rating="69"/>
+        <player name="N. Bertocchi" rating="67"/>
+        <player name="F. Bonifazi" rating="66"/>
+        <player name="L. Correa" rating="66"/>
+        <player name="A. Di Pippa" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

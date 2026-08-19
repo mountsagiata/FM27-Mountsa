@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="División de Fútbol Profesional" total_teams="4" generated="2026-05-10">
+  <league_info>
+    <name>División de Fútbol Profesional</name>
+    <total_players>94</total_players>
+    <average_team_rating>63.0</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Bolívar" players="27">
+      <name>Bolívar</name>
+      <average_rating>64.4</average_rating>
+      <total_value_eur>20900000</total_value_eur>
+      <top_players>
+        <player name="M. Cauteruccio" rating="75"/>
+        <player name="D. Cataño" rating="73"/>
+        <player name="C. Lampe" rating="72"/>
+        <player name="D. Batallini" rating="71"/>
+        <player name="P. Rodríguez" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Nacional Potosí" players="18">
+      <name>Nacional Potosí</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>10685000</total_value_eur>
+      <top_players>
+        <player name="D. Hoyos" rating="66"/>
+        <player name="A. Torrico" rating="66"/>
+        <player name="E. Restrepo" rating="66"/>
+        <player name="L. Pavia" rating="66"/>
+        <player name="S. Mustafá" rating="66"/>
+      </top_players>
+    </team>
+    <team name="San Antonio Bulo Bulo" players="26">
+      <name>San Antonio Bulo Bulo</name>
+      <average_rating>62.1</average_rating>
+      <total_value_eur>15820000</total_value_eur>
+      <top_players>
+        <player name="A. Terrazas" rating="67"/>
+        <player name="R. Saracho" rating="67"/>
+        <player name="M. Alonso" rating="66"/>
+        <player name="E. Sánchez" rating="66"/>
+        <player name="H. Rodríguez" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Gualberto Villarroel SJ" players="23">
+      <name>Gualberto Villarroel SJ</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>11980000</total_value_eur>
+      <top_players>
+        <player name="S. Galindo" rating="66"/>
+        <player name="B. Vides" rating="65"/>
+        <player name="B. Poveda" rating="65"/>
+        <player name="F. Arismendi" rating="64"/>
+        <player name="R. Bustos" rating="64"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

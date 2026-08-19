@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Serie B" total_teams="20" generated="2026-05-10">
+  <league_info>
+    <name>Serie B</name>
+    <total_players>553</total_players>
+    <average_team_rating>66.0</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Palermo FC" players="25">
+      <name>Palermo FC</name>
+      <average_rating>69.6</average_rating>
+      <total_value_eur>57809999</total_value_eur>
+      <top_players>
+        <player name="A. Palumbo" rating="74"/>
+        <player name="T. Augello" rating="74"/>
+        <player name="J. Le Douaron" rating="74"/>
+        <player name="J. Pohjanpalo" rating="74"/>
+        <player name="E. Gyasi" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Sampdoria" players="29">
+      <name>Sampdoria</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>48490000</total_value_eur>
+      <top_players>
+        <player name="A. Barák" rating="75"/>
+        <player name="M. Coda" rating="74"/>
+        <player name="J. Ferri" rating="73"/>
+        <player name="N. Ioannou" rating="71"/>
+        <player name="F. Depaoli" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Monza" players="28">
+      <name>Monza</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>72850000</total_value_eur>
+      <top_players>
+        <player name="A. Colpani" rating="78"/>
+        <player name="M. Pessina" rating="76"/>
+        <player name="Dany Mota" rating="75"/>
+        <player name="S. Birindelli" rating="74"/>
+        <player name="G. Caprari" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Venezia" players="27">
+      <name>Venezia</name>
+      <average_rating>68.0</average_rating>
+      <total_value_eur>59520000</total_value_eur>
+      <top_players>
+        <player name="G. Busio" rating="74"/>
+        <player name="Kike Pérez" rating="74"/>
+        <player name="F. Stanković" rating="74"/>
+        <player name="A. Duncan" rating="72"/>
+        <player name="Casas" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Modena" players="26">
+      <name>Modena</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>33915000</total_value_eur>
+      <top_players>
+        <player name="L. Zanimacchia" rating="72"/>
+        <player name="F. Di Mariano" rating="71"/>
+        <player name="F. Zampano" rating="71"/>
+        <player name="L. Chichizola" rating="71"/>
+        <player name="G. Defrel" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Spezia" players="26">
+      <name>Spezia</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>37400000</total_value_eur>
+      <top_players>
+        <player name="S. Esposito" rating="74"/>
+        <player name="G. Lapadula" rating="71"/>
+        <player name="P. Wiśniewski" rating="71"/>
+        <player name="F. Bandinelli" rating="70"/>
+        <player name="Á. Nagy" rating="70"/>
+      </top_players>
+    </team>
+    <team name="SSC Bari" players="29">
+      <name>SSC Bari</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>37545000</total_value_eur>
+      <top_players>
+        <player name="G. Castrovilli" rating="74"/>
+        <player name="A. Partipilo" rating="71"/>
+        <player name="G. Maggiore" rating="71"/>
+        <player name="M. Dorval" rating="71"/>
+        <player name="L. Dickmann" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Catanzaro" players="28">
+      <name>Catanzaro</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>31725000</total_value_eur>
+      <top_players>
+        <player name="F. Di Francesco" rating="74"/>
+        <player name="P. Iemmello" rating="72"/>
+        <player name="M. Pigliacelli" rating="72"/>
+        <player name="M. D'Alessandro" rating="70"/>
+        <player name="G. Di Chiara" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Empoli" players="28">
+      <name>Empoli</name>
+      <average_rating>65.7</average_rating>
+      <total_value_eur>41725000</total_value_eur>
+      <top_players>
+        <player name="Gerard Yepes" rating="71"/>
+        <player name="T. Ebuehi" rating="71"/>
+        <player name="A. Fulignati" rating="70"/>
+        <player name="S. Elia" rating="69"/>
+        <player name="R. Ilie" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Cesena FC" players="23">
+      <name>Cesena FC</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>26595000</total_value_eur>
+      <top_players>
+        <player name="D. Bisoli" rating="72"/>
+        <player name="S. Bastoni" rating="71"/>
+        <player name="G. Zaro" rating="71"/>
+        <player name="M. Castagnetti" rating="70"/>
+        <player name="C. Shpendi" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Carrarese" players="30">
+      <name>Carrarese</name>
+      <average_rating>65.3</average_rating>
+      <total_value_eur>32835000</total_value_eur>
+      <top_players>
+        <player name="N. Schiavi" rating="71"/>
+        <player name="M. Cicconi" rating="70"/>
+        <player name="S. Zanon" rating="69"/>
+        <player name="M. Finotto" rating="68"/>
+        <player name="E. Torregrossa" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Mantova" players="27">
+      <name>Mantova</name>
+      <average_rating>65.3</average_rating>
+      <total_value_eur>31425000</total_value_eur>
+      <top_players>
+        <player name="C. Falletti" rating="71"/>
+        <player name="L. Mancuso" rating="69"/>
+        <player name="D. Mensah" rating="69"/>
+        <player name="F. Galuppini" rating="69"/>
+        <player name="F. Ruocco" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Südtirol" players="25">
+      <name>Südtirol</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>24415000</total_value_eur>
+      <top_players>
+        <player name="D. Casiraghi" rating="72"/>
+        <player name="S. Molina" rating="70"/>
+        <player name="A. Masiello" rating="69"/>
+        <player name="R. Odogwu" rating="69"/>
+        <player name="N. Pietrangeli" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Padova" players="27">
+      <name>Padova</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>25000000</total_value_eur>
+      <top_players>
+        <player name="K. Lasagna" rating="71"/>
+        <player name="L. Crisetig" rating="70"/>
+        <player name="C. Buonaiuto" rating="69"/>
+        <player name="P. Ghiglione" rating="69"/>
+        <player name="M. Bortolussi" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Pescara" players="29">
+      <name>Pescara</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>33925000</total_value_eur>
+      <top_players>
+        <player name="S. Desplanches" rating="71"/>
+        <player name="A. Gravillon" rating="70"/>
+        <player name="L. Valzania" rating="69"/>
+        <player name="D. Merola" rating="69"/>
+        <player name="R. Brosco" rating="69"/>
+      </top_players>
+    </team>
+    <team name="SS Juve Stabia" players="28">
+      <name>SS Juve Stabia</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>33270000</total_value_eur>
+      <top_players>
+        <player name="G. Leone" rating="69"/>
+        <player name="M. Varnier" rating="69"/>
+        <player name="M. Ruggero" rating="69"/>
+        <player name="M. Bellich" rating="69"/>
+        <player name="F. Maistro" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Avellino" players="33">
+      <name>Avellino</name>
+      <average_rating>64.7</average_rating>
+      <total_value_eur>29830000</total_value_eur>
+      <top_players>
+        <player name="G. Tutino" rating="72"/>
+        <player name="R. Insigne" rating="72"/>
+        <player name="G. Panico" rating="68"/>
+        <player name="T. Biasci" rating="68"/>
+        <player name="F. Lescano" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Virtus Entella" players="27">
+      <name>Virtus Entella</name>
+      <average_rating>64.7</average_rating>
+      <total_value_eur>26050000</total_value_eur>
+      <top_players>
+        <player name="A. Benali" rating="70"/>
+        <player name="A. Franzoni" rating="69"/>
+        <player name="T. Fumagalli" rating="69"/>
+        <player name="N. Karić" rating="68"/>
+        <player name="F. Del Frate" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Reggiana" players="29">
+      <name>Reggiana</name>
+      <average_rating>64.3</average_rating>
+      <total_value_eur>28575000</total_value_eur>
+      <top_players>
+        <player name="G. Magnani" rating="74"/>
+        <player name="M. Portanova" rating="69"/>
+        <player name="M. Sampirisi" rating="69"/>
+        <player name="L. Štulac" rating="68"/>
+        <player name="M. Rover" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Frosinone" players="29">
+      <name>Frosinone</name>
+      <average_rating>63.8</average_rating>
+      <total_value_eur>29260000</total_value_eur>
+      <top_players>
+        <player name="G. Calò" rating="69"/>
+        <player name="R. Marchizza" rating="69"/>
+        <player name="N. Corrado" rating="68"/>
+        <player name="D. Biraschi" rating="68"/>
+        <player name="A. Raimondo" rating="68"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

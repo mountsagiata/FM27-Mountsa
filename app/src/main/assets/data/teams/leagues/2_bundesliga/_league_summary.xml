@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="2. Bundesliga" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>2. Bundesliga</name>
+    <total_players>537</total_players>
+    <average_team_rating>65.8</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Hertha BSC" players="30">
+      <name>Hertha BSC</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>54000000</total_value_eur>
+      <top_players>
+        <player name="F. Reese" rating="75"/>
+        <player name="M. Cuisance" rating="72"/>
+        <player name="D. Kownacki" rating="72"/>
+        <player name="J. Brooks" rating="72"/>
+        <player name="P. Seguin" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Fortuna Düsseldorf" players="27">
+      <name>Fortuna Düsseldorf</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>44650000</total_value_eur>
+      <top_players>
+        <player name="T. Oberdorf" rating="72"/>
+        <player name="J. Daland" rating="72"/>
+        <player name="F. Kastenmeier" rating="72"/>
+        <player name="M. Zimmermann" rating="71"/>
+        <player name="F. Muslija" rating="71"/>
+      </top_players>
+    </team>
+    <team name="SV Darmstadt 98" players="28">
+      <name>SV Darmstadt 98</name>
+      <average_rating>67.0</average_rating>
+      <total_value_eur>39575000</total_value_eur>
+      <top_players>
+        <player name="I. Lidberg" rating="73"/>
+        <player name="K. Corredor" rating="73"/>
+        <player name="M. Schuhen" rating="72"/>
+        <player name="F. Nürnberger" rating="71"/>
+        <player name="F. Holland" rating="71"/>
+      </top_players>
+    </team>
+    <team name="VfL Bochum 1848" players="33">
+      <name>VfL Bochum 1848</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>55224999</total_value_eur>
+      <top_players>
+        <player name="I. Sissoko" rating="76"/>
+        <player name="K. Vogt" rating="75"/>
+        <player name="M. Bero" rating="74"/>
+        <player name="M. Wittek" rating="73"/>
+        <player name="T. Horn" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Hannover 96" players="28">
+      <name>Hannover 96</name>
+      <average_rating>66.4</average_rating>
+      <total_value_eur>45500000</total_value_eur>
+      <top_players>
+        <player name="E. Leopold" rating="73"/>
+        <player name="M. Neubauer" rating="73"/>
+        <player name="B. Källman" rating="72"/>
+        <player name="B. Tomiak" rating="71"/>
+        <player name="D. Yokota" rating="70"/>
+      </top_players>
+    </team>
+    <team name="1. FC Kaiserslautern" players="30">
+      <name>1. FC Kaiserslautern</name>
+      <average_rating>66.3</average_rating>
+      <total_value_eur>41174999</total_value_eur>
+      <top_players>
+        <player name="P. Joly" rating="72"/>
+        <player name="M. Ritter" rating="71"/>
+        <player name="S. Sahin" rating="71"/>
+        <player name="N. Skyttä" rating="71"/>
+        <player name="L. Sirch" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Dynamo Dresden" players="25">
+      <name>Dynamo Dresden</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>28590000</total_value_eur>
+      <top_players>
+        <player name="N. Hauptmann" rating="70"/>
+        <player name="V. Šapina" rating="69"/>
+        <player name="C. Daferner" rating="69"/>
+        <player name="D. Kother" rating="69"/>
+        <player name="J. Lemmer" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Holstein Kiel" players="33">
+      <name>Holstein Kiel</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>47825000</total_value_eur>
+      <top_players>
+        <player name="S. Schwab" rating="73"/>
+        <player name="S. Skrzybski" rating="72"/>
+        <player name="A. Bernhardsson" rating="72"/>
+        <player name="J. Tolkin" rating="71"/>
+        <player name="D. Zec" rating="71"/>
+      </top_players>
+    </team>
+    <team name="1. FC Magdeburg" players="36">
+      <name>1. FC Magdeburg</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>44520000</total_value_eur>
+      <top_players>
+        <player name="B. Atik" rating="72"/>
+        <player name="M. Mathisen" rating="72"/>
+        <player name="A. Onaiwu" rating="72"/>
+        <player name="J. Hugonet" rating="71"/>
+        <player name="S. Gnaka" rating="70"/>
+      </top_players>
+    </team>
+    <team name="SV Elversberg" players="27">
+      <name>SV Elversberg</name>
+      <average_rating>65.7</average_rating>
+      <total_value_eur>32860000</total_value_eur>
+      <top_players>
+        <player name="N. Kristof" rating="71"/>
+        <player name="L. Petkov" rating="70"/>
+        <player name="L. Pinckert" rating="70"/>
+        <player name="L. Schnellbacher" rating="69"/>
+        <player name="C. Sickinger" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Eintracht Braunschweig" players="27">
+      <name>Eintracht Braunschweig</name>
+      <average_rating>65.7</average_rating>
+      <total_value_eur>33525000</total_value_eur>
+      <top_players>
+        <player name="L. Tempelmann" rating="71"/>
+        <player name="R. Hoffmann" rating="71"/>
+        <player name="E. Kastrati" rating="69"/>
+        <player name="R. Heußer" rating="68"/>
+        <player name="E. Yardımcı" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Schalke 04" players="31">
+      <name>FC Schalke 04</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>37275000</total_value_eur>
+      <top_players>
+        <player name="K. Karaman" rating="73"/>
+        <player name="M. Sylla" rating="73"/>
+        <player name="F. Porath" rating="72"/>
+        <player name="T. Becker" rating="71"/>
+        <player name="H. Kuruçay" rating="70"/>
+      </top_players>
+    </team>
+    <team name="SC Preußen Münster" players="30">
+      <name>SC Preußen Münster</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>34225000</total_value_eur>
+      <top_players>
+        <player name="J. Hendrix" rating="72"/>
+        <player name="J. Schenk" rating="71"/>
+        <player name="J. Mees" rating="69"/>
+        <player name="M. Meyerhöfer" rating="69"/>
+        <player name="P. Jaeckel" rating="69"/>
+      </top_players>
+    </team>
+    <team name="SpVgg Greuther Fürth" players="28">
+      <name>SpVgg Greuther Fürth</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>32600000</total_value_eur>
+      <top_players>
+        <player name="J. Green" rating="71"/>
+        <player name="B. Hrgota" rating="71"/>
+        <player name="P. Ziereis" rating="71"/>
+        <player name="F. Klaus" rating="70"/>
+        <player name="N. Futkeu" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Karlsruher SC" players="27">
+      <name>Karlsruher SC</name>
+      <average_rating>64.7</average_rating>
+      <total_value_eur>35555000</total_value_eur>
+      <top_players>
+        <player name="M. Wanitzek" rating="76"/>
+        <player name="M. Franke" rating="71"/>
+        <player name="A. Müller" rating="70"/>
+        <player name="S. Jung" rating="70"/>
+        <player name="P. Förster" rating="69"/>
+      </top_players>
+    </team>
+    <team name="1. FC Nürnberg" players="37">
+      <name>1. FC Nürnberg</name>
+      <average_rating>64.6</average_rating>
+      <total_value_eur>48450000</total_value_eur>
+      <top_players>
+        <player name="J. Justvan" rating="73"/>
+        <player name="F. Becker" rating="72"/>
+        <player name="R. Knoche" rating="71"/>
+        <player name="P. Diop" rating="69"/>
+        <player name="H. Koudossou" rating="69"/>
+      </top_players>
+    </team>
+    <team name="DSC Arminia Bielefeld" players="31">
+      <name>DSC Arminia Bielefeld</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>34750000</total_value_eur>
+      <top_players>
+        <player name="M. Mehlem" rating="72"/>
+        <player name="M. Wörl" rating="69"/>
+        <player name="M. Corboz" rating="68"/>
+        <player name="S. Russo" rating="68"/>
+        <player name="T. Handwerker" rating="68"/>
+      </top_players>
+    </team>
+    <team name="SC Paderborn 07" players="29">
+      <name>SC Paderborn 07</name>
+      <average_rating>64.4</average_rating>
+      <total_value_eur>36805000</total_value_eur>
+      <top_players>
+        <player name="R. Obermair" rating="72"/>
+        <player name="F. Götze" rating="72"/>
+        <player name="F. Bilbija" rating="71"/>
+        <player name="C. Brackelmann" rating="70"/>
+        <player name="S. Michel" rating="69"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

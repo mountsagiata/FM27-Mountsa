@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<football_manager_database version="1.0" generated="2026-05-10" total_leagues="42" total_teams="662" total_players="18316">
+  <metadata>
+    <source_file>C:\Users\Administrator\Desktop\data player\data\players.csv</source_file>
+    <total_leagues>42</total_leagues>
+    <total_teams>662</total_teams>
+    <total_players>18316</total_players>
+  </metadata>
+  <leagues>
+    <league name="1. Division" teams="1" players="29">
+      <name>1. Division</name>
+      <folder>1_division</folder>
+      <total_teams>1</total_teams>
+      <total_players>29</total_players>
+    </league>
+    <league name="2. Bundesliga" teams="18" players="537">
+      <name>2. Bundesliga</name>
+      <folder>2_bundesliga</folder>
+      <total_teams>18</total_teams>
+      <total_players>537</total_players>
+    </league>
+    <league name="3. Liga" teams="20" players="547">
+      <name>3. Liga</name>
+      <folder>3_liga</folder>
+      <total_teams>20</total_teams>
+      <total_players>547</total_players>
+    </league>
+    <league name="A-League Men" teams="13" players="302">
+      <name>A-League Men</name>
+      <folder>a_league_men</folder>
+      <total_teams>13</total_teams>
+      <total_players>302</total_players>
+    </league>
+    <league name="Allsvenskan" teams="16" players="424">
+      <name>Allsvenskan</name>
+      <folder>allsvenskan</folder>
+      <total_teams>16</total_teams>
+      <total_players>424</total_players>
+    </league>
+    <league name="Bundesliga" teams="30" players="866">
+      <name>Bundesliga</name>
+      <folder>bundesliga</folder>
+      <total_teams>30</total_teams>
+      <total_players>866</total_players>
+    </league>
+    <league name="Categoría Primera A" teams="4" players="108">
+      <name>Categoría Primera A</name>
+      <folder>categor_a_primera_a</folder>
+      <total_teams>4</total_teams>
+      <total_players>108</total_players>
+    </league>
+    <league name="Championship" teams="24" players="684">
+      <name>Championship</name>
+      <folder>championship</folder>
+      <total_teams>24</total_teams>
+      <total_players>684</total_players>
+    </league>
+    <league name="División Profesional" teams="5" players="126">
+      <name>División Profesional</name>
+      <folder>divisi_n_profesional</folder>
+      <total_teams>5</total_teams>
+      <total_players>126</total_players>
+    </league>
+    <league name="División de Fútbol Profesional" teams="4" players="94">
+      <name>División de Fútbol Profesional</name>
+      <folder>divisi_n_de_f_tbol_profesional</folder>
+      <total_teams>4</total_teams>
+      <total_players>94</total_players>
+    </league>
+    <league name="Ekstraklasa" teams="18" players="483">
+      <name>Ekstraklasa</name>
+      <folder>ekstraklasa</folder>
+      <total_teams>18</total_teams>
+      <total_players>483</total_players>
+    </league>
+    <league name="Eliteserien" teams="16" players="430">
+      <name>Eliteserien</name>
+      <folder>eliteserien</folder>
+      <total_teams>16</total_teams>
+      <total_players>430</total_players>
+    </league>
+    <league name="Eredivisie" teams="18" players="526">
+      <name>Eredivisie</name>
+      <folder>eredivisie</folder>
+      <total_teams>18</total_teams>
+      <total_players>526</total_players>
+    </league>
+    <league name="Hrvatska nogometna liga" teams="2" players="62">
+      <name>Hrvatska nogometna liga</name>
+      <folder>hrvatska_nogometna_liga</folder>
+      <total_teams>2</total_teams>
+      <total_players>62</total_players>
+    </league>
+    <league name="K League 1" teams="12" players="427">
+      <name>K League 1</name>
+      <folder>k_league_1</folder>
+      <total_teams>12</total_teams>
+      <total_players>427</total_players>
+    </league>
+    <league name="La Liga" teams="20" players="554">
+      <name>La Liga</name>
+      <folder>la_liga</folder>
+      <total_teams>20</total_teams>
+      <total_players>554</total_players>
+    </league>
+    <league name="La Liga 2" teams="22" players="628">
+      <name>La Liga 2</name>
+      <folder>la_liga_2</folder>
+      <total_teams>22</total_teams>
+      <total_players>628</total_players>
+    </league>
+    <league name="League One" teams="24" players="672">
+      <name>League One</name>
+      <folder>league_one</folder>
+      <total_teams>24</total_teams>
+      <total_players>672</total_players>
+    </league>
+    <league name="League Two" teams="24" players="648">
+      <name>League Two</name>
+      <folder>league_two</folder>
+      <total_teams>24</total_teams>
+      <total_players>648</total_players>
+    </league>
+    <league name="Liga 1" teams="6" players="146">
+      <name>Liga 1</name>
+      <folder>liga_1</folder>
+      <total_teams>6</total_teams>
+      <total_players>146</total_players>
+    </league>
+    <league name="Liga I" teams="16" players="450">
+      <name>Liga I</name>
+      <folder>liga_i</folder>
+      <total_teams>16</total_teams>
+      <total_players>450</total_players>
+    </league>
+    <league name="Liga Profesional de Fútbol" teams="30" players="944">
+      <name>Liga Profesional de Fútbol</name>
+      <folder>liga_profesional_de_f_tbol</folder>
+      <total_teams>30</total_teams>
+      <total_players>944</total_players>
+    </league>
+    <league name="Ligue 1" teams="18" players="488">
+      <name>Ligue 1</name>
+      <folder>ligue_1</folder>
+      <total_teams>18</total_teams>
+      <total_players>488</total_players>
+    </league>
+    <league name="Ligue 2" teams="18" players="482">
+      <name>Ligue 2</name>
+      <folder>ligue_2</folder>
+      <total_teams>18</total_teams>
+      <total_players>482</total_players>
+    </league>
+    <league name="Major League Soccer" teams="30" players="803">
+      <name>Major League Soccer</name>
+      <folder>major_league_soccer</folder>
+      <total_teams>30</total_teams>
+      <total_players>803</total_players>
+    </league>
+    <league name="Nemzeti Bajnokság I" teams="1" players="33">
+      <name>Nemzeti Bajnokság I</name>
+      <folder>nemzeti_bajnoks_g_i</folder>
+      <total_teams>1</total_teams>
+      <total_players>33</total_players>
+    </league>
+    <league name="Premier Division" teams="10" players="256">
+      <name>Premier Division</name>
+      <folder>premier_division</folder>
+      <total_teams>10</total_teams>
+      <total_players>256</total_players>
+    </league>
+    <league name="Premier League" teams="22" players="609">
+      <name>Premier League</name>
+      <folder>premier_league</folder>
+      <total_teams>22</total_teams>
+      <total_players>609</total_players>
+    </league>
+    <league name="Premiership" teams="12" players="330">
+      <name>Premiership</name>
+      <folder>premiership</folder>
+      <total_teams>12</total_teams>
+      <total_players>330</total_players>
+    </league>
+    <league name="Premyer Liqa" teams="1" players="25">
+      <name>Premyer Liqa</name>
+      <folder>premyer_liqa</folder>
+      <total_teams>1</total_teams>
+      <total_players>25</total_players>
+    </league>
+    <league name="Primeira Liga" teams="18" players="522">
+      <name>Primeira Liga</name>
+      <folder>primeira_liga</folder>
+      <total_teams>18</total_teams>
+      <total_players>522</total_players>
+    </league>
+    <league name="Primera Division" teams="10" players="248">
+      <name>Primera Division</name>
+      <folder>primera_division</folder>
+      <total_teams>10</total_teams>
+      <total_players>248</total_players>
+    </league>
+    <league name="Primera División" teams="5" players="108">
+      <name>Primera División</name>
+      <folder>primera_divisi_n</folder>
+      <total_teams>5</total_teams>
+      <total_players>108</total_players>
+    </league>
+    <league name="Pro League" teams="35" players="1014">
+      <name>Pro League</name>
+      <folder>pro_league</folder>
+      <total_teams>35</total_teams>
+      <total_players>1014</total_players>
+    </league>
+    <league name="První liga" teams="3" players="82">
+      <name>První liga</name>
+      <folder>prvn_liga</folder>
+      <total_teams>3</total_teams>
+      <total_players>82</total_players>
+    </league>
+    <league name="Serie A" teams="25" players="687">
+      <name>Serie A</name>
+      <folder>serie_a</folder>
+      <total_teams>25</total_teams>
+      <total_players>687</total_players>
+    </league>
+    <league name="Serie B" teams="20" players="553">
+      <name>Serie B</name>
+      <folder>serie_b</folder>
+      <total_teams>20</total_teams>
+      <total_players>553</total_players>
+    </league>
+    <league name="Super League" teams="46" players="1299">
+      <name>Super League</name>
+      <folder>super_league</folder>
+      <total_teams>46</total_teams>
+      <total_players>1299</total_players>
+    </league>
+    <league name="Superliga" teams="12" players="310">
+      <name>Superliga</name>
+      <folder>superliga</folder>
+      <total_teams>12</total_teams>
+      <total_players>310</total_players>
+    </league>
+    <league name="Série A" teams="14" players="280">
+      <name>Série A</name>
+      <folder>s_rie_a</folder>
+      <total_teams>14</total_teams>
+      <total_players>280</total_players>
+    </league>
+    <league name="Süper Lig" teams="18" players="469">
+      <name>Süper Lig</name>
+      <folder>s_per_lig</folder>
+      <total_teams>18</total_teams>
+      <total_players>469</total_players>
+    </league>
+    <league name="Veikkausliiga" teams="1" players="31">
+      <name>Veikkausliiga</name>
+      <folder>veikkausliiga</folder>
+      <total_teams>1</total_teams>
+      <total_players>31</total_players>
+    </league>
+  </leagues>
+</football_manager_database>

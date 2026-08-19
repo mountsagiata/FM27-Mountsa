@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="FC Seoul" league="K League 1" total_players="36" generated="2026-05-10">
+  <team_info>
+    <name>FC Seoul</name>
+    <league>K League 1</league>
+    <average_rating>60.0</average_rating>
+    <highest_rating>75</highest_rating>
+    <lowest_rating>47</lowest_rating>
+    <total_value_eur>30660000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="254225">
+      <basic_info>
+        <name>Anderson Oliveira</name>
+        <full_name>Anderson de Oliveira da Silva</full_name>
+        <age>26</age>
+        <nationality>Brazil</nationality>
+        <height_cm>169</height_cm>
+        <weight_kg>69</weight_kg>
+        <position>LM</position>
+        <jersey_number>70.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>75</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>90.0</pace>
+        <shooting>70.0</shooting>
+        <passing>69.0</passing>
+        <dribbling>74.0</dribbling>
+        <defending>33.0</defending>
+        <physical>63.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>6000000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>7500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/254/225/26_120.png</face_url>
+    </player>
+    <player id="73466">
+      <basic_info>
+        <name>Y. Al Arab</name>
+        <full_name>Yazan Al Arabيزن أبو عرب</full_name>
+        <age>29</age>
+        <nationality>Jordan</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>87</weight_kg>
+        <position>RCB</position>
+        <jersey_number>5.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>75</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>79.0</pace>
+        <shooting>29.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>73.0</defending>
+        <physical>83.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>4700000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>5900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/466/26_120.png</face_url>
+    </player>
+    <player id="207494">
+      <basic_info>
+        <name>J. Lingard</name>
+        <full_name>Jesse Ellis Lingard</full_name>
+        <age>32</age>
+        <nationality>England</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>CAM</position>
+        <jersey_number>10.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>74</overall>
+        <potential>74</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>ST</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>73.0</shooting>
+        <passing>72.0</passing>
+        <dribbling>77.0</dribbling>
+        <defending>57.0</defending>
+        <physical>67.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>3300000</value_eur>
+        <wage_eur>9000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>4099999.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/207/494/26_120.png</face_url>
+    </player>
+    <player id="234264">
+      <basic_info>
+        <name>Jeong Seung Won</name>
+        <full_name>Seung-won Jeong정승원 郑世元</full_name>
+        <age>28</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>RM</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>RM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>69.0</shooting>
+        <passing>68.0</passing>
+        <dribbling>70.0</dribbling>
+        <defending>63.0</defending>
+        <physical>78.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1900000</value_eur>
+        <wage_eur>7000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>2400000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/234/264/26_120.png</face_url>
+    </player>
+    <player id="251161">
+      <basic_info>
+        <name>Choi Jun</name>
+        <full_name>Jun Choi최준</full_name>
+        <age>26</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>RB</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>CDM</position>
+        <position>CM</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>82.0</pace>
+        <shooting>50.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>63.0</defending>
+        <physical>75.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1500000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>2000000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/251/161/26_120.png</face_url>
+    </player>
+    <player id="213317">
+      <basic_info>
+        <name>Kim Jin Su</name>
+        <full_name>Jin-su Kim김진수 金珍洙</full_name>
+        <age>33</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>LB</position>
+        <jersey_number>22.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>45.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>64.0</dribbling>
+        <defending>63.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>725000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>906000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/213/317/26_120.png</face_url>
+    </player>
+    <player id="229694">
+      <basic_info>
+        <name>Moon Seon Min</name>
+        <full_name>Seon-min Moon문선민 蒙善民</full_name>
+        <age>33</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>SUB</position>
+        <jersey_number>27.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>90.0</pace>
+        <shooting>69.0</shooting>
+        <passing>55.0</passing>
+        <dribbling>71.0</dribbling>
+        <defending>37.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>875000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/229/694/26_120.png</face_url>
+    </player>
+    <player id="221912">
+      <basic_info>
+        <name>Kang Hyeon Mu</name>
+        <full_name>Hyeon-mu Kang강현무 姜贤茂</full_name>
+        <age>30</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>GK</position>
+        <jersey_number>31.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>925000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>1200000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/221/912/26_120.png</face_url>
+    </player>
+    <player id="243824">
+      <basic_info>
+        <name>Park Soo Il</name>
+        <full_name>Su-il Park박수일</full_name>
+        <age>29</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>63.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>68</overall>
+        <potential>68</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>LB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>80.0</pace>
+        <shooting>55.0</shooting>
+        <passing>64.0</passing>
+        <dribbling>67.0</dribbling>
+        <defending>61.0</defending>
+        <physical>69.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1100000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>1400000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/243/824/26_120.png</face_url>
+    </player>
+    <player id="236757">
+      <basic_info>
+        <name>P. Klimala</name>
+        <full_name>Patryk Klimala</full_name>
+        <age>26</age>
+        <nationality>Poland</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>SUB</position>
+        <jersey_number>32.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>68</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>81.0</pace>
+        <shooting>66.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>30.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1400000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>1900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/236/757/26_120.png</face_url>
+    </player>
+    <player id="245717">
+      <basic_info>
+        <name>Lucas Rodrigues</name>
+        <full_name>Lucas Rodrigues da Silva</full_name>
+        <age>25</age>
+        <nationality>Brazil</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>82</weight_kg>
+        <position>SUB</position>
+        <jersey_number>77.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>66</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>85.0</pace>
+        <shooting>62.0</shooting>
+        <passing>55.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>24.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1000000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>1300000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/245/717/26_120.png</face_url>
+    </player>
+    <player id="227655">
+      <basic_info>
+        <name>M. Dugandžić</name>
+        <full_name>Marko Dugandžić</full_name>
+        <age>31</age>
+        <nationality>Croatia</nationality>
+        <height_cm>190</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>SUB</position>
+        <jersey_number>45.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>65</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>62.0</pace>
+        <shooting>62.0</shooting>
+        <passing>44.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>35.0</defending>
+        <physical>78.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>600000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>750000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/227/655/26_120.png</face_url>
+    </player>
+    <player id="273787">
+      <basic_info>
+        <name>Hwang Do Yun</name>
+        <full_name>Do-yoon Hwang황도윤</full_name>
+        <age>22</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>176</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>LDM</position>
+        <jersey_number>41.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>65</overall>
+        <potential>72</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>74.0</pace>
+        <shooting>48.0</shooting>
+        <passing>61.0</passing>
+        <dribbling>67.0</dribbling>
+        <defending>55.0</defending>
+        <physical>69.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1400000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>2000000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/273/787/26_120.png</face_url>
+    </player>
+    <player id="237101">
+      <basic_info>
+        <name>Lee Seung Mo</name>
+        <full_name>Seung-mo Lee이승모</full_name>
+        <age>27</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>186</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>RDM</position>
+        <jersey_number>8.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>57.0</shooting>
+        <passing>58.0</passing>
+        <dribbling>64.0</dribbling>
+        <defending>59.0</defending>
+        <physical>76.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>600000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>795000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/237/101/26_120.png</face_url>
+    </player>
+    <player id="238576">
+      <basic_info>
+        <name>Jeong Tae Wook</name>
+        <full_name>Tae-wook Jeong정태욱</full_name>
+        <age>28</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>194</height_cm>
+        <weight_kg>92</weight_kg>
+        <position>SUB</position>
+        <jersey_number>18.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>47.0</pace>
+        <shooting>31.0</shooting>
+        <passing>47.0</passing>
+        <dribbling>46.0</dribbling>
+        <defending>61.0</defending>
+        <physical>78.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>450000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2025.0</contract_until>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/238/576/26_120.png</face_url>
+    </player>
+    <player id="234222">
+      <basic_info>
+        <name>Cho Young Wook</name>
+        <full_name>Young-wook Cho조영욱</full_name>
+        <age>26</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>ST</position>
+        <jersey_number>9.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>LW</position>
+        <position>RM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>79.0</pace>
+        <shooting>63.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>28.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>600000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>795000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/234/222/26_120.png</face_url>
+    </player>
+    <player id="228461">
+      <basic_info>
+        <name>Ryu Jae Moon</name>
+        <full_name>Jae-moon Ryu류재문 刘在暮</full_name>
+        <age>31</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>79</weight_kg>
+        <position>SUB</position>
+        <jersey_number>29.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>67.0</pace>
+        <shooting>47.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>60.0</defending>
+        <physical>71.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>325000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>406000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/228/461/26_120.png</face_url>
+    </player>
+    <player id="232997">
+      <basic_info>
+        <name>Lee Han Do</name>
+        <full_name>Han-do Lee이한도 李韩道</full_name>
+        <age>31</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>186</height_cm>
+        <weight_kg>86</weight_kg>
+        <position>LCB</position>
+        <jersey_number>20.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>62</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>64.0</pace>
+        <shooting>38.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>60.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>344000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/232/997/26_120.png</face_url>
+    </player>
+    <player id="238574">
+      <basic_info>
+        <name>Lee Sang Min</name>
+        <full_name>Sang-min Lee이상민</full_name>
+        <age>27</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>82</weight_kg>
+        <position>RES</position>
+        <jersey_number>4.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>59.0</pace>
+        <shooting>25.0</shooting>
+        <passing>41.0</passing>
+        <dribbling>40.0</dribbling>
+        <defending>59.0</defending>
+        <physical>69.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>250000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>331000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/238/574/26_120.png</face_url>
+    </player>
+    <player id="246930">
+      <basic_info>
+        <name>Cheon Seong Hoon</name>
+        <full_name>Seong-hoon Cheon천성훈</full_name>
+        <age>24</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>84</weight_kg>
+        <position>SUB</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>52.0</pace>
+        <shooting>58.0</shooting>
+        <passing>42.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>30.0</defending>
+        <physical>66.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>464000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/930/26_120.png</face_url>
+    </player>
+    <player id="266196">
+      <basic_info>
+        <name>Park Seong Hun</name>
+        <full_name>Seong-hun Park박성훈</full_name>
+        <age>22</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>40.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>34.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>60.0</defending>
+        <physical>65.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>475000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>689000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/266/196/26_120.png</face_url>
+    </player>
+    <player id="234301">
+      <basic_info>
+        <name>Choi Cheol Won</name>
+        <full_name>Cheol-won Choi최철원</full_name>
+        <age>30</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>194</height_cm>
+        <weight_kg>87</weight_kg>
+        <position>SUB</position>
+        <jersey_number>21.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>138000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/234/301/26_120.png</face_url>
+    </player>
+    <player id="255554">
+      <basic_info>
+        <name>Jung Han Min</name>
+        <full_name>Han-min Jung정한민</full_name>
+        <age>24</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>37.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>ST</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>59.0</shooting>
+        <passing>45.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>27.0</defending>
+        <physical>59.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>250000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>363000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/255/554/26_120.png</face_url>
+    </player>
+    <player id="72560">
+      <basic_info>
+        <name>Kang Ju Hyeok</name>
+        <full_name>Ju-hyeok Kang강주혁</full_name>
+        <age>18</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>RES</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>53</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>85.0</pace>
+        <shooting>46.0</shooting>
+        <passing>40.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>24.0</defending>
+        <physical>41.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>220000</value_eur>
+        <wage_eur>750</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>319000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/072/560/26_120.png</face_url>
+    </player>
+    <player id="273788">
+      <basic_info>
+        <name>Son Seung Beom</name>
+        <full_name>Seung-beom Son손승범</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>66</weight_kg>
+        <position>SUB</position>
+        <jersey_number>14.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>66.0</pace>
+        <shooting>45.0</shooting>
+        <passing>48.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>25.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>180000</value_eur>
+        <wage_eur>850</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>261000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/273/788/26_120.png</face_url>
+    </player>
+    <player id="266198">
+      <basic_info>
+        <name>Park Jang Han Gyeol</name>
+        <full_name>Jang Han-gyeol Park박장한결</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>176</height_cm>
+        <weight_kg>64</weight_kg>
+        <position>RES</position>
+        <jersey_number>88.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>40.0</shooting>
+        <passing>54.0</passing>
+        <dribbling>51.0</dribbling>
+        <defending>29.0</defending>
+        <physical>41.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>900</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>189000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/266/198/26_120.png</face_url>
+    </player>
+    <player id="273794">
+      <basic_info>
+        <name>Kim Hyeon Deok</name>
+        <full_name>Hyeon-deok Kim김현덕</full_name>
+        <age>20</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>190</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>RES</position>
+        <jersey_number>15.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>52.0</pace>
+        <shooting>21.0</shooting>
+        <passing>36.0</passing>
+        <dribbling>35.0</dribbling>
+        <defending>50.0</defending>
+        <physical>60.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>120000</value_eur>
+        <wage_eur>800</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>174000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/273/794/26_120.png</face_url>
+    </player>
+    <player id="71007">
+      <basic_info>
+        <name>Choi Jun Yeong</name>
+        <full_name>Jun-yeong Choi최준영</full_name>
+        <age>19</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>82</weight_kg>
+        <position>RES</position>
+        <jersey_number>66.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>62.0</pace>
+        <shooting>25.0</shooting>
+        <passing>34.0</passing>
+        <dribbling>35.0</dribbling>
+        <defending>52.0</defending>
+        <physical>60.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>120000</value_eur>
+        <wage_eur>750</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>174000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/007/26_120.png</face_url>
+    </player>
+    <player id="76892">
+      <basic_info>
+        <name>Yun Ki Wook</name>
+        <full_name>Ki-wook Yun윤기욱</full_name>
+        <age>18</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>190</height_cm>
+        <weight_kg>90</weight_kg>
+        <position>RES</position>
+        <jersey_number>71.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>90000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>169000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/076/892/26_120.png</face_url>
+    </player>
+    <player id="80158">
+      <basic_info>
+        <name>Kim Jee Won</name>
+        <full_name>Jee Won Kim</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>190</height_cm>
+        <weight_kg>83</weight_kg>
+        <position>RES</position>
+        <jersey_number>36.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>61.0</pace>
+        <shooting>22.0</shooting>
+        <passing>26.0</passing>
+        <dribbling>30.0</dribbling>
+        <defending>50.0</defending>
+        <physical>62.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>145000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/080/158/26_120.png</face_url>
+    </player>
+    <player id="76886">
+      <basic_info>
+        <name>G. Samuel</name>
+        <full_name>Gbato Seloh Samuel</full_name>
+        <age>18</age>
+        <nationality>Côte d&amp;apos;Ivoire</nationality>
+        <height_cm>174</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RES</position>
+        <jersey_number>28.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>RW</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>48.0</shooting>
+        <passing>40.0</passing>
+        <dribbling>54.0</dribbling>
+        <defending>23.0</defending>
+        <physical>50.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>120000</value_eur>
+        <wage_eur>700</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>225000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/076/886/26_120.png</face_url>
+    </player>
+    <player id="273795">
+      <basic_info>
+        <name>Cho Young Kwang</name>
+        <full_name>Young-kwang Cho조영광</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>24.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>25.0</shooting>
+        <passing>34.0</passing>
+        <dribbling>48.0</dribbling>
+        <defending>45.0</defending>
+        <physical>50.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>145000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/273/795/26_120.png</face_url>
+    </player>
+    <player id="71009">
+      <basic_info>
+        <name>Bae Hyun Seo</name>
+        <full_name>Hyun-seo Bae배현서</full_name>
+        <age>20</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>172</height_cm>
+        <weight_kg>66</weight_kg>
+        <position>RES</position>
+        <jersey_number>33.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>RB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>25.0</shooting>
+        <passing>30.0</passing>
+        <dribbling>46.0</dribbling>
+        <defending>49.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>206000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/009/26_120.png</face_url>
+    </player>
+    <player id="71010">
+      <basic_info>
+        <name>Heo Dong Min</name>
+        <full_name>Dong-min Her허동민</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>RES</position>
+        <jersey_number>26.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>59</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>56.0</pace>
+        <shooting>32.0</shooting>
+        <passing>44.0</passing>
+        <dribbling>45.0</dribbling>
+        <defending>45.0</defending>
+        <physical>58.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>145000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/010/26_120.png</face_url>
+    </player>
+    <player id="267946">
+      <basic_info>
+        <name>Lim Jun Sub</name>
+        <full_name>Joon-seob Im임준섭</full_name>
+        <age>21</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>194</height_cm>
+        <weight_kg>90</weight_kg>
+        <position>RES</position>
+        <jersey_number>25.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>48</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>60000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>87000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/267/946/26_120.png</face_url>
+    </player>
+    <player id="71008">
+      <basic_info>
+        <name>Min Ji Hoon</name>
+        <full_name>Ji-hoon Min민지훈</full_name>
+        <age>20</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>72.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>47</overall>
+        <potential>58</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>61.0</pace>
+        <shooting>34.0</shooting>
+        <passing>51.0</passing>
+        <dribbling>51.0</dribbling>
+        <defending>33.0</defending>
+        <physical>43.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>700</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>145000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/008/26_120.png</face_url>
+    </player>
+  </players>
+</team>

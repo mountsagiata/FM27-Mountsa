@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Premiership" total_teams="12" generated="2026-05-10">
+  <league_info>
+    <name>Premiership</name>
+    <total_players>330</total_players>
+    <average_team_rating>64.1</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Celtic" players="30">
+      <name>Celtic</name>
+      <average_rating>72.1</average_rating>
+      <total_value_eur>176200000</total_value_eur>
+      <top_players>
+        <player name="C. McGregor" rating="79"/>
+        <player name="D. Maeda" rating="79"/>
+        <player name="C. Carter-Vickers" rating="79"/>
+        <player name="K. Schmeichel" rating="79"/>
+        <player name="A. Johnston" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Rangers FC" players="28">
+      <name>Rangers FC</name>
+      <average_rating>70.5</average_rating>
+      <total_value_eur>105400000</total_value_eur>
+      <top_players>
+        <player name="J. Tavernier" rating="77"/>
+        <player name="N. Raskin" rating="77"/>
+        <player name="O. Antman" rating="75"/>
+        <player name="J. Butland" rating="75"/>
+        <player name="J. Rothwell" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Hearts" players="32">
+      <name>Hearts</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>36485000</total_value_eur>
+      <top_players>
+        <player name="L. Shankland" rating="73"/>
+        <player name="F. Kent" rating="72"/>
+        <player name="C. Devlin" rating="71"/>
+        <player name="B. Baningime" rating="71"/>
+        <player name="A. Kyziridis" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Hibernian" players="27">
+      <name>Hibernian</name>
+      <average_rating>65.4</average_rating>
+      <total_value_eur>28275000</total_value_eur>
+      <top_players>
+        <player name="J. McGrath" rating="71"/>
+        <player name="M. Boyle" rating="71"/>
+        <player name="N. Cadden" rating="70"/>
+        <player name="D. Barlaser" rating="70"/>
+        <player name="É. Youan" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Aberdeen" players="28">
+      <name>Aberdeen</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>38435000</total_value_eur>
+      <top_players>
+        <player name="J. Karlsson" rating="75"/>
+        <player name="S. Armstrong" rating="71"/>
+        <player name="K. Nisbet" rating="71"/>
+        <player name="N. Milanović" rating="71"/>
+        <player name="G. Shinnie" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Dundee United FC" players="24">
+      <name>Dundee United FC</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>21065000</total_value_eur>
+      <top_players>
+        <player name="W. Ferry" rating="69"/>
+        <player name="R. Strain" rating="68"/>
+        <player name="J. Eskesen" rating="67"/>
+        <player name="V. Ševelj" rating="67"/>
+        <player name="I. Dolček" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Motherwell FC" players="30">
+      <name>Motherwell FC</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>22155000</total_value_eur>
+      <top_players>
+        <player name="A. Stamatelopoulos" rating="68"/>
+        <player name="S. Welsh" rating="68"/>
+        <player name="R. Charles-Cook" rating="67"/>
+        <player name="C. Slattery" rating="66"/>
+        <player name="J. McGhee" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Kilmarnock" players="26">
+      <name>Kilmarnock</name>
+      <average_rating>62.2</average_rating>
+      <total_value_eur>16730000</total_value_eur>
+      <top_players>
+        <player name="M. Kennedy" rating="67"/>
+        <player name="D. Watson" rating="66"/>
+        <player name="L. Mayo" rating="66"/>
+        <player name="K. Magennis" rating="65"/>
+        <player name="B. Lyons" rating="65"/>
+      </top_players>
+    </team>
+    <team name="St. Mirren" players="23">
+      <name>St. Mirren</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>13050000</total_value_eur>
+      <top_players>
+        <player name="M. O'Hara" rating="68"/>
+        <player name="K. Baccus" rating="66"/>
+        <player name="K. Phillips" rating="66"/>
+        <player name="S. Tanser" rating="65"/>
+        <player name="M. Fraser" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Dundee FC" players="25">
+      <name>Dundee FC</name>
+      <average_rating>61.5</average_rating>
+      <total_value_eur>14675000</total_value_eur>
+      <top_players>
+        <player name="Y. Dhanda" rating="67"/>
+        <player name="S. Murray" rating="67"/>
+        <player name="E. Hamilton" rating="65"/>
+        <player name="P. Digby" rating="64"/>
+        <player name="C. Robertson" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Livingston FC" players="27">
+      <name>Livingston FC</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>11350000</total_value_eur>
+      <top_players>
+        <player name="G. Carey" rating="68"/>
+        <player name="J. Prior" rating="68"/>
+        <player name="D. Wilson" rating="67"/>
+        <player name="M. Sylla" rating="66"/>
+        <player name="R. McGowan" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Falkirk" players="30">
+      <name>Falkirk</name>
+      <average_rating>58.9</average_rating>
+      <total_value_eur>10215000</total_value_eur>
+      <top_players>
+        <player name="S. Arfield" rating="68"/>
+        <player name="S. Bain" rating="66"/>
+        <player name="L. Neilson" rating="64"/>
+        <player name="C. Miller" rating="63"/>
+        <player name="B. Graham" rating="63"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

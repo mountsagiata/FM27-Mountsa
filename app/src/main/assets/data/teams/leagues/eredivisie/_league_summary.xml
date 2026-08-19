@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Eredivisie" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Eredivisie</name>
+    <total_players>526</total_players>
+    <average_team_rating>66.3</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="PSV" players="27">
+      <name>PSV</name>
+      <average_rating>73.1</average_rating>
+      <total_value_eur>252000000</total_value_eur>
+      <top_players>
+        <player name="I. Perišić" rating="81"/>
+        <player name="J. Schouten" rating="80"/>
+        <player name="Mauro Júnior" rating="79"/>
+        <player name="S. Dest" rating="79"/>
+        <player name="I. Saibari" rating="79"/>
+      </top_players>
+    </team>
+    <team name="Feyenoord" players="33">
+      <name>Feyenoord</name>
+      <average_rating>71.6</average_rating>
+      <total_value_eur>204299999</total_value_eur>
+      <top_players>
+        <player name="Q. Timber" rating="80"/>
+        <player name="S. Steijn" rating="78"/>
+        <player name="Hwang In Beom" rating="77"/>
+        <player name="C. Larin" rating="77"/>
+        <player name="A. Hadj-Moussa" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Ajax" players="30">
+      <name>Ajax</name>
+      <average_rating>71.3</average_rating>
+      <total_value_eur>196250000</total_value_eur>
+      <top_players>
+        <player name="K. Taylor" rating="78"/>
+        <player name="S. Berghuis" rating="78"/>
+        <player name="W. Weghorst" rating="78"/>
+        <player name="J. Šutalo" rating="78"/>
+        <player name="D. Klaassen" rating="77"/>
+      </top_players>
+    </team>
+    <team name="AZ Alkmaar" players="29">
+      <name>AZ Alkmaar</name>
+      <average_rating>69.2</average_rating>
+      <total_value_eur>123090000</total_value_eur>
+      <top_players>
+        <player name="J. Clasie" rating="79"/>
+        <player name="W. Goes" rating="77"/>
+        <player name="S. Mijnans" rating="75"/>
+        <player name="S. Maikuma" rating="74"/>
+        <player name="T. Parrott" rating="74"/>
+      </top_players>
+    </team>
+    <team name="FC Twente" players="28">
+      <name>FC Twente</name>
+      <average_rating>68.3</average_rating>
+      <total_value_eur>61265000</total_value_eur>
+      <top_players>
+        <player name="L. Unnerstall" rating="78"/>
+        <player name="D. Rots" rating="74"/>
+        <player name="B. van Rooij" rating="74"/>
+        <player name="R. Zerrouki" rating="73"/>
+        <player name="R. van Wolfswinkel" rating="73"/>
+      </top_players>
+    </team>
+    <team name="FC Utrecht" players="33">
+      <name>FC Utrecht</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>86925000</total_value_eur>
+      <top_players>
+        <player name="S. Haller" rating="77"/>
+        <player name="S. El Karouani" rating="75"/>
+        <player name="Y. Cathline" rating="75"/>
+        <player name="M. van der Hoorn" rating="75"/>
+        <player name="V. Barkas" rating="74"/>
+      </top_players>
+    </team>
+    <team name="NEC Nijmegen" players="31">
+      <name>NEC Nijmegen</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>48500000</total_value_eur>
+      <top_players>
+        <player name="J. Cillessen" rating="79"/>
+        <player name="T. Chery" rating="74"/>
+        <player name="P. Sandler" rating="74"/>
+        <player name="K. Sano" rating="71"/>
+        <player name="D. Proper" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Sparta Rotterdam" players="26">
+      <name>Sparta Rotterdam</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>33575000</total_value_eur>
+      <top_players>
+        <player name="P. van Aanholt" rating="72"/>
+        <player name="T. Lauritsen" rating="72"/>
+        <player name="J. Drommel" rating="72"/>
+        <player name="J. Toornstra" rating="69"/>
+        <player name="J. Kitolano" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Go Ahead Eagles" players="30">
+      <name>Go Ahead Eagles</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>48350000</total_value_eur>
+      <top_players>
+        <player name="J. Breum" rating="74"/>
+        <player name="M. Meulensteen" rating="72"/>
+        <player name="M. Deijl" rating="72"/>
+        <player name="V. Edvardsen" rating="72"/>
+        <player name="J. Kramer" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Fortuna Sittard" players="31">
+      <name>Fortuna Sittard</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>36750000</total_value_eur>
+      <top_players>
+        <player name="M. Ihattaren" rating="71"/>
+        <player name="A. Halilović" rating="71"/>
+        <player name="M. Branderhorst" rating="71"/>
+        <player name="D. Sinkgraven" rating="69"/>
+        <player name="K. Peterson" rating="69"/>
+      </top_players>
+    </team>
+    <team name="SC Heerenveen" players="27">
+      <name>SC Heerenveen</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>37650000</total_value_eur>
+      <top_players>
+        <player name="R. Meerveld" rating="71"/>
+        <player name="J. van Overeem" rating="70"/>
+        <player name="J. Trenskow" rating="69"/>
+        <player name="D. Vente" rating="69"/>
+        <player name="O. Braude" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Heracles Almelo" players="27">
+      <name>Heracles Almelo</name>
+      <average_rating>64.4</average_rating>
+      <total_value_eur>27450000</total_value_eur>
+      <top_players>
+        <player name="J. Reine-Adélaïde" rating="70"/>
+        <player name="L. Kulenović" rating="69"/>
+        <player name="J. Hornkamp" rating="68"/>
+        <player name="A. Van Hoorenbeeck" rating="68"/>
+        <player name="F. de Keijzer" rating="68"/>
+      </top_players>
+    </team>
+    <team name="NAC Breda" players="30">
+      <name>NAC Breda</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>30450000</total_value_eur>
+      <top_players>
+        <player name="L. Holtby" rating="70"/>
+        <player name="L. Greiml" rating="69"/>
+        <player name="C. Leemans" rating="68"/>
+        <player name="S. van Hooijdonk" rating="68"/>
+        <player name="D. Bielica" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Excelsior" players="29">
+      <name>Excelsior</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>36150000</total_value_eur>
+      <top_players>
+        <player name="C. Nadje" rating="68"/>
+        <player name="M. Tielemans" rating="68"/>
+        <player name="S. Mitrović" rating="68"/>
+        <player name="D. Sanches Fernandes" rating="68"/>
+        <player name="C. Widell" rating="68"/>
+      </top_players>
+    </team>
+    <team name="PEC Zwolle" players="29">
+      <name>PEC Zwolle</name>
+      <average_rating>63.7</average_rating>
+      <total_value_eur>34150000</total_value_eur>
+      <top_players>
+        <player name="J. Schendelaar" rating="72"/>
+        <player name="Jamiro Monteiro" rating="69"/>
+        <player name="Z. Buurmeester" rating="69"/>
+        <player name="S. Graves" rating="68"/>
+        <player name="D. Mbayo" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Groningen" players="30">
+      <name>FC Groningen</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>35325000</total_value_eur>
+      <top_players>
+        <player name="E. Vaessen" rating="70"/>
+        <player name="S. Resink" rating="69"/>
+        <player name="T. Land" rating="68"/>
+        <player name="M. Peersman" rating="68"/>
+        <player name="O. Zawada" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Volendam" players="29">
+      <name>FC Volendam</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>26250000</total_value_eur>
+      <top_players>
+        <player name="X. Mbuyamba" rating="70"/>
+        <player name="H. Veerman" rating="68"/>
+        <player name="B. Kuwas" rating="67"/>
+        <player name="R. Mühren" rating="67"/>
+        <player name="Y. Leliendal" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Telstar" players="27">
+      <name>Telstar</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>19315000</total_value_eur>
+      <top_players>
+        <player name="D. Bakker" rating="67"/>
+        <player name="R. Koeman Jr." rating="67"/>
+        <player name="J. Hardeveld" rating="66"/>
+        <player name="J. van de Kamp" rating="66"/>
+        <player name="T. Noslin" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

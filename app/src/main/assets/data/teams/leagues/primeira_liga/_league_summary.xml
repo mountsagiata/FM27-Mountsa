@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Primeira Liga" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Primeira Liga</name>
+    <total_players>522</total_players>
+    <average_team_rating>67.9</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Sporting CP" players="28">
+      <name>Sporting CP</name>
+      <average_rating>75.8</average_rating>
+      <total_value_eur>446400000</total_value_eur>
+      <top_players>
+        <player name="Pedro Gonçalves" rating="83"/>
+        <player name="M. Hjulmand" rating="83"/>
+        <player name="Trincão" rating="82"/>
+        <player name="Gonçalo Inácio" rating="81"/>
+        <player name="Rui Silva" rating="81"/>
+      </top_players>
+    </team>
+    <team name="SL Benfica" players="31">
+      <name>SL Benfica</name>
+      <average_rating>73.1</average_rating>
+      <total_value_eur>388800000</total_value_eur>
+      <top_players>
+        <player name="V. Pavlidis" rating="82"/>
+        <player name="D. Lukébakio" rating="82"/>
+        <player name="N. Otamendi" rating="82"/>
+        <player name="F. Aursnes" rating="80"/>
+        <player name="G. Sudakov" rating="80"/>
+      </top_players>
+    </team>
+    <team name="FC Porto" players="28">
+      <name>FC Porto</name>
+      <average_rating>72.6</average_rating>
+      <total_value_eur>270900000</total_value_eur>
+      <top_players>
+        <player name="Diogo Costa" rating="84"/>
+        <player name="A. Varela" rating="79"/>
+        <player name="Samu" rating="79"/>
+        <player name="Francisco Moura" rating="78"/>
+        <player name="L. de Jong" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Sporting Clube de Braga" players="29">
+      <name>Sporting Clube de Braga</name>
+      <average_rating>71.8</average_rating>
+      <total_value_eur>176324999</total_value_eur>
+      <top_players>
+        <player name="Ricardo Horta" rating="81"/>
+        <player name="S. Banza" rating="81"/>
+        <player name="R. Zalazar" rating="79"/>
+        <player name="João Moutinho" rating="77"/>
+        <player name="Víctor Gómez" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Santa Clara" players="26">
+      <name>Santa Clara</name>
+      <average_rating>67.7</average_rating>
+      <total_value_eur>50450000</total_value_eur>
+      <top_players>
+        <player name="Gabriel Silva" rating="74"/>
+        <player name="Vinícius Lopes" rating="73"/>
+        <player name="Gabriel Batista" rating="73"/>
+        <player name="Matheus Araújo" rating="72"/>
+        <player name="Sidney Lima" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Rio Ave FC" players="29">
+      <name>Rio Ave FC</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>61300000</total_value_eur>
+      <top_players>
+        <player name="Clayton" rating="75"/>
+        <player name="M. Vrousai" rating="72"/>
+        <player name="J. Brabec" rating="72"/>
+        <player name="O. Richards" rating="72"/>
+        <player name="A. Ntoi" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC Arouca" players="26">
+      <name>FC Arouca</name>
+      <average_rating>67.5</average_rating>
+      <total_value_eur>47550000</total_value_eur>
+      <top_players>
+        <player name="David Simão" rating="73"/>
+        <player name="Tiago Esgaio" rating="73"/>
+        <player name="N. Mantl" rating="72"/>
+        <player name="A. Trezza" rating="71"/>
+        <player name="José Fontán" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Casa Pia" players="31">
+      <name>Casa Pia</name>
+      <average_rating>67.0</average_rating>
+      <total_value_eur>43635000</total_value_eur>
+      <top_players>
+        <player name="Cassiano" rating="72"/>
+        <player name="José Fonte" rating="72"/>
+        <player name="Larrazabal" rating="71"/>
+        <player name="S. Pérez" rating="71"/>
+        <player name="D. Tchamba" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Famalicão" players="31">
+      <name>Famalicão</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>75400000</total_value_eur>
+      <top_players>
+        <player name="Gustavo Sá" rating="74"/>
+        <player name="Óscar Aranda" rating="74"/>
+        <player name="Sorriso" rating="74"/>
+        <player name="J. de Haas" rating="73"/>
+        <player name="Gustavo Garcia" rating="72"/>
+      </top_players>
+    </team>
+    <team name="AVS Futebol SAD" players="26">
+      <name>AVS Futebol SAD</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>38130000</total_value_eur>
+      <top_players>
+        <player name="Aderllan Santos" rating="72"/>
+        <player name="Kiki" rating="70"/>
+        <player name="Bruno Lourenço" rating="70"/>
+        <player name="Algobia" rating="70"/>
+        <player name="Jaume Grau" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Moreirense FC" players="25">
+      <name>Moreirense FC</name>
+      <average_rating>66.7</average_rating>
+      <total_value_eur>42220000</total_value_eur>
+      <top_players>
+        <player name="Alan" rating="74"/>
+        <player name="Maracás" rating="72"/>
+        <player name="L. Ofori" rating="71"/>
+        <player name="Kiko Bondoso" rating="71"/>
+        <player name="Guilherme Schettine" rating="71"/>
+      </top_players>
+    </team>
+    <team name="GD Estoril Praia" players="32">
+      <name>GD Estoril Praia</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>49800000</total_value_eur>
+      <top_players>
+        <player name="Pizzi" rating="73"/>
+        <player name="J. Holsgrove" rating="73"/>
+        <player name="R. Guitane" rating="73"/>
+        <player name="Joel Robles" rating="73"/>
+        <player name="Xeka" rating="72"/>
+      </top_players>
+    </team>
+    <team name="CD Tondela" players="28">
+      <name>CD Tondela</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>35700000</total_value_eur>
+      <top_players>
+        <player name="Rony Lopes" rating="73"/>
+        <player name="J. Siebatcheu" rating="73"/>
+        <player name="Bebeto" rating="70"/>
+        <player name="João Talocha" rating="70"/>
+        <player name="João Afonso" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Gil Vicente FC" players="29">
+      <name>Gil Vicente FC</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>51525000</total_value_eur>
+      <top_players>
+        <player name="Andrew" rating="75"/>
+        <player name="G. Konan" rating="72"/>
+        <player name="Murilo" rating="71"/>
+        <player name="Luís Esteves" rating="70"/>
+        <player name="Pablo Felipe" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Vitória SC" players="28">
+      <name>Vitória SC</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>42400000</total_value_eur>
+      <top_players>
+        <player name="Samu" rating="73"/>
+        <player name="Nuno Santos" rating="72"/>
+        <player name="João Mendes" rating="72"/>
+        <player name="Gustavo Silva" rating="71"/>
+        <player name="Nélson Oliveira" rating="71"/>
+      </top_players>
+    </team>
+    <team name="CD Nacional" players="30">
+      <name>CD Nacional</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>38005000</total_value_eur>
+      <top_players>
+        <player name="Lucas França" rating="75"/>
+        <player name="Zé Vitor" rating="71"/>
+        <player name="Liziero" rating="70"/>
+        <player name="Joel Silva" rating="70"/>
+        <player name="J. Ramírez" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Estrela da Amadora" players="31">
+      <name>Estrela da Amadora</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>38385000</total_value_eur>
+      <top_players>
+        <player name="Kikas" rating="71"/>
+        <player name="Jovane Cabral" rating="70"/>
+        <player name="I. Stoica" rating="70"/>
+        <player name="Rodrigo Pinho" rating="70"/>
+        <player name="Nilton Varela" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Alverca" players="34">
+      <name>Alverca</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>41725000</total_value_eur>
+      <top_players>
+        <player name="Lincoln" rating="73"/>
+        <player name="Chiquinho" rating="72"/>
+        <player name="Sergi Gómez" rating="72"/>
+        <player name="Chissumba" rating="70"/>
+        <player name="André Gomes" rating="69"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

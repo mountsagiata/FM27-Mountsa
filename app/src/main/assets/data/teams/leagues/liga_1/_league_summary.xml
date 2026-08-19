@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Liga 1" total_teams="6" generated="2026-05-10">
+  <league_info>
+    <name>Liga 1</name>
+    <total_players>146</total_players>
+    <average_team_rating>66.4</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Universitario de Deportes" players="25">
+      <name>Universitario de Deportes</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>29410000</total_value_eur>
+      <top_players>
+        <player name="A. Polo" rating="72"/>
+        <player name="J. Concha" rating="72"/>
+        <player name="E. Flores" rating="72"/>
+        <player name="A. Valera" rating="72"/>
+        <player name="W. Riveros" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Alianza Lima" players="30">
+      <name>Alianza Lima</name>
+      <average_rating>67.3</average_rating>
+      <total_value_eur>31675000</total_value_eur>
+      <top_players>
+        <player name="S. Peña" rating="73"/>
+        <player name="H. Barcos" rating="73"/>
+        <player name="C. Zambrano" rating="73"/>
+        <player name="P. Guerrero" rating="72"/>
+        <player name="G. Viscarra" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Sporting Cristal" players="22">
+      <name>Sporting Cristal</name>
+      <average_rating>67.1</average_rating>
+      <total_value_eur>32750000</total_value_eur>
+      <top_players>
+        <player name="S. González" rating="72"/>
+        <player name="M. Távara" rating="71"/>
+        <player name="C. Gonzáles" rating="71"/>
+        <player name="Y. Yotún" rating="70"/>
+        <player name="N. Pasquini" rating="70"/>
+      </top_players>
+    </team>
+    <team name="FBC Melgar" players="23">
+      <name>FBC Melgar</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>23475000</total_value_eur>
+      <top_players>
+        <player name="C. Bordacahar" rating="73"/>
+        <player name="P. Barrios" rating="72"/>
+        <player name="C. Cáceda" rating="72"/>
+        <player name="B. Cuesta" rating="71"/>
+        <player name="T. Martínez" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Cienciano" players="23">
+      <name>Cienciano</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>16015000</total_value_eur>
+      <top_players>
+        <player name="A. Hohberg" rating="71"/>
+        <player name="C. Garcés" rating="70"/>
+        <player name="C. Torrejón" rating="68"/>
+        <player name="L. Benítes" rating="68"/>
+        <player name="L. Galeano" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Atlético Grau" players="23">
+      <name>Atlético Grau</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>15740000</total_value_eur>
+      <top_players>
+        <player name="N. Bandiera" rating="69"/>
+        <player name="P. Álvarez" rating="69"/>
+        <player name="R. Tapia" rating="68"/>
+        <player name="R. Guarderas" rating="67"/>
+        <player name="J. Garro" rating="67"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

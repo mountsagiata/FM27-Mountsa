@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Superliga" total_teams="12" generated="2026-05-10">
+  <league_info>
+    <name>Superliga</name>
+    <total_players>310</total_players>
+    <average_team_rating>64.9</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="FC Midtjylland" players="24">
+      <name>FC Midtjylland</name>
+      <average_rating>69.2</average_rating>
+      <total_value_eur>64310000</total_value_eur>
+      <top_players>
+        <player name="P. Billing" rating="75"/>
+        <player name="K. Mbabu" rating="73"/>
+        <player name="A. Şimşir" rating="73"/>
+        <player name="M. Sørensen" rating="73"/>
+        <player name="D. Osorio" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC København" players="27">
+      <name>FC København</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>73125000</total_value_eur>
+      <top_players>
+        <player name="D. Kotarski" rating="77"/>
+        <player name="M. Elyounoussi" rating="76"/>
+        <player name="T. Delaney" rating="75"/>
+        <player name="Gabriel Pereira" rating="74"/>
+        <player name="P. Hatzidiakos" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Aarhus Gymnastikforening" players="23">
+      <name>Aarhus Gymnastikforening</name>
+      <average_rating>67.1</average_rating>
+      <total_value_eur>30225000</total_value_eur>
+      <top_players>
+        <player name="G. Links" rating="72"/>
+        <player name="P. Mortensen" rating="72"/>
+        <player name="F. Tingager" rating="72"/>
+        <player name="F. Beijmo" rating="71"/>
+        <player name="N. Poulsen" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Brøndby IF" players="24">
+      <name>Brøndby IF</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>37375000</total_value_eur>
+      <top_players>
+        <player name="M. Gregoritsch" rating="75"/>
+        <player name="N. Vallys" rating="73"/>
+        <player name="M. Köhlert" rating="72"/>
+        <player name="P. Pentz" rating="72"/>
+        <player name="D. Wass" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Randers FC" players="26">
+      <name>Randers FC</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>30075000</total_value_eur>
+      <top_players>
+        <player name="J. Björkengren" rating="72"/>
+        <player name="W. Dammers" rating="71"/>
+        <player name="A. Rømer" rating="71"/>
+        <player name="D. Høegh" rating="71"/>
+        <player name="M. Greve" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Viborg FF" players="24">
+      <name>Viborg FF</name>
+      <average_rating>64.2</average_rating>
+      <total_value_eur>26750000</total_value_eur>
+      <top_players>
+        <player name="J. Mbom" rating="69"/>
+        <player name="M. Hoedemakers" rating="68"/>
+        <player name="D. Anyembe" rating="68"/>
+        <player name="O. Bundgaard" rating="67"/>
+        <player name="T. Jørgensen" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Nordsjælland" players="26">
+      <name>FC Nordsjælland</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>30780000</total_value_eur>
+      <top_players>
+        <player name="N. Røjkjær" rating="72"/>
+        <player name="A. Lind" rating="72"/>
+        <player name="A. Hansen" rating="71"/>
+        <player name="M. Brink" rating="70"/>
+        <player name="O. Solbakken" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Odense Boldklub" players="25">
+      <name>Odense Boldklub</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>22710000</total_value_eur>
+      <top_players>
+        <player name="R. Falk" rating="72"/>
+        <player name="J. Arp" rating="68"/>
+        <player name="J. Bonde" rating="67"/>
+        <player name="J. Grot" rating="67"/>
+        <player name="J. Niemiec" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Silkeborg IF" players="28">
+      <name>Silkeborg IF</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>28915000</total_value_eur>
+      <top_players>
+        <player name="T. Adamsen" rating="70"/>
+        <player name="N. Larsen" rating="70"/>
+        <player name="Y. Bakiz" rating="69"/>
+        <player name="J. Andersen" rating="68"/>
+        <player name="R. Al Hajj" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Vejle Boldklub" players="32">
+      <name>Vejle Boldklub</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>27625000</total_value_eur>
+      <top_players>
+        <player name="L. Nielsen" rating="69"/>
+        <player name="A. Hjulsager" rating="68"/>
+        <player name="V. Lund" rating="68"/>
+        <player name="C. Sørensen" rating="67"/>
+        <player name="I. Vekić" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Sønderjyske Fodbold" players="25">
+      <name>Sønderjyske Fodbold</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>19995000</total_value_eur>
+      <top_players>
+        <player name="L. Qamili" rating="68"/>
+        <player name="M. Jensen" rating="67"/>
+        <player name="S. Emini" rating="66"/>
+        <player name="D. Grétarsson" rating="66"/>
+        <player name="R. Vinderslev" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Fredericia" players="26">
+      <name>Fredericia</name>
+      <average_rating>61.3</average_rating>
+      <total_value_eur>16225000</total_value_eur>
+      <top_players>
+        <player name="E. Green" rating="68"/>
+        <player name="M. Opondo" rating="64"/>
+        <player name="S. Crone" rating="64"/>
+        <player name="F. Rieper" rating="64"/>
+        <player name="F. Winther" rating="63"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

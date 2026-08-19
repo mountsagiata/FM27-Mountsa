@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="New York City FC" league="Major League Soccer" total_players="27" generated="2026-05-10">
+  <team_info>
+    <name>New York City FC</name>
+    <league>Major League Soccer</league>
+    <average_rating>63.3</average_rating>
+    <highest_rating>75</highest_rating>
+    <lowest_rating>51</lowest_rating>
+    <total_value_eur>35085000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="257866">
+      <basic_info>
+        <name>N. Fernández</name>
+        <full_name>Nicolás Ezequiel Fernández Mercau</full_name>
+        <age>25</age>
+        <nationality>Argentina</nationality>
+        <height_cm>168</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>SUB</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>75</overall>
+        <potential>78</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>CAM</position>
+        <position>ST</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>84.0</pace>
+        <shooting>70.0</shooting>
+        <passing>70.0</passing>
+        <dribbling>76.0</dribbling>
+        <defending>60.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>7500000</value_eur>
+        <wage_eur>9000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>11400000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/257/866/26_120.png</face_url>
+    </player>
+    <player id="183895">
+      <basic_info>
+        <name>M. Moralez</name>
+        <full_name>Maximiliano Nicolás Moralez</full_name>
+        <age>38</age>
+        <nationality>Argentina</nationality>
+        <height_cm>159</height_cm>
+        <weight_kg>54</weight_kg>
+        <position>CAM</position>
+        <jersey_number>10.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>72</overall>
+        <potential>72</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>59.0</pace>
+        <shooting>68.0</shooting>
+        <passing>72.0</passing>
+        <dribbling>76.0</dribbling>
+        <defending>52.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>750000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/183/895/26_120.png</face_url>
+    </player>
+    <player id="241783">
+      <basic_info>
+        <name>K. Parks</name>
+        <full_name>Keaton Alexander Parks</full_name>
+        <age>27</age>
+        <nationality>United States</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>LDM</position>
+        <jersey_number>55.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>72</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>34.0</pace>
+        <shooting>62.0</shooting>
+        <passing>68.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>68.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2400000</value_eur>
+        <wage_eur>7000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>3700000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/241/783/26_120.png</face_url>
+    </player>
+    <player id="72905">
+      <basic_info>
+        <name>Raul Gustavo</name>
+        <full_name>Raul Gustavo Pereira Bicalho</full_name>
+        <age>26</age>
+        <nationality>Brazil</nationality>
+        <height_cm>189</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>34.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>74</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>66.0</pace>
+        <shooting>41.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>72.0</defending>
+        <physical>70.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2200000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>3400000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/072/905/26_120.png</face_url>
+    </player>
+    <player id="236935">
+      <basic_info>
+        <name>H. Wolf</name>
+        <full_name>Hannes Wolf</full_name>
+        <age>26</age>
+        <nationality>Austria</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>RM</position>
+        <jersey_number>17.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>72</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>CAM</position>
+        <position>LM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>68.0</shooting>
+        <passing>67.0</passing>
+        <dribbling>73.0</dribbling>
+        <defending>37.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2200000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>3400000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/236/935/26_120.png</face_url>
+    </player>
+    <player id="233790">
+      <basic_info>
+        <name>Thiago</name>
+        <full_name>Thiago Martins Bueno</full_name>
+        <age>30</age>
+        <nationality>Brazil</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RCB</position>
+        <jersey_number>13.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>71.0</pace>
+        <shooting>41.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>71.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1500000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>2200000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/233/790/26_120.png</face_url>
+    </player>
+    <player id="268715">
+      <basic_info>
+        <name>A. Martínez</name>
+        <full_name>Adrián Alonso Martínez Batista</full_name>
+        <age>26</age>
+        <nationality>Costa Rica</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>ST</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>80.0</pace>
+        <shooting>74.0</shooting>
+        <passing>61.0</passing>
+        <dribbling>72.0</dribbling>
+        <defending>27.0</defending>
+        <physical>58.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2100000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>3200000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/268/715/26_120.png</face_url>
+    </player>
+    <player id="268330">
+      <basic_info>
+        <name>A. Ojeda</name>
+        <full_name>Axel Agustín Ojeda</full_name>
+        <age>21</age>
+        <nationality>Argentina</nationality>
+        <height_cm>171</height_cm>
+        <weight_kg>62</weight_kg>
+        <position>LM</position>
+        <jersey_number>26.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>78</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>88.0</pace>
+        <shooting>56.0</shooting>
+        <passing>63.0</passing>
+        <dribbling>74.0</dribbling>
+        <defending>41.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>3600000</value_eur>
+        <wage_eur>4000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>5900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/268/330/26_120.png</face_url>
+    </player>
+    <player id="230888">
+      <basic_info>
+        <name>A. O&amp;apos;Neill</name>
+        <full_name>Aiden Connor O&amp;apos;Neill</full_name>
+        <age>26</age>
+        <nationality>Australia</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>21.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>61.0</shooting>
+        <passing>65.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>66.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1500000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>2200000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/230/888/26_120.png</face_url>
+    </player>
+    <player id="247506">
+      <basic_info>
+        <name>M. Freese</name>
+        <full_name>Matthew Andrew Geary Freese</full_name>
+        <age>26</age>
+        <nationality>United States</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>88</weight_kg>
+        <position>GK</position>
+        <jersey_number>49.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>1500000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2300000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/247/506/26_120.png</face_url>
+    </player>
+    <player id="267866">
+      <basic_info>
+        <name>J. Fernández</name>
+        <full_name>Julián Fernández</full_name>
+        <age>21</age>
+        <nationality>Argentina</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>SUB</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>68</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>RW</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>63.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>73.0</dribbling>
+        <defending>38.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2500000</value_eur>
+        <wage_eur>4000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>4099999.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/267/866/26_120.png</face_url>
+    </player>
+    <player id="254492">
+      <basic_info>
+        <name>T. Gray</name>
+        <full_name>Tayvon Howard Gray</full_name>
+        <age>22</age>
+        <nationality>Jamaica</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>24.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>66</overall>
+        <potential>72</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>78.0</pace>
+        <shooting>30.0</shooting>
+        <passing>59.0</passing>
+        <dribbling>64.0</dribbling>
+        <defending>62.0</defending>
+        <physical>64.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1300000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>2100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/254/492/26_120.png</face_url>
+    </player>
+    <player id="246047">
+      <basic_info>
+        <name>A. Perea</name>
+        <full_name>Andrés Felipe Perea Castañeda</full_name>
+        <age>24</age>
+        <nationality>United States</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>8.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>65</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>50.0</shooting>
+        <passing>59.0</passing>
+        <dribbling>64.0</dribbling>
+        <defending>63.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1000000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>1500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/047/26_120.png</face_url>
+    </player>
+    <player id="272943">
+      <basic_info>
+        <name>M. Ilenič</name>
+        <full_name>Mitja Ilenič</full_name>
+        <age>20</age>
+        <nationality>Slovenia</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>RB</position>
+        <jersey_number>35.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>80.0</pace>
+        <shooting>40.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>56.0</defending>
+        <physical>59.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1200000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2000000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/272/943/26_120.png</face_url>
+    </player>
+    <player id="268009">
+      <basic_info>
+        <name>K. O&amp;apos;Toole</name>
+        <full_name>Kevin O&amp;apos;Toole</full_name>
+        <age>26</age>
+        <nationality>United States</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>LB</position>
+        <jersey_number>22.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>73.0</pace>
+        <shooting>53.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>60.0</defending>
+        <physical>62.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>700000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/268/009/26_120.png</face_url>
+    </player>
+    <player id="247038">
+      <basic_info>
+        <name>J. Haak</name>
+        <full_name>Justin Haak</full_name>
+        <age>23</age>
+        <nationality>United States</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>LCB</position>
+        <jersey_number>80.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>68</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>50.0</pace>
+        <shooting>41.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>62.0</dribbling>
+        <defending>65.0</defending>
+        <physical>58.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>650000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>991000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/247/038/26_120.png</face_url>
+    </player>
+    <player id="260918">
+      <basic_info>
+        <name>T. Romero</name>
+        <full_name>Tomás Lían Romero Keubler</full_name>
+        <age>24</age>
+        <nationality>El Salvador</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>79</weight_kg>
+        <position>SUB</position>
+        <jersey_number>30.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>425000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>701000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/260/918/26_120.png</face_url>
+    </player>
+    <player id="247448">
+      <basic_info>
+        <name>G. Ranjitsingh</name>
+        <full_name>Gregory Nicholas Ranjitsingh</full_name>
+        <age>31</age>
+        <nationality>Trinidad and Tobago</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>91</weight_kg>
+        <position>SUB</position>
+        <jersey_number>18.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>1</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>900</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>189000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/247/448/26_120.png</face_url>
+    </player>
+    <player id="246354">
+      <basic_info>
+        <name>S. Tanasijević</name>
+        <full_name>Strahinja TanasijevićСтрахиња Танасијевић</full_name>
+        <age>28</age>
+        <nationality>Serbia</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>43.0</pace>
+        <shooting>29.0</shooting>
+        <passing>42.0</passing>
+        <dribbling>50.0</dribbling>
+        <defending>59.0</defending>
+        <physical>63.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>210000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>320000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/354/26_120.png</face_url>
+    </player>
+    <player id="77879">
+      <basic_info>
+        <name>N. Cavallo</name>
+        <full_name>Nicholas Cavallo</full_name>
+        <age>23</age>
+        <nationality>United States</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>2.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>39.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>53.0</defending>
+        <physical>62.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>240000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>396000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/879/26_120.png</face_url>
+    </player>
+    <player id="70444">
+      <basic_info>
+        <name>M. Jones</name>
+        <full_name>Malachi Jones</full_name>
+        <age>21</age>
+        <nationality>Sierra Leone</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>SUB</position>
+        <jersey_number>88.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>LW</position>
+        <position>ST</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>55.0</shooting>
+        <passing>48.0</passing>
+        <dribbling>62.0</dribbling>
+        <defending>27.0</defending>
+        <physical>44.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>619000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/070/444/26_120.png</face_url>
+    </player>
+    <player id="274998">
+      <basic_info>
+        <name>J. Shore</name>
+        <full_name>Jonathan Shore</full_name>
+        <age>18</age>
+        <nationality>United States</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>62</weight_kg>
+        <position>RDM</position>
+        <jersey_number>32.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>56</overall>
+        <potential>68</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>58.0</pace>
+        <shooting>50.0</shooting>
+        <passing>54.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>53.0</defending>
+        <physical>49.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>325000</value_eur>
+        <wage_eur>900</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>536000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/274/998/26_120.png</face_url>
+    </player>
+    <player id="274974">
+      <basic_info>
+        <name>M. Carrizo</name>
+        <full_name>Máximo Augusto Carrizo Ballesteros</full_name>
+        <age>17</age>
+        <nationality>United States</nationality>
+        <height_cm>168</height_cm>
+        <weight_kg>62</weight_kg>
+        <position>RES</position>
+        <jersey_number>29.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>78.0</pace>
+        <shooting>45.0</shooting>
+        <passing>51.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>23.0</defending>
+        <physical>38.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>300000</value_eur>
+        <wage_eur>600</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>623000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/274/974/26_120.png</face_url>
+    </player>
+    <player id="69982">
+      <basic_info>
+        <name>A. Rando</name>
+        <full_name>Alexander Rando</full_name>
+        <age>25</age>
+        <nationality>United States</nationality>
+        <height_cm>193</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>SUB</position>
+        <jersey_number>44.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>90000</value_eur>
+        <wage_eur>600</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>137000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/069/982/26_120.png</face_url>
+    </player>
+    <player id="279712">
+      <basic_info>
+        <name>Z. Yáñez</name>
+        <full_name>Zidane Antonio Yañez</full_name>
+        <age>17</age>
+        <nationality>United States</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>36.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>56.0</pace>
+        <shooting>52.0</shooting>
+        <passing>39.0</passing>
+        <dribbling>50.0</dribbling>
+        <defending>23.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>270000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/279/712/26_120.png</face_url>
+    </player>
+    <player id="79886">
+      <basic_info>
+        <name>S. Reid</name>
+        <full_name>Seymour Reid</full_name>
+        <age>17</age>
+        <nationality>Jamaica</nationality>
+        <height_cm>165</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RES</position>
+        <jersey_number>99.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>1</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>54.0</shooting>
+        <passing>39.0</passing>
+        <dribbling>51.0</dribbling>
+        <defending>23.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>270000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/079/886/26_120.png</face_url>
+    </player>
+    <player id="277302">
+      <basic_info>
+        <name>D. Baiera</name>
+        <full_name>Andrew Baiera</full_name>
+        <age>18</age>
+        <nationality>United States</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>63</weight_kg>
+        <position>RES</position>
+        <jersey_number>38.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>61.0</pace>
+        <shooting>28.0</shooting>
+        <passing>33.0</passing>
+        <dribbling>49.0</dribbling>
+        <defending>48.0</defending>
+        <physical>47.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>215000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/277/302/26_120.png</face_url>
+    </player>
+  </players>
+</team>

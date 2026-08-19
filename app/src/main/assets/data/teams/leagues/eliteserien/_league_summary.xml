@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Eliteserien" total_teams="16" generated="2026-05-10">
+  <league_info>
+    <name>Eliteserien</name>
+    <total_players>430</total_players>
+    <average_team_rating>63.5</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="FK Bodø/Glimt" players="27">
+      <name>FK Bodø/Glimt</name>
+      <average_rating>67.9</average_rating>
+      <total_value_eur>61200000</total_value_eur>
+      <top_players>
+        <player name="P. Berg" rating="77"/>
+        <player name="F. Bjørkan" rating="74"/>
+        <player name="J. Hauge" rating="74"/>
+        <player name="N. Haikin" rating="74"/>
+        <player name="H. Evjen" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Rosenborg BK" players="22">
+      <name>Rosenborg BK</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>34650000</total_value_eur>
+      <top_players>
+        <player name="S. Nordli" rating="73"/>
+        <player name="O. Selnæs" rating="72"/>
+        <player name="A. Witry" rating="71"/>
+        <player name="A. Pereira" rating="70"/>
+        <player name="D. Ďuriš" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Viking FK" players="28">
+      <name>Viking FK</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>42950000</total_value_eur>
+      <top_players>
+        <player name="Z. Tripić" rating="76"/>
+        <player name="J. Bell" rating="74"/>
+        <player name="K. Haugen" rating="71"/>
+        <player name="N. D'Agostino" rating="70"/>
+        <player name="S. Svendsen" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Molde FK" players="28">
+      <name>Molde FK</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>34325000</total_value_eur>
+      <top_players>
+        <player name="M. Eikrem" rating="74"/>
+        <player name="M. Dæhli" rating="73"/>
+        <player name="M. Linnes" rating="72"/>
+        <player name="K. Eriksen" rating="72"/>
+        <player name="F. Gulbrandsen" rating="70"/>
+      </top_players>
+    </team>
+    <team name="SK Brann" players="27">
+      <name>SK Brann</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>35515000</total_value_eur>
+      <top_players>
+        <player name="F. Myhre" rating="74"/>
+        <player name="E. Kornvig" rating="70"/>
+        <player name="V. Dragsnes" rating="70"/>
+        <player name="F. Knudsen" rating="70"/>
+        <player name="M. Dyngeland" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Vålerenga Fotball" players="23">
+      <name>Vålerenga Fotball</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>21250000</total_value_eur>
+      <top_players>
+        <player name="H. Bjørdal" rating="69"/>
+        <player name="P. Strand" rating="67"/>
+        <player name="V. Hedenstad" rating="67"/>
+        <player name="B. Ambina" rating="67"/>
+        <player name="K. Tshiembe" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Strømsgodset IF" players="25">
+      <name>Strømsgodset IF</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>19815000</total_value_eur>
+      <top_players>
+        <player name="H. Stengel" rating="68"/>
+        <player name="P. Bråtveit" rating="68"/>
+        <player name="G. Wikheim" rating="67"/>
+        <player name="F. Dahl" rating="67"/>
+        <player name="G. Valsvik" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Tromsø IL" players="25">
+      <name>Tromsø IL</name>
+      <average_rating>63.2</average_rating>
+      <total_value_eur>20620000</total_value_eur>
+      <top_players>
+        <player name="A. Mikkelsen" rating="68"/>
+        <player name="V. Erlien" rating="68"/>
+        <player name="R. Jenssen" rating="67"/>
+        <player name="L. Larsen" rating="67"/>
+        <player name="R. Kristiansen" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Sarpsborg 08 FF" players="32">
+      <name>Sarpsborg 08 FF</name>
+      <average_rating>62.9</average_rating>
+      <total_value_eur>27075000</total_value_eur>
+      <top_players>
+        <player name="M. Jeahze" rating="68"/>
+        <player name="J. Berget" rating="67"/>
+        <player name="N. Sandberg" rating="67"/>
+        <player name="S. Sørli" rating="67"/>
+        <player name="A. Sher" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Fredrikstad FK" players="26">
+      <name>Fredrikstad FK</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>23055000</total_value_eur>
+      <top_players>
+        <player name="M. Woledzi" rating="69"/>
+        <player name="D. Eid" rating="68"/>
+        <player name="S. Molde" rating="67"/>
+        <player name="J. Hummelvoll-Nuñez" rating="67"/>
+        <player name="L. Owusu" rating="67"/>
+      </top_players>
+    </team>
+    <team name="KFUM-Kameratene Oslo" players="25">
+      <name>KFUM-Kameratene Oslo</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>16015000</total_value_eur>
+      <top_players>
+        <player name="R. Rasch" rating="68"/>
+        <player name="S. Hestnes" rating="65"/>
+        <player name="M. Njie" rating="65"/>
+        <player name="F. Berglie" rating="65"/>
+        <player name="E. Ødegaard" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Bryne FK" players="25">
+      <name>Bryne FK</name>
+      <average_rating>61.8</average_rating>
+      <total_value_eur>14710000</total_value_eur>
+      <top_players>
+        <player name="Duarte Moreira" rating="66"/>
+        <player name="E. Saunes" rating="65"/>
+        <player name="R. Svindland" rating="64"/>
+        <player name="A. Scriven" rating="64"/>
+        <player name="S. Bojadžić" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Hamarkameratene" players="30">
+      <name>Hamarkameratene</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>17490000</total_value_eur>
+      <top_players>
+        <player name="Y. Ibrahimaj" rating="67"/>
+        <player name="F. Sjølstad" rating="66"/>
+        <player name="M. Sandberg" rating="66"/>
+        <player name="V. Jónsson" rating="65"/>
+        <player name="G. Simenstad" rating="65"/>
+      </top_players>
+    </team>
+    <team name="FK Haugesund" players="29">
+      <name>FK Haugesund</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>18750000</total_value_eur>
+      <top_players>
+        <player name="M. Bjørnbak" rating="68"/>
+        <player name="N. Hämäläinen" rating="66"/>
+        <player name="R. Espejord" rating="66"/>
+        <player name="Bruno Leite" rating="65"/>
+        <player name="C. Niyukuri" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Kristiansund BK" players="29">
+      <name>Kristiansund BK</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>19200000</total_value_eur>
+      <top_players>
+        <player name="A. Ndour" rating="67"/>
+        <player name="D. Ulvestad" rating="66"/>
+        <player name="M. Lansing" rating="66"/>
+        <player name="R. Corlu" rating="65"/>
+        <player name="A. Kryger" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Sandefjord Fotball" players="29">
+      <name>Sandefjord Fotball</name>
+      <average_rating>60.9</average_rating>
+      <total_value_eur>21925000</total_value_eur>
+      <top_players>
+        <player name="F. Ottosson" rating="67"/>
+        <player name="J. Dunsby" rating="67"/>
+        <player name="L. Mettler" rating="66"/>
+        <player name="C. Cheng" rating="66"/>
+        <player name="S. Sigurðarson" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

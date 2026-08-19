@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Bundesliga" total_teams="30" generated="2026-05-10">
+  <league_info>
+    <name>Bundesliga</name>
+    <total_players>866</total_players>
+    <average_team_rating>69.0</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="FC Bayern München" players="26">
+      <name>FC Bayern München</name>
+      <average_rating>78.3</average_rating>
+      <total_value_eur>910900000</total_value_eur>
+      <top_players>
+        <player name="J. Kimmich" rating="89"/>
+        <player name="H. Kane" rating="89"/>
+        <player name="J. Musiala" rating="88"/>
+        <player name="J. Tah" rating="87"/>
+        <player name="M. Olise" rating="86"/>
+      </top_players>
+    </team>
+    <team name="Borussia Dortmund" players="28">
+      <name>Borussia Dortmund</name>
+      <average_rating>76.7</average_rating>
+      <total_value_eur>583350000</total_value_eur>
+      <top_players>
+        <player name="S. Guirassy" rating="87"/>
+        <player name="G. Kobel" rating="86"/>
+        <player name="N. Schlotterbeck" rating="85"/>
+        <player name="J. Brandt" rating="83"/>
+        <player name="F. Nmecha" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Bayer 04 Leverkusen" players="27">
+      <name>Bayer 04 Leverkusen</name>
+      <average_rating>75.1</average_rating>
+      <total_value_eur>430150000</total_value_eur>
+      <top_players>
+        <player name="P. Schick" rating="85"/>
+        <player name="Grimaldo" rating="84"/>
+        <player name="E. Palacios" rating="84"/>
+        <player name="Aleix García" rating="83"/>
+        <player name="M. Tillman" rating="82"/>
+      </top_players>
+    </team>
+    <team name="RB Leipzig" players="29">
+      <name>RB Leipzig</name>
+      <average_rating>74.7</average_rating>
+      <total_value_eur>363475000</total_value_eur>
+      <top_players>
+        <player name="P. Gulácsi" rating="85"/>
+        <player name="W. Orban" rating="84"/>
+        <player name="D. Raum" rating="82"/>
+        <player name="X. Schlager" rating="80"/>
+        <player name="B. Henrichs" rating="80"/>
+      </top_players>
+    </team>
+    <team name="VfL Wolfsburg" players="29">
+      <name>VfL Wolfsburg</name>
+      <average_rating>73.6</average_rating>
+      <total_value_eur>256535000</total_value_eur>
+      <top_players>
+        <player name="M. Amoura" rating="80"/>
+        <player name="M. Arnold" rating="79"/>
+        <player name="K. Grabara" rating="79"/>
+        <player name="L. Majer" rating="78"/>
+        <player name="J. Mæhle" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Eintracht Frankfurt" players="29">
+      <name>Eintracht Frankfurt</name>
+      <average_rating>73.5</average_rating>
+      <total_value_eur>342890000</total_value_eur>
+      <top_players>
+        <player name="M. Götze" rating="82"/>
+        <player name="J. Burkardt" rating="82"/>
+        <player name="R. Doan" rating="82"/>
+        <player name="R. Koch" rating="82"/>
+        <player name="E. Skhiri" rating="80"/>
+      </top_players>
+    </team>
+    <team name="SC Freiburg" players="27">
+      <name>SC Freiburg</name>
+      <average_rating>72.9</average_rating>
+      <total_value_eur>155350000</total_value_eur>
+      <top_players>
+        <player name="M. Ginter" rating="82"/>
+        <player name="V. Grifo" rating="80"/>
+        <player name="P. Lienhart" rating="79"/>
+        <player name="C. Günter" rating="77"/>
+        <player name="N. Atubolu" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Borussia Mönchengladbach" players="28">
+      <name>Borussia Mönchengladbach</name>
+      <average_rating>72.4</average_rating>
+      <total_value_eur>173940000</total_value_eur>
+      <top_players>
+        <player name="T. Kleindienst" rating="81"/>
+        <player name="F. Honorat" rating="80"/>
+        <player name="R. Reitz" rating="77"/>
+        <player name="R. Hack" rating="77"/>
+        <player name="N. Elvedi" rating="77"/>
+      </top_players>
+    </team>
+    <team name="VfB Stuttgart" players="32">
+      <name>VfB Stuttgart</name>
+      <average_rating>72.3</average_rating>
+      <total_value_eur>282300000</total_value_eur>
+      <top_players>
+        <player name="A. Stiller" rating="83"/>
+        <player name="M. Mittelstädt" rating="82"/>
+        <player name="A. Nübel" rating="81"/>
+        <player name="D. Undav" rating="80"/>
+        <player name="E. Demirović" rating="80"/>
+      </top_players>
+    </team>
+    <team name="1. FC Union Berlin" players="28">
+      <name>1. FC Union Berlin</name>
+      <average_rating>71.5</average_rating>
+      <total_value_eur>131525000</total_value_eur>
+      <top_players>
+        <player name="F. Rønnow" rating="80"/>
+        <player name="D. Doekhi" rating="78"/>
+        <player name="Diogo Leite" rating="78"/>
+        <player name="J. Juranović" rating="75"/>
+        <player name="D. Köhn" rating="75"/>
+      </top_players>
+    </team>
+    <team name="FC Augsburg" players="29">
+      <name>FC Augsburg</name>
+      <average_rating>71.3</average_rating>
+      <total_value_eur>147700000</total_value_eur>
+      <top_players>
+        <player name="A. Claude-Maurice" rating="77"/>
+        <player name="J. Gouweleeuw" rating="77"/>
+        <player name="C. Matsima" rating="77"/>
+        <player name="F. Dahmen" rating="77"/>
+        <player name="K. Jakić" rating="76"/>
+      </top_players>
+    </team>
+    <team name="1. FSV Mainz 05" players="30">
+      <name>1. FSV Mainz 05</name>
+      <average_rating>71.1</average_rating>
+      <total_value_eur>184185000</total_value_eur>
+      <top_players>
+        <player name="N. Amiri" rating="81"/>
+        <player name="K. Sano" rating="79"/>
+        <player name="A. Caci" rating="78"/>
+        <player name="P. Nebel" rating="78"/>
+        <player name="R. Zentner" rating="78"/>
+      </top_players>
+    </team>
+    <team name="TSG 1899 Hoffenheim" players="33">
+      <name>TSG 1899 Hoffenheim</name>
+      <average_rating>70.8</average_rating>
+      <total_value_eur>138800000</total_value_eur>
+      <top_players>
+        <player name="O. Baumann" rating="83"/>
+        <player name="A. Kramarić" rating="81"/>
+        <player name="A. Hložek" rating="77"/>
+        <player name="K. Machida" rating="76"/>
+        <player name="G. Prömel" rating="75"/>
+      </top_players>
+    </team>
+    <team name="SV Werder Bremen" players="32">
+      <name>SV Werder Bremen</name>
+      <average_rating>70.4</average_rating>
+      <total_value_eur>194520000</total_value_eur>
+      <top_players>
+        <player name="V. Boniface" rating="81"/>
+        <player name="C. Puertas" rating="78"/>
+        <player name="J. Stage" rating="78"/>
+        <player name="M. Weiser" rating="78"/>
+        <player name="R. Schmid" rating="78"/>
+      </top_players>
+    </team>
+    <team name="1. FC Köln" players="30">
+      <name>1. FC Köln</name>
+      <average_rating>70.1</average_rating>
+      <total_value_eur>102880000</total_value_eur>
+      <top_players>
+        <player name="A. Castro-Montes" rating="77"/>
+        <player name="M. Schwäbe" rating="77"/>
+        <player name="M. Bülter" rating="76"/>
+        <player name="E. Martel" rating="76"/>
+        <player name="T. Krauß" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Hamburger SV" players="32">
+      <name>Hamburger SV</name>
+      <average_rating>69.6</average_rating>
+      <total_value_eur>103275000</total_value_eur>
+      <top_players>
+        <player name="Fábio Vieira" rating="78"/>
+        <player name="M. Muheim" rating="75"/>
+        <player name="A. Sambi Lokonga" rating="75"/>
+        <player name="J. Dompé" rating="75"/>
+        <player name="J. Torunarigha" rating="75"/>
+      </top_players>
+    </team>
+    <team name="1. FC Heidenheim 1846" players="27">
+      <name>1. FC Heidenheim 1846</name>
+      <average_rating>69.3</average_rating>
+      <total_value_eur>67500000</total_value_eur>
+      <top_players>
+        <player name="P. Mainka" rating="76"/>
+        <player name="M. Pieringer" rating="75"/>
+        <player name="N. Dorsch" rating="74"/>
+        <player name="M. Honsak" rating="74"/>
+        <player name="J. Schöppner" rating="74"/>
+      </top_players>
+    </team>
+    <team name="FC St. Pauli" players="29">
+      <name>FC St. Pauli</name>
+      <average_rating>68.2</average_rating>
+      <total_value_eur>65975000</total_value_eur>
+      <top_players>
+        <player name="N. Vasilj" rating="77"/>
+        <player name="M. Pereira Lage" rating="75"/>
+        <player name="J. Irvine" rating="75"/>
+        <player name="E. Smith" rating="75"/>
+        <player name="H. Wahl" rating="74"/>
+      </top_players>
+    </team>
+    <team name="FC Red Bull Salzburg" players="30">
+      <name>FC Red Bull Salzburg</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>70580000</total_value_eur>
+      <top_players>
+        <player name="Y. Vertessen" rating="74"/>
+        <player name="M. Kjaergaard" rating="73"/>
+        <player name="M. Bidstrup" rating="73"/>
+        <player name="A. Schlager" rating="73"/>
+        <player name="K. Onisiwo" rating="72"/>
+      </top_players>
+    </team>
+    <team name="SK Rapid" players="31">
+      <name>SK Rapid</name>
+      <average_rating>66.4</average_rating>
+      <total_value_eur>54750000</total_value_eur>
+      <top_players>
+        <player name="S. Raux-Yao" rating="73"/>
+        <player name="T. Gulliksen" rating="72"/>
+        <player name="M. Seidl" rating="71"/>
+        <player name="N. Cvetković" rating="71"/>
+        <player name="N. Hedl" rating="71"/>
+      </top_players>
+    </team>
+    <team name="LASK Linz" players="28">
+      <name>LASK Linz</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>47175000</total_value_eur>
+      <top_players>
+        <player name="S. Kalajdžić" rating="74"/>
+        <player name="S. Horvath" rating="72"/>
+        <player name="M. Entrup" rating="72"/>
+        <player name="M. Usor" rating="70"/>
+        <player name="K. Daněk" rating="70"/>
+      </top_players>
+    </team>
+    <team name="SK Sturm Graz" players="27">
+      <name>SK Sturm Graz</name>
+      <average_rating>65.3</average_rating>
+      <total_value_eur>45100000</total_value_eur>
+      <top_players>
+        <player name="O. Kiteishvili" rating="75"/>
+        <player name="J. Gorenc Stanković" rating="74"/>
+        <player name="T. Horvat" rating="73"/>
+        <player name="D. Lavalée" rating="72"/>
+        <player name="T. Oermann" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Wolfsberger AC" players="28">
+      <name>Wolfsberger AC</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>34500000</total_value_eur>
+      <top_players>
+        <player name="D. Zukić" rating="72"/>
+        <player name="D. Baumgartner" rating="72"/>
+        <player name="N. Wimmer" rating="70"/>
+        <player name="C. Nwaiwu" rating="70"/>
+        <player name="D. Avdijaj" rating="69"/>
+      </top_players>
+    </team>
+    <team name="FK Austria Wien" players="28">
+      <name>FK Austria Wien</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>26820000</total_value_eur>
+      <top_players>
+        <player name="A. Dragović" rating="74"/>
+        <player name="R. Ranftl" rating="71"/>
+        <player name="S. Şahin-Radlinger" rating="71"/>
+        <player name="M. Fischer" rating="70"/>
+        <player name="J. Eggestein" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Blau-Weiß Linz" players="29">
+      <name>Blau-Weiß Linz</name>
+      <average_rating>63.1</average_rating>
+      <total_value_eur>23990000</total_value_eur>
+      <top_players>
+        <player name="Ronivaldo" rating="71"/>
+        <player name="S. Weissman" rating="69"/>
+        <player name="T. Goiginger" rating="68"/>
+        <player name="M. Maranda" rating="68"/>
+        <player name="Anderson" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Grazer AK 1902" players="26">
+      <name>Grazer AK 1902</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>18000000</total_value_eur>
+      <top_players>
+        <player name="D. Pines" rating="67"/>
+        <player name="T. Cipot" rating="66"/>
+        <player name="P. Filipović" rating="66"/>
+        <player name="D. Maderner" rating="66"/>
+        <player name="M. Şatin" rating="65"/>
+      </top_players>
+    </team>
+    <team name="SC Rheindorf Altach" players="26">
+      <name>SC Rheindorf Altach</name>
+      <average_rating>62.6</average_rating>
+      <total_value_eur>20395000</total_value_eur>
+      <top_players>
+        <player name="D. Stojanović" rating="70"/>
+        <player name="P. Koller" rating="68"/>
+        <player name="B. Zech" rating="67"/>
+        <player name="M. Bähre" rating="66"/>
+        <player name="S. Ingolitsch" rating="66"/>
+      </top_players>
+    </team>
+    <team name="SV Ried" players="29">
+      <name>SV Ried</name>
+      <average_rating>62.0</average_rating>
+      <total_value_eur>18805000</total_value_eur>
+      <top_players>
+        <player name="M. Grosse" rating="68"/>
+        <player name="C. Wernitznig" rating="67"/>
+        <player name="Y. Maart" rating="67"/>
+        <player name="A. Bajić" rating="66"/>
+        <player name="P. Pomer" rating="66"/>
+      </top_players>
+    </team>
+    <team name="TSV Hartberg" players="30">
+      <name>TSV Hartberg</name>
+      <average_rating>61.8</average_rating>
+      <total_value_eur>22560000</total_value_eur>
+      <top_players>
+        <player name="Y. Diarra" rating="68"/>
+        <player name="J. Heil" rating="68"/>
+        <player name="D. Prokop" rating="68"/>
+        <player name="T. Kainz" rating="67"/>
+        <player name="P. Mijić" rating="67"/>
+      </top_players>
+    </team>
+    <team name="WSG Tirol" players="29">
+      <name>WSG Tirol</name>
+      <average_rating>61.5</average_rating>
+      <total_value_eur>22130000</total_value_eur>
+      <top_players>
+        <player name="J. Lawrence" rating="70"/>
+        <player name="M. Taferner" rating="69"/>
+        <player name="V. Müller" rating="67"/>
+        <player name="L. Sulzbacher" rating="66"/>
+        <player name="D. Gugganig" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

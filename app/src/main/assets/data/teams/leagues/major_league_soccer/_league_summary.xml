@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Major League Soccer" total_teams="30" generated="2026-05-10">
+  <league_info>
+    <name>Major League Soccer</name>
+    <total_players>803</total_players>
+    <average_team_rating>65.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Inter Miami" players="26">
+      <name>Inter Miami</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>99614999</total_value_eur>
+      <top_players>
+        <player name="L. Messi" rating="86"/>
+        <player name="R. De Paul" rating="84"/>
+        <player name="Sergio Busquets" rating="80"/>
+        <player name="L. Suárez" rating="79"/>
+        <player name="Jordi Alba" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Portland Timbers" players="26">
+      <name>Portland Timbers</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>48639999</total_value_eur>
+      <top_players>
+        <player name="J. Rodríguez" rating="76"/>
+        <player name="David da Costa" rating="75"/>
+        <player name="M. Rojas" rating="74"/>
+        <player name="F. Carballo" rating="73"/>
+        <player name="J. Ortiz" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Los Angeles FC" players="27">
+      <name>Los Angeles FC</name>
+      <average_rating>67.3</average_rating>
+      <total_value_eur>92410000</total_value_eur>
+      <top_players>
+        <player name="H. Son" rating="85"/>
+        <player name="D. Bouanga" rating="79"/>
+        <player name="H. Lloris" rating="77"/>
+        <player name="R. Hollingshead" rating="72"/>
+        <player name="M. Delgado" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Minnesota United FC" players="21">
+      <name>Minnesota United FC</name>
+      <average_rating>67.3</average_rating>
+      <total_value_eur>39620000</total_value_eur>
+      <top_players>
+        <player name="D. Fitz" rating="74"/>
+        <player name="J. Pereyra" rating="74"/>
+        <player name="R. Lod" rating="73"/>
+        <player name="J. Gressel" rating="73"/>
+        <player name="D. St. Clair" rating="73"/>
+      </top_players>
+    </team>
+    <team name="New England Revolution" players="24">
+      <name>New England Revolution</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>47250000</total_value_eur>
+      <top_players>
+        <player name="Carles Gil" rating="79"/>
+        <player name="M. Turner" rating="74"/>
+        <player name="T. Chancalay" rating="73"/>
+        <player name="A. Yusuf" rating="72"/>
+        <player name="I. Ganago" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Columbus Crew" players="26">
+      <name>Columbus Crew</name>
+      <average_rating>66.7</average_rating>
+      <total_value_eur>42744999</total_value_eur>
+      <top_players>
+        <player name="D. Nagbe" rating="75"/>
+        <player name="D. Rossi" rating="75"/>
+        <player name="D. Gazdag" rating="74"/>
+        <player name="S. Moreira" rating="72"/>
+        <player name="H. Picard" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Vancouver Whitecaps FC" players="26">
+      <name>Vancouver Whitecaps FC</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>59875000</total_value_eur>
+      <top_players>
+        <player name="T. Müller" rating="80"/>
+        <player name="R. Gauld" rating="78"/>
+        <player name="B. White" rating="75"/>
+        <player name="A. Cubas" rating="74"/>
+        <player name="Y. Takaoka" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Charlotte FC" players="27">
+      <name>Charlotte FC</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>52655000</total_value_eur>
+      <top_players>
+        <player name="W. Zaha" rating="77"/>
+        <player name="Pep Biel" rating="77"/>
+        <player name="K. Kahlina" rating="75"/>
+        <player name="L. Abada" rating="74"/>
+        <player name="A. Westwood" rating="73"/>
+      </top_players>
+    </team>
+    <team name="LA Galaxy" players="27">
+      <name>LA Galaxy</name>
+      <average_rating>66.3</average_rating>
+      <total_value_eur>76025000</total_value_eur>
+      <top_players>
+        <player name="Riqui Puig" rating="80"/>
+        <player name="M. Reus" rating="79"/>
+        <player name="J. Paintsil" rating="76"/>
+        <player name="Gabriel Pec" rating="76"/>
+        <player name="M. Yamane" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC Cincinnati" players="28">
+      <name>FC Cincinnati</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>76035000</total_value_eur>
+      <top_players>
+        <player name="Evander" rating="79"/>
+        <player name="K. Denkey" rating="77"/>
+        <player name="P. Bucha" rating="75"/>
+        <player name="O. Nwobodo" rating="73"/>
+        <player name="L. Orellano" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Seattle Sounders FC" players="30">
+      <name>Seattle Sounders FC</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>48445000</total_value_eur>
+      <top_players>
+        <player name="A. Rusnák" rating="75"/>
+        <player name="R. Kent" rating="75"/>
+        <player name="Y. Gómez Andrade" rating="75"/>
+        <player name="C. Roldan" rating="74"/>
+        <player name="P. De la Vega" rating="74"/>
+      </top_players>
+    </team>
+    <team name="San Jose Earthquakes" players="26">
+      <name>San Jose Earthquakes</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>41895000</total_value_eur>
+      <top_players>
+        <player name="C. Arango" rating="78"/>
+        <player name="C. Espinoza" rating="75"/>
+        <player name="J. Martínez" rating="73"/>
+        <player name="Daniel" rating="73"/>
+        <player name="D. Jones" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Austin FC" players="24">
+      <name>Austin FC</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>31120000</total_value_eur>
+      <top_players>
+        <player name="M. Uzuni" rating="75"/>
+        <player name="M. Desler" rating="73"/>
+        <player name="B. Vazquez" rating="73"/>
+        <player name="O. Bukari" rating="72"/>
+        <player name="Ilie Sánchez" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Atlanta United" players="26">
+      <name>Atlanta United</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>51579999</total_value_eur>
+      <top_players>
+        <player name="A. Miranchuk" rating="78"/>
+        <player name="M. Almirón" rating="76"/>
+        <player name="S. Lobjanidze" rating="74"/>
+        <player name="B. Slisz" rating="73"/>
+        <player name="E. Latte Lath" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Houston Dynamo" players="30">
+      <name>Houston Dynamo</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>33100000</total_value_eur>
+      <top_players>
+        <player name="E. Ponce" rating="73"/>
+        <player name="O. Lingr" rating="72"/>
+        <player name="J. McGlynn" rating="71"/>
+        <player name="E. Sviatchenko" rating="71"/>
+        <player name="Artur" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Sporting Kansas City" players="24">
+      <name>Sporting Kansas City</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>34950000</total_value_eur>
+      <top_players>
+        <player name="D. Joveljić" rating="75"/>
+        <player name="Manu García" rating="74"/>
+        <player name="E. Thommy" rating="73"/>
+        <player name="N. Radoja" rating="73"/>
+        <player name="Joaquín" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Philadelphia Union" players="25">
+      <name>Philadelphia Union</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>35395000</total_value_eur>
+      <top_players>
+        <player name="K. Wagner" rating="75"/>
+        <player name="A. Blake" rating="75"/>
+        <player name="J. Glesnes" rating="73"/>
+        <player name="M. Uhre" rating="72"/>
+        <player name="T. Baribo" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Real Salt Lake" players="26">
+      <name>Real Salt Lake</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>34394999</total_value_eur>
+      <top_players>
+        <player name="Diogo Gonçalves" rating="74"/>
+        <player name="V. Olatunji" rating="73"/>
+        <player name="D. Luna" rating="72"/>
+        <player name="D. Yedlin" rating="71"/>
+        <player name="J. Russell" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Colorado Rapids" players="24">
+      <name>Colorado Rapids</name>
+      <average_rating>64.6</average_rating>
+      <total_value_eur>41845000</total_value_eur>
+      <top_players>
+        <player name="P. Aaronson" rating="75"/>
+        <player name="Z. Steffen" rating="73"/>
+        <player name="A. Manyoma" rating="72"/>
+        <player name="R. Holding" rating="72"/>
+        <player name="R. Cannon" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Nashville SC" players="28">
+      <name>Nashville SC</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>44960000</total_value_eur>
+      <top_players>
+        <player name="H. Mukhtar" rating="79"/>
+        <player name="W. Zimmerman" rating="75"/>
+        <player name="S. Surridge" rating="74"/>
+        <player name="G. Brugman" rating="73"/>
+        <player name="A. Nájar" rating="72"/>
+      </top_players>
+    </team>
+    <team name="DC United" players="26">
+      <name>DC United</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>26645000</total_value_eur>
+      <top_players>
+        <player name="C. Benteke" rating="75"/>
+        <player name="D. Schnegg" rating="71"/>
+        <player name="A. Herrera" rating="71"/>
+        <player name="K. Rowles" rating="71"/>
+        <player name="Kim Joon Hong" rating="69"/>
+      </top_players>
+    </team>
+    <team name="New York Red Bulls" players="31">
+      <name>New York Red Bulls</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>45620000</total_value_eur>
+      <top_players>
+        <player name="E. Forsberg" rating="79"/>
+        <player name="E. Choupo-Moting" rating="75"/>
+        <player name="L. Morgan" rating="73"/>
+        <player name="G. Berggren" rating="72"/>
+        <player name="C. Coronel" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Toronto FC" players="25">
+      <name>Toronto FC</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>28140000</total_value_eur>
+      <top_players>
+        <player name="D. Mihailovic" rating="75"/>
+        <player name="J. Cifuentes" rating="72"/>
+        <player name="R. Laryea" rating="72"/>
+        <player name="M. Dominguez" rating="71"/>
+        <player name="J. Osorio" rating="71"/>
+      </top_players>
+    </team>
+    <team name="San Diego FC" players="29">
+      <name>San Diego FC</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>54635000</total_value_eur>
+      <top_players>
+        <player name="H. Lozano" rating="78"/>
+        <player name="A. Dreyer" rating="77"/>
+        <player name="M. Ingvartsen" rating="74"/>
+        <player name="P. McNair" rating="73"/>
+        <player name="J. Tverskov" rating="73"/>
+      </top_players>
+    </team>
+    <team name="St. Louis CITY SC" players="31">
+      <name>St. Louis CITY SC</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>36355000</total_value_eur>
+      <top_players>
+        <player name="R. Bürki" rating="77"/>
+        <player name="M. Hartel" rating="75"/>
+        <player name="E. Löwen" rating="74"/>
+        <player name="Klauss" rating="72"/>
+        <player name="C. Wallem" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Chicago Fire" players="29">
+      <name>Chicago Fire</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>51165000</total_value_eur>
+      <top_players>
+        <player name="J. Bamba" rating="77"/>
+        <player name="H. Cuypers" rating="77"/>
+        <player name="P. Zinckernagel" rating="75"/>
+        <player name="R. Kouamé" rating="73"/>
+        <player name="André Franco" rating="72"/>
+      </top_players>
+    </team>
+    <team name="New York City FC" players="27">
+      <name>New York City FC</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>35085000</total_value_eur>
+      <top_players>
+        <player name="N. Fernández" rating="75"/>
+        <player name="M. Moralez" rating="72"/>
+        <player name="K. Parks" rating="72"/>
+        <player name="H. Wolf" rating="71"/>
+        <player name="Thiago" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Orlando City SC" players="28">
+      <name>Orlando City SC</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>35215000</total_value_eur>
+      <top_players>
+        <player name="L. Muriel" rating="76"/>
+        <player name="E. Atuesta" rating="74"/>
+        <player name="M. Ojeda" rating="74"/>
+        <player name="P. Gallese" rating="72"/>
+        <player name="M. Pašalić" rating="71"/>
+      </top_players>
+    </team>
+    <team name="CF Montréal" players="25">
+      <name>CF Montréal</name>
+      <average_rating>63.1</average_rating>
+      <total_value_eur>23175000</total_value_eur>
+      <top_players>
+        <player name="S. Piette" rating="69"/>
+        <player name="G. Vrioni" rating="68"/>
+        <player name="P. Owusu" rating="68"/>
+        <player name="J. Sirois" rating="67"/>
+        <player name="M. Longstaff" rating="66"/>
+      </top_players>
+    </team>
+    <team name="FC Dallas" players="31">
+      <name>FC Dallas</name>
+      <average_rating>61.5</average_rating>
+      <total_value_eur>32745000</total_value_eur>
+      <top_players>
+        <player name="P. Musa" rating="76"/>
+        <player name="M. Paes" rating="72"/>
+        <player name="Ramiro" rating="70"/>
+        <player name="S. Moore" rating="69"/>
+        <player name="O. Urhoghide" rating="69"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

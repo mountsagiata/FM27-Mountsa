@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tactics Board -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M30,28h44c2.21,0 4,1.79 4,4v44c0,2.21 -1.79,4 -4,4h-44c-2.21,0 -4,-1.79 -4,-4v-44c0,-2.21 1.79,-4 4,-4z" />
+
+    <!-- Board Clip/Top -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M44,28h16v4h-16z" />
+
+    <!-- Pitch lines on board -->
+    <path
+        android:strokeColor="#81C784"
+        android:strokeWidth="0.8"
+        android:pathData="M30,52h44 M52,28v48" />
+    <path
+        android:strokeColor="#81C784"
+        android:strokeWidth="0.8"
+        android:pathData="M52,52m-8,0a8,8 0 1,1 16,0a8,8 0 1,1 -16,0" />
+
+    <!-- Tactic Markers (X and O) -->
+    <!-- X Marker (Red) -->
+    <path
+        android:strokeColor="#E53935"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,40l6,6 M44,40l-6,6" />
+
+    <!-- O Marker (Blue) -->
+    <path
+        android:strokeColor="#1E88E5"
+        android:strokeWidth="1.5"
+        android:pathData="M62,64m-3.5,0a3.5,3.5 0 1,1 7,0a3.5,3.5 0 1,1 -7,0" />
+
+    <!-- Movement Arrow -->
+    <path
+        android:strokeColor="#FDD835"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M46,46c4,0 8,8 12,8" />
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M58,54l-2,-1.5l0,3z" />
+
+    <!-- Whistle -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M70,36h6c1.1,0 2,0.9 2,2v4c0,1.1 -0.9,2 -2,2h-6z" />
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M74,34c2.2,0 4,1.8 4,4v4c0,2.2 -1.8,4 -4,4h-4v-12h4z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M70,36h2v8h-2z" />
+
+</vector>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="3. Liga" total_teams="20" generated="2026-05-10">
+  <league_info>
+    <name>3. Liga</name>
+    <total_players>547</total_players>
+    <average_team_rating>62.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="1. FC Saarbrücken" players="28">
+      <name>1. FC Saarbrücken</name>
+      <average_rating>64.6</average_rating>
+      <total_value_eur>22710000</total_value_eur>
+      <top_players>
+        <player name="P. Menzel" rating="69"/>
+        <player name="K. Rabihic" rating="68"/>
+        <player name="R. Bormuth" rating="68"/>
+        <player name="S. Vasiliadis" rating="67"/>
+        <player name="P. Sontheimer" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Hansa Rostock" players="29">
+      <name>FC Hansa Rostock</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>23220000</total_value_eur>
+      <top_players>
+        <player name="A. Gürleyen" rating="68"/>
+        <player name="B. Uphoff" rating="68"/>
+        <player name="A. Voglsammer" rating="67"/>
+        <player name="A. Lebeau" rating="67"/>
+        <player name="M. Krauß" rating="67"/>
+      </top_players>
+    </team>
+    <team name="TSV 1860 München" players="29">
+      <name>TSV 1860 München</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>20475000</total_value_eur>
+      <top_players>
+        <player name="K. Volland" rating="70"/>
+        <player name="F. Niederlechner" rating="69"/>
+        <player name="M. Pfeifer" rating="69"/>
+        <player name="T. Dähne" rating="69"/>
+        <player name="J. Verlaat" rating="68"/>
+      </top_players>
+    </team>
+    <team name="SSV Ulm 1846" players="27">
+      <name>SSV Ulm 1846</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>20425000</total_value_eur>
+      <top_players>
+        <player name="J. Reichert" rating="69"/>
+        <player name="M. Brandt" rating="68"/>
+        <player name="J. David" rating="67"/>
+        <player name="C. Ortag" rating="67"/>
+        <player name="D. Dressel" rating="66"/>
+      </top_players>
+    </team>
+    <team name="VfL Osnabrück" players="26">
+      <name>VfL Osnabrück</name>
+      <average_rating>63.1</average_rating>
+      <total_value_eur>18340000</total_value_eur>
+      <top_players>
+        <player name="K. Pröger" rating="68"/>
+        <player name="J. Müller" rating="68"/>
+        <player name="L. Kehl" rating="67"/>
+        <player name="D. Kopacz" rating="67"/>
+        <player name="B. Henning" rating="66"/>
+      </top_players>
+    </team>
+    <team name="SSV Jahn Regensburg" players="27">
+      <name>SSV Jahn Regensburg</name>
+      <average_rating>62.9</average_rating>
+      <total_value_eur>19850000</total_value_eur>
+      <top_players>
+        <player name="F. Gebhardt" rating="68"/>
+        <player name="J. Pollersbeck" rating="67"/>
+        <player name="A. Geipl" rating="66"/>
+        <player name="B. Saller" rating="66"/>
+        <player name="C. Kühlwetter" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Rot-Weiss Essen" players="25">
+      <name>Rot-Weiss Essen</name>
+      <average_rating>62.9</average_rating>
+      <total_value_eur>20120000</total_value_eur>
+      <top_players>
+        <player name="J. Golz" rating="69"/>
+        <player name="A. Arslan" rating="68"/>
+        <player name="L. Brumme" rating="67"/>
+        <player name="K. Gjasula" rating="67"/>
+        <player name="L. Bazzoli" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Alemannia Aachen" players="27">
+      <name>Alemannia Aachen</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>18775000</total_value_eur>
+      <top_players>
+        <player name="J. Olschowsky" rating="68"/>
+        <player name="L. Gindorf" rating="67"/>
+        <player name="J. Lorch" rating="66"/>
+        <player name="D. Wiebe" rating="66"/>
+        <player name="L. Scepanik" rating="65"/>
+      </top_players>
+    </team>
+    <team name="SV Wehen Wiesbaden" players="30">
+      <name>SV Wehen Wiesbaden</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>23855000</total_value_eur>
+      <top_players>
+        <player name="F. Kaya" rating="70"/>
+        <player name="F. Stritzel" rating="68"/>
+        <player name="N. May" rating="67"/>
+        <player name="S. Mockenhaupt" rating="67"/>
+        <player name="F. Luckeneder" rating="67"/>
+      </top_players>
+    </team>
+    <team name="SV Waldhof Mannheim" players="26">
+      <name>SV Waldhof Mannheim</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>16975000</total_value_eur>
+      <top_players>
+        <player name="Masca" rating="68"/>
+        <player name="F. Lohkemper" rating="67"/>
+        <player name="A. Ferati" rating="66"/>
+        <player name="T. Boyd" rating="66"/>
+        <player name="L. Klünter" rating="65"/>
+      </top_players>
+    </team>
+    <team name="MSV Duisburg" players="28">
+      <name>MSV Duisburg</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>19100000</total_value_eur>
+      <top_players>
+        <player name="C. Viet" rating="66"/>
+        <player name="F. Krüger" rating="66"/>
+        <player name="J. Bookjans" rating="65"/>
+        <player name="P. Sussek" rating="65"/>
+        <player name="R. Bulić" rating="65"/>
+      </top_players>
+    </team>
+    <team name="FC Ingolstadt 04" players="24">
+      <name>FC Ingolstadt 04</name>
+      <average_rating>62.1</average_rating>
+      <total_value_eur>17535000</total_value_eur>
+      <top_players>
+        <player name="M. Besuschkow" rating="68"/>
+        <player name="M. Costly" rating="67"/>
+        <player name="L. Fröde" rating="66"/>
+        <player name="S. Lorenz" rating="66"/>
+        <player name="Y. Deichmann" rating="65"/>
+      </top_players>
+    </team>
+    <team name="FC Erzgebirge Aue" players="27">
+      <name>FC Erzgebirge Aue</name>
+      <average_rating>61.9</average_rating>
+      <total_value_eur>17435000</total_value_eur>
+      <top_players>
+        <player name="M. Bär" rating="67"/>
+        <player name="M. Stefaniak" rating="67"/>
+        <player name="M. Männel" rating="67"/>
+        <player name="J. Guttau" rating="66"/>
+        <player name="E. Uhlmann" rating="65"/>
+      </top_players>
+    </team>
+    <team name="SC Verl" players="26">
+      <name>SC Verl</name>
+      <average_rating>61.8</average_rating>
+      <total_value_eur>18870000</total_value_eur>
+      <top_players>
+        <player name="B. Taz" rating="68"/>
+        <player name="P. Schulze" rating="66"/>
+        <player name="Y. Otto" rating="65"/>
+        <player name="T. Gayret" rating="65"/>
+        <player name="N. Kijewski" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Viktoria Köln" players="26">
+      <name>Viktoria Köln</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>17525000</total_value_eur>
+      <top_players>
+        <player name="F. Ronstadt" rating="66"/>
+        <player name="S. Kozuki" rating="66"/>
+        <player name="L. Dietz" rating="66"/>
+        <player name="L. Lobinger" rating="66"/>
+        <player name="S. Handle" rating="65"/>
+      </top_players>
+    </team>
+    <team name="FC Energie Cottbus" players="28">
+      <name>FC Energie Cottbus</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>17405000</total_value_eur>
+      <top_players>
+        <player name="T. Ciğerci" rating="69"/>
+        <player name="E. Bethke" rating="69"/>
+        <player name="E. Engelhardt" rating="66"/>
+        <player name="D. Pelivan" rating="66"/>
+        <player name="A. Lucoqui" rating="66"/>
+      </top_players>
+    </team>
+    <team name="1. FC Schweinfurt 05" players="31">
+      <name>1. FC Schweinfurt 05</name>
+      <average_rating>60.8</average_rating>
+      <total_value_eur>14740000</total_value_eur>
+      <top_players>
+        <player name="J. Geis" rating="65"/>
+        <player name="K. Böhnlein" rating="64"/>
+        <player name="K. Fery" rating="64"/>
+        <player name="E. Shuranov" rating="64"/>
+        <player name="J. Endres" rating="64"/>
+      </top_players>
+    </team>
+    <team name="TSV Havelse" players="29">
+      <name>TSV Havelse</name>
+      <average_rating>60.3</average_rating>
+      <total_value_eur>12820000</total_value_eur>
+      <top_players>
+        <player name="J. Düker" rating="65"/>
+        <player name="M. Ilić" rating="65"/>
+        <player name="F. Riedel" rating="64"/>
+        <player name="N. Plume" rating="64"/>
+        <player name="T. Opitz" rating="64"/>
+      </top_players>
+    </team>
+    <team name="VfB Stuttgart II" players="29">
+      <name>VfB Stuttgart II</name>
+      <average_rating>59.7</average_rating>
+      <total_value_eur>16945000</total_value_eur>
+      <top_players>
+        <player name="D. Nothnagel" rating="63"/>
+        <player name="N. Sessa" rating="63"/>
+        <player name="M. Sankoh" rating="63"/>
+        <player name="T. Kastanaras" rating="63"/>
+        <player name="M. Glück" rating="63"/>
+      </top_players>
+    </team>
+    <team name="TSG 1899 Hoffenheim II" players="25">
+      <name>TSG 1899 Hoffenheim II</name>
+      <average_rating>58.9</average_rating>
+      <total_value_eur>13275000</total_value_eur>
+      <top_players>
+        <player name="Y. Lührs" rating="64"/>
+        <player name="A. Amaimouni" rating="63"/>
+        <player name="N. Jindaoui" rating="63"/>
+        <player name="F. Bähr" rating="62"/>
+        <player name="P. Hennrich" rating="62"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

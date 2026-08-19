@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Premier Division" total_teams="10" generated="2026-05-10">
+  <league_info>
+    <name>Premier Division</name>
+    <total_players>256</total_players>
+    <average_team_rating>58.3</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="St Patrick's Athletic FC" players="25">
+      <name>St Patrick&amp;apos;s Athletic FC</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>12360000</total_value_eur>
+      <top_players>
+        <player name="J. Anang" rating="67"/>
+        <player name="C. Forrester" rating="66"/>
+        <player name="R. Palmer" rating="65"/>
+        <player name="J. Mulraney" rating="64"/>
+        <player name="J. Lennon" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Shelbourne FC" players="27">
+      <name>Shelbourne FC</name>
+      <average_rating>59.7</average_rating>
+      <total_value_eur>10610000</total_value_eur>
+      <top_players>
+        <player name="C. Kearns" rating="67"/>
+        <player name="K. McInroy" rating="63"/>
+        <player name="S. Gannon" rating="63"/>
+        <player name="P. Barrett" rating="63"/>
+        <player name="E. Chapman" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Shamrock Rovers" players="26">
+      <name>Shamrock Rovers</name>
+      <average_rating>59.5</average_rating>
+      <total_value_eur>9310000</total_value_eur>
+      <top_players>
+        <player name="R. Lopes" rating="66"/>
+        <player name="G. Burke" rating="65"/>
+        <player name="E. McGinty" rating="65"/>
+        <player name="D. Watts" rating="64"/>
+        <player name="D. Cleary" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Derry City" players="23">
+      <name>Derry City</name>
+      <average_rating>59.5</average_rating>
+      <total_value_eur>7125000</total_value_eur>
+      <top_players>
+        <player name="M. Duffy" rating="67"/>
+        <player name="C. Winchester" rating="63"/>
+        <player name="A. O'Reilly" rating="62"/>
+        <player name="L. Boyce" rating="62"/>
+        <player name="B. Fleming" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Bohemian FC" players="23">
+      <name>Bohemian FC</name>
+      <average_rating>59.3</average_rating>
+      <total_value_eur>7980000</total_value_eur>
+      <top_players>
+        <player name="D. Devoy" rating="65"/>
+        <player name="R. Tierney" rating="64"/>
+        <player name="J. Okedina" rating="63"/>
+        <player name="J. Clarke" rating="62"/>
+        <player name="D. Rooney" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Galway United" players="24">
+      <name>Galway United</name>
+      <average_rating>57.3</average_rating>
+      <total_value_eur>4880000</total_value_eur>
+      <top_players>
+        <player name="R. Slevin" rating="62"/>
+        <player name="K. Brouder" rating="62"/>
+        <player name="B. Burns" rating="60"/>
+        <player name="G. Cunningham" rating="60"/>
+        <player name="J. Esua" rating="60"/>
+      </top_players>
+    </team>
+    <team name="Sligo Rovers" players="26">
+      <name>Sligo Rovers</name>
+      <average_rating>57.2</average_rating>
+      <total_value_eur>6745000</total_value_eur>
+      <top_players>
+        <player name="J. McManus" rating="61"/>
+        <player name="J. Hakiki" rating="60"/>
+        <player name="O. Elding" rating="60"/>
+        <player name="P. McClean" rating="59"/>
+        <player name="W. Fitzgerald" rating="59"/>
+      </top_players>
+    </team>
+    <team name="Waterford FC" players="28">
+      <name>Waterford FC</name>
+      <average_rating>56.8</average_rating>
+      <total_value_eur>6445000</total_value_eur>
+      <top_players>
+        <player name="P. Amond" rating="63"/>
+        <player name="C. Noonan" rating="61"/>
+        <player name="D. Leahy" rating="60"/>
+        <player name="T. Lonergan" rating="60"/>
+        <player name="J. Olayinka" rating="59"/>
+      </top_players>
+    </team>
+    <team name="Drogheda United" players="27">
+      <name>Drogheda United</name>
+      <average_rating>56.7</average_rating>
+      <total_value_eur>6890000</total_value_eur>
+      <top_players>
+        <player name="C. Keeley" rating="62"/>
+        <player name="D. Markey" rating="61"/>
+        <player name="L. Dennison" rating="61"/>
+        <player name="S. Farrell" rating="60"/>
+        <player name="E. Ahui" rating="60"/>
+      </top_players>
+    </team>
+    <team name="Cork City" players="27">
+      <name>Cork City</name>
+      <average_rating>55.8</average_rating>
+      <total_value_eur>6775000</total_value_eur>
+      <top_players>
+        <player name="Benny Couto" rating="60"/>
+        <player name="S. Maguire" rating="59"/>
+        <player name="R. Keating" rating="59"/>
+        <player name="K. Nelson" rating="59"/>
+        <player name="C. O'Sullivan" rating="59"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

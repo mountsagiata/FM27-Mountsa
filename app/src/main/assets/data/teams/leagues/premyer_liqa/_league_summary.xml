@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Premyer Liqa" total_teams="1" generated="2026-05-10">
+  <league_info>
+    <name>Premyer Liqa</name>
+    <total_players>25</total_players>
+    <average_team_rating>67.4</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Qarabağ FK" players="25">
+      <name>Qarabağ FK</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>31950000</total_value_eur>
+      <top_players>
+        <player name="Leandro Andrade" rating="72"/>
+        <player name="A. Zoubir" rating="71"/>
+        <player name="Kady" rating="70"/>
+        <player name="S. Magomedaliyev" rating="70"/>
+        <player name="T. Bayramov" rating="69"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

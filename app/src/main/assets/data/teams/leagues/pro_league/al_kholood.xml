@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="Al Kholood" league="Pro League" total_players="26" generated="2026-05-10">
+  <team_info>
+    <name>Al Kholood</name>
+    <league>Pro League</league>
+    <average_rating>60.5</average_rating>
+    <highest_rating>74</highest_rating>
+    <lowest_rating>50</lowest_rating>
+    <total_value_eur>21495000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="234333">
+      <basic_info>
+        <name>M. Maolida</name>
+        <full_name>Myziane Maolida</full_name>
+        <age>26</age>
+        <nationality>Comoros</nationality>
+        <height_cm>181</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>ST</position>
+        <jersey_number>9.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>74</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>ST</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>83.0</pace>
+        <shooting>72.0</shooting>
+        <passing>65.0</passing>
+        <dribbling>79.0</dribbling>
+        <defending>24.0</defending>
+        <physical>63.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>5000000</value_eur>
+        <wage_eur>16000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>8600000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/234/333/26_120.png</face_url>
+    </player>
+    <player id="241538">
+      <basic_info>
+        <name>S. Pinas</name>
+        <full_name>Shaquille Riley Pinas</full_name>
+        <age>27</age>
+        <nationality>Suriname</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>SUB</position>
+        <jersey_number>38.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>73</overall>
+        <potential>74</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>CB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>64.0</shooting>
+        <passing>68.0</passing>
+        <dribbling>69.0</dribbling>
+        <defending>69.0</defending>
+        <physical>73.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>3200000</value_eur>
+        <wage_eur>14000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>5500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/241/538/26_120.png</face_url>
+    </player>
+    <player id="213414">
+      <basic_info>
+        <name>W. Troost-Ekong</name>
+        <full_name>William Paul Troost-Ekong</full_name>
+        <age>31</age>
+        <nationality>Nigeria</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>92</weight_kg>
+        <position>LCB</position>
+        <jersey_number>5.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>61.0</pace>
+        <shooting>32.0</shooting>
+        <passing>44.0</passing>
+        <dribbling>43.0</dribbling>
+        <defending>72.0</defending>
+        <physical>78.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1300000</value_eur>
+        <wage_eur>12000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/213/414/26_120.png</face_url>
+    </player>
+    <player id="261072">
+      <basic_info>
+        <name>R. Enrique</name>
+        <full_name>Ramiro Enrique Paz</full_name>
+        <age>24</age>
+        <nationality>Argentina</nationality>
+        <height_cm>171</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>18.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>77</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>LW</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>80.0</pace>
+        <shooting>69.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>71.0</dribbling>
+        <defending>27.0</defending>
+        <physical>65.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>3200000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>5900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/261/072/26_120.png</face_url>
+    </player>
+    <player id="246610">
+      <basic_info>
+        <name>J. Cozzani</name>
+        <full_name>Juan Pablo Cozzani</full_name>
+        <age>26</age>
+        <nationality>Argentina</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>GK</position>
+        <jersey_number>31.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>1800000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2026.0</contract_until>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/610/26_120.png</face_url>
+    </player>
+    <player id="220061">
+      <basic_info>
+        <name>N. Gyömbér</name>
+        <full_name>Norbert Gyömbér</full_name>
+        <age>32</age>
+        <nationality>Slovakia</nationality>
+        <height_cm>189</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>RCB</position>
+        <jersey_number>23.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>37.0</pace>
+        <shooting>31.0</shooting>
+        <passing>43.0</passing>
+        <dribbling>49.0</dribbling>
+        <defending>71.0</defending>
+        <physical>70.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>900000</value_eur>
+        <wage_eur>9000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/220/061/26_120.png</face_url>
+    </player>
+    <player id="242749">
+      <basic_info>
+        <name>J. Buckley</name>
+        <full_name>John Keaton Buckley</full_name>
+        <age>25</age>
+        <nationality>England</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>63</weight_kg>
+        <position>RCM</position>
+        <jersey_number>6.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>71.0</pace>
+        <shooting>60.0</shooting>
+        <passing>66.0</passing>
+        <dribbling>71.0</dribbling>
+        <defending>63.0</defending>
+        <physical>66.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1800000</value_eur>
+        <wage_eur>8000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>3100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/242/749/26_120.png</face_url>
+    </player>
+    <player id="229011">
+      <basic_info>
+        <name>K. N&amp;apos;Doram</name>
+        <full_name>Kévin N&amp;apos;Doram</full_name>
+        <age>29</age>
+        <nationality>France</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>LCM</position>
+        <jersey_number>96.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>65</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>62.0</pace>
+        <shooting>46.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>61.0</dribbling>
+        <defending>64.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>600000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>990000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/229/011/26_120.png</face_url>
+    </player>
+    <player id="208974">
+      <basic_info>
+        <name>H. Bahebri</name>
+        <full_name>Hattan Sultan Ahmed Bahebriهتان سلطان أحمد باهبري</full_name>
+        <age>32</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>172</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>LM</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>LW</position>
+        <position>RM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>5</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>63.0</shooting>
+        <passing>60.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>46.0</defending>
+        <physical>67.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>619000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/208/974/26_120.png</face_url>
+    </player>
+    <player id="242558">
+      <basic_info>
+        <name>R. Solan</name>
+        <full_name>Ramzi Fateh El Deen Solanرمزي فتح الدين صولان</full_name>
+        <age>27</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>170</height_cm>
+        <weight_kg>66</weight_kg>
+        <position>SUB</position>
+        <jersey_number>15.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>83.0</pace>
+        <shooting>49.0</shooting>
+        <passing>51.0</passing>
+        <dribbling>63.0</dribbling>
+        <defending>50.0</defending>
+        <physical>56.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>250000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>431000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/242/558/26_120.png</face_url>
+    </player>
+    <player id="251660">
+      <basic_info>
+        <name>A. Al Safri</name>
+        <full_name>Abdulrahman Salem Aatiq Al Safariعبدالرحمن السفري</full_name>
+        <age>32</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>174</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>8.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>54.0</pace>
+        <shooting>39.0</shooting>
+        <passing>60.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>58.0</defending>
+        <physical>69.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>190000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>314000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/251/660/26_120.png</face_url>
+    </player>
+    <player id="213007">
+      <basic_info>
+        <name>A. Aseri</name>
+        <full_name>Abdulfattah Tawfiq Jaber Asiriعبد الفتاح توفيق عسيري</full_name>
+        <age>31</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>167</height_cm>
+        <weight_kg>61</weight_kg>
+        <position>CAM</position>
+        <jersey_number>45.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>CAM</position>
+        <position>RB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>58.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>28.0</defending>
+        <physical>42.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>200000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>330000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/213/007/26_120.png</face_url>
+    </player>
+    <player id="72739">
+      <basic_info>
+        <name>M. Sawaan</name>
+        <full_name>Mohammed Hussein Sawaan Samiliمحمد صوعان</full_name>
+        <age>24</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>170</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>RM</position>
+        <jersey_number>70.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>59</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>75.0</pace>
+        <shooting>50.0</shooting>
+        <passing>50.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>36.0</defending>
+        <physical>45.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>300000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>518000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/072/739/26_120.png</face_url>
+    </player>
+    <player id="232904">
+      <basic_info>
+        <name>A. Al Dawsari</name>
+        <full_name>Abdulrahman Mutlaq Al Dosariعبدالرحمن الدوسري</full_name>
+        <age>27</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>SUB</position>
+        <jersey_number>14.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>59</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>42.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>62.0</dribbling>
+        <defending>56.0</defending>
+        <physical>66.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>250000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>431000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/232/904/26_120.png</face_url>
+    </player>
+    <player id="231179">
+      <basic_info>
+        <name>J. Al Dossary</name>
+        <full_name>Jamaan Abdullah Al Dosariجمعان الدوسري</full_name>
+        <age>31</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>SUB</position>
+        <jersey_number>98.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>58</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>LB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>66.0</pace>
+        <shooting>27.0</shooting>
+        <passing>45.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>54.0</defending>
+        <physical>70.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>140000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>231000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/231/179/26_120.png</face_url>
+    </player>
+    <player id="275571">
+      <basic_info>
+        <name>A. Al Olewah</name>
+        <full_name>Abdulaziz Saud Al Elewai</full_name>
+        <age>21</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>RES</position>
+        <jersey_number>46.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>86.0</pace>
+        <shooting>42.0</shooting>
+        <passing>50.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>33.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>500000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2030.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/275/571/26_120.png</face_url>
+    </player>
+    <player id="72741">
+      <basic_info>
+        <name>S. Al Shehri</name>
+        <full_name>Sultan Amer Ali Al Qahimi Al Shahriسلطان الشهري</full_name>
+        <age>29</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>62</weight_kg>
+        <position>LB</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>43.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>52.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>140000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>231000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/072/741/26_120.png</face_url>
+    </player>
+    <player id="72724">
+      <basic_info>
+        <name>J. Al Ashban</name>
+        <full_name>Jassim Mohammed Abdulrahman Al Ashbanجاسم العشبان</full_name>
+        <age>30</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>SUB</position>
+        <jersey_number>33.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>182000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/072/724/26_120.png</face_url>
+    </player>
+    <player id="77534">
+      <basic_info>
+        <name>Guga</name>
+        <full_name>Gustavo Gouveia Rodrigues Cruz</full_name>
+        <age>18</age>
+        <nationality>Brazil</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>99.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>62.0</pace>
+        <shooting>56.0</shooting>
+        <passing>50.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>35.0</defending>
+        <physical>51.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>928000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/534/26_120.png</face_url>
+    </player>
+    <player id="74948">
+      <basic_info>
+        <name>H. Al Asmari</name>
+        <full_name>Hassan Ali Abdo Al Khadda Al Asmariحسن علي عبده الأسمري</full_name>
+        <age>22</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>174</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>RB</position>
+        <jersey_number>12.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>CB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>67.0</pace>
+        <shooting>29.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>50.0</dribbling>
+        <defending>52.0</defending>
+        <physical>65.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>509000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/074/948/26_120.png</face_url>
+    </player>
+    <player id="234605">
+      <basic_info>
+        <name>N. Al Shwaier</name>
+        <full_name>Nawaf Al Shuwaierنواف حمود الشويعر</full_name>
+        <age>33</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>170</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>SUB</position>
+        <jersey_number>39.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>54</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>43.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>42.0</defending>
+        <physical>47.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>70000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>116000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/234/605/26_120.png</face_url>
+    </player>
+    <player id="259364">
+      <basic_info>
+        <name>M. Al Shammari</name>
+        <full_name>Mohammed Mazyad Mofrah Al Shammari</full_name>
+        <age>33</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>30.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>54</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>35000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2029.0</contract_until>
+        <release_clause>58000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/259/364/26_120.png</face_url>
+    </player>
+    <player id="74949">
+      <basic_info>
+        <name>M. Khalifa</name>
+        <full_name>Majed Khalifa</full_name>
+        <age>21</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>74.0</pace>
+        <shooting>48.0</shooting>
+        <passing>38.0</passing>
+        <dribbling>51.0</dribbling>
+        <defending>31.0</defending>
+        <physical>55.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>180000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>333000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/074/949/26_120.png</face_url>
+    </player>
+    <player id="277460">
+      <basic_info>
+        <name>A. Masoud</name>
+        <full_name>Abdullah Masoud Kamel Ahmedعبدالله مسعود كامل</full_name>
+        <age>22</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>66</weight_kg>
+        <position>RES</position>
+        <jersey_number>13.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>RB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>64.0</pace>
+        <shooting>33.0</shooting>
+        <passing>42.0</passing>
+        <dribbling>42.0</dribbling>
+        <defending>51.0</defending>
+        <physical>58.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>120000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>222000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/277/460/26_120.png</face_url>
+    </player>
+    <player id="77389">
+      <basic_info>
+        <name>M. Al Oufi</name>
+        <full_name>Meshari Hamoud Al Oufiمشاري العوفي</full_name>
+        <age>19</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>SUB</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>RW</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>57.0</pace>
+        <shooting>54.0</shooting>
+        <passing>43.0</passing>
+        <dribbling>54.0</dribbling>
+        <defending>26.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>185000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/389/26_120.png</face_url>
+    </player>
+    <player id="74057">
+      <basic_info>
+        <name>A. Al Harbi</name>
+        <full_name>Abdulmalik Abdullah Saud Al Harbiعبدالملك الحربي</full_name>
+        <age>19</age>
+        <nationality>Saudi Arabia</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>47.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>LW</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>40.0</shooting>
+        <passing>43.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>27.0</defending>
+        <physical>48.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>250000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/074/057/26_120.png</face_url>
+    </player>
+  </players>
+</team>

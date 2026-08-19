@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="1. Division" total_teams="1" generated="2026-05-10">
+  <league_info>
+    <name>1. Division</name>
+    <total_players>29</total_players>
+    <average_team_rating>65.4</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="APOEL FC" players="29">
+      <name>APOEL FC</name>
+      <average_rating>65.4</average_rating>
+      <total_value_eur>32700000</total_value_eur>
+      <top_players>
+        <player name="Marquinhos" rating="74"/>
+        <player name="V. Belec" rating="73"/>
+        <player name="K. Laifis" rating="72"/>
+        <player name="M. Meyer" rating="71"/>
+        <player name="Dálcio" rating="70"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

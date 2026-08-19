@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Super League" total_teams="46" generated="2026-05-10">
+  <league_info>
+    <name>Super League</name>
+    <total_players>1299</total_players>
+    <average_team_rating>60.3</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Olympiacos FC" players="29">
+      <name>Olympiacos FC</name>
+      <average_rating>73.1</average_rating>
+      <total_value_eur>210800000</total_value_eur>
+      <top_players>
+        <player name="A. El Kaabi" rating="80"/>
+        <player name="Rodinei" rating="79"/>
+        <player name="K. Tzolakis" rating="79"/>
+        <player name="Chiquinho" rating="78"/>
+        <player name="S. Hezze" rating="78"/>
+      </top_players>
+    </team>
+    <team name="AEK Athens" players="32">
+      <name>AEK Athens</name>
+      <average_rating>72.2</average_rating>
+      <total_value_eur>123599999</total_value_eur>
+      <top_players>
+        <player name="João Mário" rating="78"/>
+        <player name="O. Pineda" rating="77"/>
+        <player name="A. Martial" rating="77"/>
+        <player name="R. Pereyra" rating="76"/>
+        <player name="N. Eliasson" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Panathinaikos FC" players="33">
+      <name>Panathinaikos FC</name>
+      <average_rating>71.8</average_rating>
+      <total_value_eur>125225000</total_value_eur>
+      <top_players>
+        <player name="D. Calabria" rating="78"/>
+        <player name="Tetê" rating="77"/>
+        <player name="A. Bakasetas" rating="76"/>
+        <player name="B. Drągowski" rating="76"/>
+        <player name="Renato Sanches" rating="75"/>
+      </top_players>
+    </team>
+    <team name="PAOK" players="29">
+      <name>PAOK</name>
+      <average_rating>71.0</average_rating>
+      <total_value_eur>111000000</total_value_eur>
+      <top_players>
+        <player name="A. Živković" rating="78"/>
+        <player name="K. Despodov" rating="77"/>
+        <player name="G. Konstantelias" rating="77"/>
+        <player name="R. Baba" rating="76"/>
+        <player name="Taison" rating="75"/>
+      </top_players>
+    </team>
+    <team name="BSC Young Boys" players="26">
+      <name>BSC Young Boys</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>54540000</total_value_eur>
+      <top_players>
+        <player name="E. Fernandes" rating="74"/>
+        <player name="Alvyn Sanches" rating="73"/>
+        <player name="J. Almada Monteiro" rating="73"/>
+        <player name="G. Wüthrich" rating="73"/>
+        <player name="A. Gigović" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC Basel 1893" players="31">
+      <name>FC Basel 1893</name>
+      <average_rating>66.4</average_rating>
+      <total_value_eur>73810000</total_value_eur>
+      <top_players>
+        <player name="X. Shaqiri" rating="78"/>
+        <player name="B. Traoré" rating="75"/>
+        <player name="D. Schmid" rating="74"/>
+        <player name="M. Hitz" rating="74"/>
+        <player name="P. Otele" rating="73"/>
+      </top_players>
+    </team>
+    <team name="FC Lugano" players="29">
+      <name>FC Lugano</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>45090000</total_value_eur>
+      <top_players>
+        <player name="R. Steffen" rating="75"/>
+        <player name="M. Zanotti" rating="73"/>
+        <player name="U. Bislimi" rating="72"/>
+        <player name="A. Grgić" rating="71"/>
+        <player name="A. Kendouci" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Servette FC" players="27">
+      <name>Servette FC</name>
+      <average_rating>65.7</average_rating>
+      <total_value_eur>33915000</total_value_eur>
+      <top_players>
+        <player name="T. Cognat" rating="75"/>
+        <player name="M. Stevanović" rating="75"/>
+        <player name="S. Rouiller" rating="72"/>
+        <player name="A. Jallow" rating="71"/>
+        <player name="G. Morandi" rating="70"/>
+      </top_players>
+    </team>
+    <team name="FC St.Gallen 1879" players="24">
+      <name>FC St.Gallen 1879</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>31265000</total_value_eur>
+      <top_players>
+        <player name="L. Zigi" rating="73"/>
+        <player name="L. Görtler" rating="72"/>
+        <player name="L. Daschner" rating="71"/>
+        <player name="Jordi Quintillà" rating="70"/>
+        <player name="C. Witzig" rating="70"/>
+      </top_players>
+    </team>
+    <team name="FC Sion" players="29">
+      <name>FC Sion</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>26915000</total_value_eur>
+      <top_players>
+        <player name="N. Lavanchy" rating="70"/>
+        <player name="D. Rrudhani" rating="70"/>
+        <player name="I. Chouaref" rating="69"/>
+        <player name="A. Racioppi" rating="69"/>
+        <player name="B. Kololli" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Lausanne-Sport" players="25">
+      <name>FC Lausanne-Sport</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>27680000</total_value_eur>
+      <top_players>
+        <player name="T. Bair" rating="71"/>
+        <player name="J. Roche" rating="70"/>
+        <player name="M. Poaty" rating="69"/>
+        <player name="A. Ajdini" rating="69"/>
+        <player name="K. Letica" rating="69"/>
+      </top_players>
+    </team>
+    <team name="FC Thun" players="26">
+      <name>FC Thun</name>
+      <average_rating>62.7</average_rating>
+      <total_value_eur>20360000</total_value_eur>
+      <top_players>
+        <player name="L. Bertone" rating="69"/>
+        <player name="F. Fehr" rating="69"/>
+        <player name="B. Labeau" rating="68"/>
+        <player name="K. Imeri" rating="67"/>
+        <player name="Genís" rating="66"/>
+      </top_players>
+    </team>
+    <team name="FC Luzern" players="27">
+      <name>FC Luzern</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>30305000</total_value_eur>
+      <top_players>
+        <player name="P. Loretz" rating="72"/>
+        <player name="M. Di Giusto" rating="70"/>
+        <player name="P. Dorn" rating="69"/>
+        <player name="S. Karweina" rating="68"/>
+        <player name="L. Villiger" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Zürich" players="32">
+      <name>FC Zürich</name>
+      <average_rating>62.2</average_rating>
+      <total_value_eur>30290000</total_value_eur>
+      <top_players>
+        <player name="S. Zuber" rating="74"/>
+        <player name="Y. Brecher" rating="71"/>
+        <player name="N. Palacio" rating="69"/>
+        <player name="B. Krasniqi" rating="68"/>
+        <player name="M. Rodić" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Winterthur" players="30">
+      <name>FC Winterthur</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>18395000</total_value_eur>
+      <top_players>
+        <player name="S. Kapino" rating="68"/>
+        <player name="T. Golliard" rating="67"/>
+        <player name="R. Arnold" rating="67"/>
+        <player name="B. Stillhart" rating="66"/>
+        <player name="L. Zuffi" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Mohun Bagan Super Giant" players="26">
+      <name>Mohun Bagan Super Giant</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>13360000</total_value_eur>
+      <top_players>
+        <player name="Alberto" rating="71"/>
+        <player name="J. Maclaren" rating="69"/>
+        <player name="G. Stewart" rating="69"/>
+        <player name="S. Bose" rating="68"/>
+        <player name="J. Cummings" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Grasshopper Club Zürich" players="25">
+      <name>Grasshopper Club Zürich</name>
+      <average_rating>60.9</average_rating>
+      <total_value_eur>22075000</total_value_eur>
+      <top_players>
+        <player name="J. Hammel" rating="72"/>
+        <player name="A. Abrashi" rating="66"/>
+        <player name="T. Verón" rating="66"/>
+        <player name="Lee Young Jun" rating="66"/>
+        <player name="A. Diaby" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Shanghai Port" players="35">
+      <name>Shanghai Port</name>
+      <average_rating>60.9</average_rating>
+      <total_value_eur>23350000</total_value_eur>
+      <top_players>
+        <player name="Leonardo" rating="74"/>
+        <player name="Gustavo" rating="73"/>
+        <player name="Melendo" rating="71"/>
+        <player name="Wu Lei" rating="71"/>
+        <player name="Matheus Jussa" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Mohammedan SC" players="18">
+      <name>Mohammedan SC</name>
+      <average_rating>60.7</average_rating>
+      <total_value_eur>4745000</total_value_eur>
+      <top_players>
+        <player name="M. Radhakrishnann" rating="66"/>
+        <player name="O. Bingwas" rating="66"/>
+        <player name="M. Majumdar" rating="64"/>
+        <player name="S. Divan" rating="64"/>
+        <player name="G. Prasad" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Chengdu Rongcheng" players="31">
+      <name>Chengdu Rongcheng</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>21625000</total_value_eur>
+      <top_players>
+        <player name="Rômulo" rating="75"/>
+        <player name="T. Letschert" rating="74"/>
+        <player name="Felipe Silva" rating="73"/>
+        <player name="Chow Tim" rating="72"/>
+        <player name="Wei Shihao" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Shanghai Shenhua" players="36">
+      <name>Shanghai Shenhua</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>26670000</total_value_eur>
+      <top_players>
+        <player name="André Luís" rating="73"/>
+        <player name="João Teixeira" rating="72"/>
+        <player name="Wilson Manafá" rating="71"/>
+        <player name="Wu Xi" rating="70"/>
+        <player name="I. Amadou" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Beijing Guoan" players="35">
+      <name>Beijing Guoan</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>20985000</total_value_eur>
+      <top_players>
+        <player name="Guga Rodrigues" rating="74"/>
+        <player name="Fábio Abreu" rating="74"/>
+        <player name="M. Ngadeu" rating="73"/>
+        <player name="Sai Erjiniao" rating="71"/>
+        <player name="Dawhan" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Shenzhen Peng City" players="27">
+      <name>Shenzhen Peng City</name>
+      <average_rating>59.2</average_rating>
+      <total_value_eur>10185000</total_value_eur>
+      <top_players>
+        <player name="R. Dugalić" rating="72"/>
+        <player name="E. Karzev" rating="69"/>
+        <player name="Edu García" rating="68"/>
+        <player name="Wesley" rating="66"/>
+        <player name="Jiang Zhipeng" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Zhejiang FC" players="29">
+      <name>Zhejiang FC</name>
+      <average_rating>59.2</average_rating>
+      <total_value_eur>15650000</total_value_eur>
+      <top_players>
+        <player name="A. Mitriță" rating="75"/>
+        <player name="F. Andrijašević" rating="71"/>
+        <player name="Lucas Possignolo" rating="70"/>
+        <player name="D. Owusu-Sekyere" rating="69"/>
+        <player name="Yago Cariello" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Shandong Taishan" players="31">
+      <name>Shandong Taishan</name>
+      <average_rating>58.6</average_rating>
+      <total_value_eur>22840000</total_value_eur>
+      <top_players>
+        <player name="Cryzan" rating="75"/>
+        <player name="Vako" rating="74"/>
+        <player name="Zeca" rating="73"/>
+        <player name="Guilherme Madruga" rating="69"/>
+        <player name="Wang Dalei" rating="69"/>
+      </top_players>
+    </team>
+    <team name="United Tigers SC" players="18">
+      <name>United Tigers SC</name>
+      <average_rating>58.6</average_rating>
+      <total_value_eur>1175000</total_value_eur>
+      <top_players>
+        <player name="G. Chatterjee" rating="64"/>
+        <player name="H. Bhandari" rating="62"/>
+        <player name="P. Bhatt" rating="62"/>
+        <player name="A. Chakraborty" rating="62"/>
+        <player name="A. Ginti" rating="61"/>
+      </top_players>
+    </team>
+    <team name="Tianjin Jinmen Tiger" players="28">
+      <name>Tianjin Jinmen Tiger</name>
+      <average_rating>58.5</average_rating>
+      <total_value_eur>17185000</total_value_eur>
+      <top_players>
+        <player name="Bruno Xadas" rating="74"/>
+        <player name="Quiles" rating="73"/>
+        <player name="Ros" rating="69"/>
+        <player name="A. Ademi" rating="69"/>
+        <player name="Ba Dun" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Goa" players="27">
+      <name>FC Goa</name>
+      <average_rating>57.8</average_rating>
+      <total_value_eur>8900000</total_value_eur>
+      <top_players>
+        <player name="Guarrotxena" rating="69"/>
+        <player name="Pol Moreno" rating="68"/>
+        <player name="Timor" rating="67"/>
+        <player name="Borja Herrera" rating="67"/>
+        <player name="Javi Siverio" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Dalian Yingbo" players="30">
+      <name>Dalian Yingbo</name>
+      <average_rating>57.8</average_rating>
+      <total_value_eur>12865000</total_value_eur>
+      <top_players>
+        <player name="Z. Labyad" rating="71"/>
+        <player name="C. Malele" rating="71"/>
+        <player name="Daniel Penha" rating="70"/>
+        <player name="I. Alimi" rating="69"/>
+        <player name="M. Traore" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Yunnan Yukun" players="29">
+      <name>Yunnan Yukun</name>
+      <average_rating>57.8</average_rating>
+      <total_value_eur>11625000</total_value_eur>
+      <top_players>
+        <player name="A. Ioniță" rating="70"/>
+        <player name="O. Maritu" rating="70"/>
+        <player name="Pedro Henrique" rating="70"/>
+        <player name="A. Burcă" rating="70"/>
+        <player name="Ma Zhen" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Wuhan Three Towns" players="32">
+      <name>Wuhan Three Towns</name>
+      <average_rating>57.7</average_rating>
+      <total_value_eur>11850000</total_value_eur>
+      <top_players>
+        <player name="Gustavo Sauer" rating="72"/>
+        <player name="Park Ji Soo" rating="70"/>
+        <player name="Darlan" rating="68"/>
+        <player name="A. Tudorie" rating="68"/>
+        <player name="Deng Hanwen" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Changchun Yatai" players="31">
+      <name>Changchun Yatai</name>
+      <average_rating>57.4</average_rating>
+      <total_value_eur>8080000</total_value_eur>
+      <top_players>
+        <player name="L. Rosić" rating="70"/>
+        <player name="W. Cyprien" rating="69"/>
+        <player name="S. Sunzu" rating="69"/>
+        <player name="Tan Long" rating="67"/>
+        <player name="Wu Yake" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Meizhou Hakka" players="27">
+      <name>Meizhou Hakka</name>
+      <average_rating>57.1</average_rating>
+      <total_value_eur>9090000</total_value_eur>
+      <top_players>
+        <player name="Rodrigo Henrique" rating="68"/>
+        <player name="J. Ngom Mbekeli" rating="68"/>
+        <player name="E. Ómarsson" rating="66"/>
+        <player name="B. Jočić" rating="66"/>
+        <player name="D. Morris" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Henan FC" players="32">
+      <name>Henan FC</name>
+      <average_rating>57.1</average_rating>
+      <total_value_eur>14765000</total_value_eur>
+      <top_players>
+        <player name="Bruno Nazario" rating="75"/>
+        <player name="F. Acheampong" rating="71"/>
+        <player name="Iago Maidana" rating="70"/>
+        <player name="Lucas Maia" rating="68"/>
+        <player name="Wang Shangyuan" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Qingdao Hainiu FC" players="33">
+      <name>Qingdao Hainiu FC</name>
+      <average_rating>57.0</average_rating>
+      <total_value_eur>9209000</total_value_eur>
+      <top_players>
+        <player name="E. Sarić" rating="71"/>
+        <player name="Wellington Silva" rating="70"/>
+        <player name="Filipe Augusto" rating="69"/>
+        <player name="D. Lamkel Zé" rating="69"/>
+        <player name="N. Radmanovac" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Qingdao West Coast FC" players="31">
+      <name>Qingdao West Coast FC</name>
+      <average_rating>56.9</average_rating>
+      <total_value_eur>14290000</total_value_eur>
+      <top_players>
+        <player name="Davidson" rating="74"/>
+        <player name="Nélson da Luz" rating="71"/>
+        <player name="A. Yakubu" rating="71"/>
+        <player name="Riccieli" rating="70"/>
+        <player name="Matheus Índio" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Mumbai City FC" players="24">
+      <name>Mumbai City FC</name>
+      <average_rating>56.3</average_rating>
+      <total_value_eur>6280000</total_value_eur>
+      <top_players>
+        <player name="Tiri" rating="68"/>
+        <player name="Y. van Nieff" rating="66"/>
+        <player name="J. Pereyra Díaz" rating="66"/>
+        <player name="L. Chhangte" rating="66"/>
+        <player name="Jon Toral" rating="66"/>
+      </top_players>
+    </team>
+    <team name="NorthEast United" players="32">
+      <name>NorthEast United</name>
+      <average_rating>55.9</average_rating>
+      <total_value_eur>9800000</total_value_eur>
+      <top_players>
+        <player name="Jairo" rating="70"/>
+        <player name="A. Ajaraie" rating="70"/>
+        <player name="Andy" rating="68"/>
+        <player name="Guillermo" rating="67"/>
+        <player name="M. Nickson" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Bengaluru FC" players="24">
+      <name>Bengaluru FC</name>
+      <average_rating>55.8</average_rating>
+      <total_value_eur>4625000</total_value_eur>
+      <top_players>
+        <player name="R. Williams" rating="69"/>
+        <player name="S. Chhetri" rating="68"/>
+        <player name="R. Bheke" rating="67"/>
+        <player name="A. Jovanović" rating="65"/>
+        <player name="C. Singh" rating="61"/>
+      </top_players>
+    </team>
+    <team name="Chennaiyin FC" players="18">
+      <name>Chennaiyin FC</name>
+      <average_rating>55.7</average_rating>
+      <total_value_eur>2985000</total_value_eur>
+      <top_players>
+        <player name="D. Chima Chukwu" rating="65"/>
+        <player name="P. Kotal" rating="62"/>
+        <player name="I. Yadwad" rating="61"/>
+        <player name="Elsinho" rating="58"/>
+        <player name="M. Nawaz" rating="58"/>
+      </top_players>
+    </team>
+    <team name="Odisha FC" players="18">
+      <name>Odisha FC</name>
+      <average_rating>55.5</average_rating>
+      <total_value_eur>4155000</total_value_eur>
+      <top_players>
+        <player name="H. Boumous" rating="69"/>
+        <player name="A. Singh" rating="66"/>
+        <player name="Carlos Delgado" rating="63"/>
+        <player name="L. Khawlhring" rating="58"/>
+        <player name="R. Praveen" rating="57"/>
+      </top_players>
+    </team>
+    <team name="East Bengal FC" players="38">
+      <name>East Bengal FC</name>
+      <average_rating>54.6</average_rating>
+      <total_value_eur>6684000</total_value_eur>
+      <top_players>
+        <player name="Cleiton Silva" rating="65"/>
+        <player name="Saúl Crespo" rating="64"/>
+        <player name="H. Ahadad" rating="64"/>
+        <player name="K. Sibille" rating="62"/>
+        <player name="M. Talal" rating="61"/>
+      </top_players>
+    </team>
+    <team name="Jamshedpur FC" players="31">
+      <name>Jamshedpur FC</name>
+      <average_rating>54.5</average_rating>
+      <total_value_eur>4575000</total_value_eur>
+      <top_players>
+        <player name="S. Eze" rating="69"/>
+        <player name="A. Gomes" rating="65"/>
+        <player name="L. Ćirković" rating="64"/>
+        <player name="A. Mehta" rating="58"/>
+        <player name="N. Kumar" rating="57"/>
+      </top_players>
+    </team>
+    <team name="Hyderabad FC" players="25">
+      <name>Hyderabad FC</name>
+      <average_rating>53.7</average_rating>
+      <total_value_eur>3519000</total_value_eur>
+      <top_players>
+        <player name="Allan Paulista" rating="61"/>
+        <player name="Andrei Alba" rating="59"/>
+        <player name="Edmilson Correia" rating="59"/>
+        <player name="A. Singh" rating="59"/>
+        <player name="L. Rodrigues" rating="58"/>
+      </top_players>
+    </team>
+    <team name="Kerala Blasters FC" players="27">
+      <name>Kerala Blasters FC</name>
+      <average_rating>53.6</average_rating>
+      <total_value_eur>5135000</total_value_eur>
+      <top_players>
+        <player name="A. Luna" rating="68"/>
+        <player name="N. Sadaoui" rating="68"/>
+        <player name="D. Lagator" rating="64"/>
+        <player name="H. Ruivah" rating="58"/>
+        <player name="P. Das" rating="56"/>
+      </top_players>
+    </team>
+    <team name="Punjab FC" players="22">
+      <name>Punjab FC</name>
+      <average_rating>51.4</average_rating>
+      <total_value_eur>2255000</total_value_eur>
+      <top_players>
+        <player name="V. Rai" rating="57"/>
+        <player name="N. Meetei" rating="54"/>
+        <player name="M. Uvais" rating="54"/>
+        <player name="B. Varghese" rating="54"/>
+        <player name="S. Kynshi" rating="53"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

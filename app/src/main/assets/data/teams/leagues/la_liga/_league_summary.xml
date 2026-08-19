@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="La Liga" total_teams="20" generated="2026-05-10">
+  <league_info>
+    <name>La Liga</name>
+    <total_players>554</total_players>
+    <average_team_rating>73.7</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Atlético Madrid" players="25">
+      <name>Atlético Madrid</name>
+      <average_rating>80.2</average_rating>
+      <total_value_eur>757600000</total_value_eur>
+      <top_players>
+        <player name="J. Oblak" rating="88"/>
+        <player name="J. Alvarez" rating="87"/>
+        <player name="A. Griezmann" rating="85"/>
+        <player name="Marcos Llorente" rating="84"/>
+        <player name="Álex Baena" rating="84"/>
+      </top_players>
+    </team>
+    <team name="Real Madrid" players="30">
+      <name>Real Madrid</name>
+      <average_rating>79.1</average_rating>
+      <total_value_eur>1424100000</total_value_eur>
+      <top_players>
+        <player name="K. Mbappé" rating="91"/>
+        <player name="J. Bellingham" rating="90"/>
+        <player name="F. Valverde" rating="89"/>
+        <player name="Vini Jr." rating="89"/>
+        <player name="T. Courtois" rating="89"/>
+      </top_players>
+    </team>
+    <team name="FC Barcelona" players="28">
+      <name>FC Barcelona</name>
+      <average_rating>78.5</average_rating>
+      <total_value_eur>1133000000</total_value_eur>
+      <top_players>
+        <player name="Raphinha" rating="89"/>
+        <player name="Pedri" rating="89"/>
+        <player name="Lamine Yamal" rating="89"/>
+        <player name="R. Lewandowski" rating="88"/>
+        <player name="F. de Jong" rating="87"/>
+      </top_players>
+    </team>
+    <team name="Athletic Club" players="27">
+      <name>Athletic Club</name>
+      <average_rating>76.3</average_rating>
+      <total_value_eur>500900000</total_value_eur>
+      <top_players>
+        <player name="Nico Williams" rating="86"/>
+        <player name="Unai Simón" rating="85"/>
+        <player name="Sancet" rating="84"/>
+        <player name="Vivian" rating="84"/>
+        <player name="Iñaki Williams" rating="83"/>
+      </top_players>
+    </team>
+    <team name="Real Sociedad" players="26">
+      <name>Real Sociedad</name>
+      <average_rating>75.6</average_rating>
+      <total_value_eur>362000000</total_value_eur>
+      <top_players>
+        <player name="Álex Remiro" rating="83"/>
+        <player name="Oyarzabal" rating="82"/>
+        <player name="T. Kubo" rating="82"/>
+        <player name="Y. Herrera" rating="81"/>
+        <player name="Brais Méndez" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Villarreal CF" players="29">
+      <name>Villarreal CF</name>
+      <average_rating>75.1</average_rating>
+      <total_value_eur>357300000</total_value_eur>
+      <top_players>
+        <player name="Ayoze" rating="83"/>
+        <player name="T. Partey" rating="83"/>
+        <player name="Parejo" rating="82"/>
+        <player name="Gerard Moreno" rating="81"/>
+        <player name="N. Pépé" rating="80"/>
+      </top_players>
+    </team>
+    <team name="RC Celta" players="28">
+      <name>RC Celta</name>
+      <average_rating>74.2</average_rating>
+      <total_value_eur>226600000</total_value_eur>
+      <top_players>
+        <player name="Iago Aspas" rating="83"/>
+        <player name="Mingueza" rating="80"/>
+        <player name="Borja Iglesias" rating="80"/>
+        <player name="Marcos Alonso" rating="79"/>
+        <player name="Fran Beltrán" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Girona FC" players="27">
+      <name>Girona FC</name>
+      <average_rating>74.2</average_rating>
+      <total_value_eur>206774999</total_value_eur>
+      <top_players>
+        <player name="D. Livaković" rating="80"/>
+        <player name="V. Tsygankov" rating="79"/>
+        <player name="Arnau Martínez" rating="79"/>
+        <player name="P. Gazzaniga" rating="79"/>
+        <player name="Bryan Gil" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Real Betis Balompié" players="32">
+      <name>Real Betis Balompié</name>
+      <average_rating>73.7</average_rating>
+      <total_value_eur>329450000</total_value_eur>
+      <top_players>
+        <player name="Isco" rating="84"/>
+        <player name="G. Lo Celso" rating="82"/>
+        <player name="Antony" rating="81"/>
+        <player name="Diego Llorente" rating="80"/>
+        <player name="Fornals" rating="79"/>
+      </top_players>
+    </team>
+    <team name="RCD Mallorca" players="26">
+      <name>RCD Mallorca</name>
+      <average_rating>73.2</average_rating>
+      <total_value_eur>199985000</total_value_eur>
+      <top_players>
+        <player name="Sergi Darder" rating="81"/>
+        <player name="Raíllo" rating="81"/>
+        <player name="V. Muriqi" rating="79"/>
+        <player name="J. Mojica" rating="78"/>
+        <player name="Samú Costa" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Valencia CF" players="28">
+      <name>Valencia CF</name>
+      <average_rating>73.0</average_rating>
+      <total_value_eur>248200000</total_value_eur>
+      <top_players>
+        <player name="Gayà" rating="81"/>
+        <player name="S. Dimitrievski" rating="79"/>
+        <player name="Luis Rioja" rating="78"/>
+        <player name="Hugo Duro" rating="78"/>
+        <player name="Diego López" rating="78"/>
+      </top_players>
+    </team>
+    <team name="RCD Espanyol" players="25">
+      <name>RCD Espanyol</name>
+      <average_rating>72.5</average_rating>
+      <total_value_eur>135800000</total_value_eur>
+      <top_players>
+        <player name="M. Dmitrović" rating="79"/>
+        <player name="Puado" rating="78"/>
+        <player name="Terrats" rating="77"/>
+        <player name="O. El Hilali" rating="77"/>
+        <player name="Kike García" rating="76"/>
+      </top_players>
+    </team>
+    <team name="CA Osasuna" players="26">
+      <name>CA Osasuna</name>
+      <average_rating>72.4</average_rating>
+      <total_value_eur>193150000</total_value_eur>
+      <top_players>
+        <player name="A. Budimir" rating="82"/>
+        <player name="Catena" rating="79"/>
+        <player name="Sergio Herrera" rating="79"/>
+        <player name="Moncayola" rating="78"/>
+        <player name="Rubén García" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Rayo Vallecano" players="29">
+      <name>Rayo Vallecano</name>
+      <average_rating>72.2</average_rating>
+      <total_value_eur>188875000</total_value_eur>
+      <top_players>
+        <player name="Isi" rating="81"/>
+        <player name="Álvaro García" rating="80"/>
+        <player name="A. Rațiu" rating="79"/>
+        <player name="A. Batalla" rating="79"/>
+        <player name="De Frutos" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Sevilla FC" players="31">
+      <name>Sevilla FC</name>
+      <average_rating>72.1</average_rating>
+      <total_value_eur>169299998</total_value_eur>
+      <top_players>
+        <player name="Azpilicueta" rating="78"/>
+        <player name="C. Ejuke" rating="78"/>
+        <player name="N. Gudelj" rating="77"/>
+        <player name="D. Sow" rating="76"/>
+        <player name="A. Sánchez" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Getafe CF" players="23">
+      <name>Getafe CF</name>
+      <average_rating>72.0</average_rating>
+      <total_value_eur>127025000</total_value_eur>
+      <top_players>
+        <player name="David Soria" rating="81"/>
+        <player name="M. Arambarri" rating="80"/>
+        <player name="Luis Milla" rating="79"/>
+        <player name="Diego Rico" rating="77"/>
+        <player name="Borja Mayoral" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Deportivo Alavés" players="25">
+      <name>Deportivo Alavés</name>
+      <average_rating>71.5</average_rating>
+      <total_value_eur>98274999</total_value_eur>
+      <top_players>
+        <player name="Carlos Vicente" rating="78"/>
+        <player name="N. Tenaglia" rating="76"/>
+        <player name="Ander Guevara" rating="76"/>
+        <player name="Sivera" rating="76"/>
+        <player name="Jonny" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Levante UD" players="27">
+      <name>Levante UD</name>
+      <average_rating>70.3</average_rating>
+      <total_value_eur>87675000</total_value_eur>
+      <top_players>
+        <player name="M. Ryan" rating="78"/>
+        <player name="Carlos Álvarez" rating="75"/>
+        <player name="Manu Sánchez" rating="75"/>
+        <player name="Morales" rating="74"/>
+        <player name="Olasagasti" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Real Oviedo" players="32">
+      <name>Real Oviedo</name>
+      <average_rating>69.8</average_rating>
+      <total_value_eur>82150000</total_value_eur>
+      <top_players>
+        <player name="David Carmo" rating="76"/>
+        <player name="L. Dendoncker" rating="75"/>
+        <player name="Santi Cazorla" rating="75"/>
+        <player name="J. Brekalo" rating="75"/>
+        <player name="Aarón" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Elche CF" players="30">
+      <name>Elche CF</name>
+      <average_rating>68.9</average_rating>
+      <total_value_eur>85075000</total_value_eur>
+      <top_players>
+        <player name="André Silva" rating="76"/>
+        <player name="Iñaki Peña" rating="76"/>
+        <player name="Adrià Pedrosa" rating="75"/>
+        <player name="D. Affengruber" rating="75"/>
+        <player name="M. Dituro" rating="75"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

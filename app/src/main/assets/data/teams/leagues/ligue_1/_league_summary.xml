@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Ligue 1" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Ligue 1</name>
+    <total_players>488</total_players>
+    <average_team_rating>71.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Paris Saint-Germain" players="23">
+      <name>Paris Saint-Germain</name>
+      <average_rating>80.8</average_rating>
+      <total_value_eur>1211650000</total_value_eur>
+      <top_players>
+        <player name="O. Dembélé" rating="90"/>
+        <player name="A. Hakimi" rating="89"/>
+        <player name="Vitinha" rating="89"/>
+        <player name="K. Kvaratskhelia" rating="87"/>
+        <player name="Marquinhos" rating="87"/>
+      </top_players>
+    </team>
+    <team name="Stade Rennais FC" players="21">
+      <name>Stade Rennais FC</name>
+      <average_rating>74.8</average_rating>
+      <total_value_eur>165800000</total_value_eur>
+      <top_players>
+        <player name="B. Samba" rating="80"/>
+        <player name="V. Rongier" rating="79"/>
+        <player name="M. Camara" rating="78"/>
+        <player name="S. Fofana" rating="77"/>
+        <player name="L. Blas" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Olympique de Marseille" players="32">
+      <name>Olympique de Marseille</name>
+      <average_rating>74.2</average_rating>
+      <total_value_eur>400190000</total_value_eur>
+      <top_players>
+        <player name="B. Pavard" rating="84"/>
+        <player name="P. Højbjerg" rating="82"/>
+        <player name="M. Greenwood" rating="82"/>
+        <player name="G. Rulli" rating="82"/>
+        <player name="P. Aubameyang" rating="81"/>
+      </top_players>
+    </team>
+    <team name="AS Monaco" players="28">
+      <name>AS Monaco</name>
+      <average_rating>74.0</average_rating>
+      <total_value_eur>311750000</total_value_eur>
+      <top_players>
+        <player name="D. Zakaria" rating="82"/>
+        <player name="L. Hrádecký" rating="81"/>
+        <player name="M. Akliouche" rating="80"/>
+        <player name="A. Golovin" rating="79"/>
+        <player name="P. Pogba" rating="79"/>
+      </top_players>
+    </team>
+    <team name="OGC Nice" players="28">
+      <name>OGC Nice</name>
+      <average_rating>73.5</average_rating>
+      <total_value_eur>203975000</total_value_eur>
+      <top_players>
+        <player name="J. Clauss" rating="80"/>
+        <player name="M. Bard" rating="78"/>
+        <player name="Dante" rating="78"/>
+        <player name="Y. Diouf" rating="78"/>
+        <player name="H. Boudaoui" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Lille OSC" players="29">
+      <name>Lille OSC</name>
+      <average_rating>72.8</average_rating>
+      <total_value_eur>199700000</total_value_eur>
+      <top_players>
+        <player name="B. André" rating="80"/>
+        <player name="Alexsandro" rating="80"/>
+        <player name="O. Giroud" rating="79"/>
+        <player name="H. Haraldsson" rating="78"/>
+        <player name="N. Bentaleb" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Olympique Lyonnais" players="26">
+      <name>Olympique Lyonnais</name>
+      <average_rating>72.1</average_rating>
+      <total_value_eur>192800000</total_value_eur>
+      <top_players>
+        <player name="C. Tolisso" rating="81"/>
+        <player name="N. Tagliafico" rating="78"/>
+        <player name="M. Fofana" rating="78"/>
+        <player name="D. Greif" rating="78"/>
+        <player name="A. Maitland-Niles" rating="77"/>
+      </top_players>
+    </team>
+    <team name="RC Strasbourg Alsace" players="29">
+      <name>RC Strasbourg Alsace</name>
+      <average_rating>72.0</average_rating>
+      <total_value_eur>201950000</total_value_eur>
+      <top_players>
+        <player name="E. Emegha" rating="78"/>
+        <player name="B. Chilwell" rating="77"/>
+        <player name="Diego Moreira" rating="77"/>
+        <player name="G. Doué" rating="77"/>
+        <player name="F. Lemaréchal" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Paris FC" players="29">
+      <name>Paris FC</name>
+      <average_rating>71.1</average_rating>
+      <total_value_eur>106960000</total_value_eur>
+      <top_players>
+        <player name="K. Trapp" rating="81"/>
+        <player name="H. Traoré" rating="79"/>
+        <player name="P. Lees-Melou" rating="78"/>
+        <player name="M. Simon" rating="77"/>
+        <player name="M. Lopez" rating="76"/>
+      </top_players>
+    </team>
+    <team name="RC Lens" players="28">
+      <name>RC Lens</name>
+      <average_rating>70.5</average_rating>
+      <total_value_eur>98149999</total_value_eur>
+      <top_players>
+        <player name="A. Thomasson" rating="77"/>
+        <player name="J. Gradit" rating="77"/>
+        <player name="D. Machado" rating="76"/>
+        <player name="F. Thauvin" rating="76"/>
+        <player name="R. Aguilar" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Stade Brestois 29" players="24">
+      <name>Stade Brestois 29</name>
+      <average_rating>70.5</average_rating>
+      <total_value_eur>105224999</total_value_eur>
+      <top_players>
+        <player name="L. Ajorque" rating="77"/>
+        <player name="B. Chardonnet" rating="77"/>
+        <player name="R. Majecki" rating="77"/>
+        <player name="K. Lala" rating="76"/>
+        <player name="R. Del Castillo" rating="76"/>
+      </top_players>
+    </team>
+    <team name="FC Lorient" players="26">
+      <name>FC Lorient</name>
+      <average_rating>69.7</average_rating>
+      <total_value_eur>67379999</total_value_eur>
+      <top_players>
+        <player name="Y. Mvogo" rating="76"/>
+        <player name="L. Abergel" rating="75"/>
+        <player name="B. Meïté" rating="73"/>
+        <player name="M. Talbi" rating="73"/>
+        <player name="D. Yongwa" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC Nantes" players="26">
+      <name>FC Nantes</name>
+      <average_rating>69.1</average_rating>
+      <total_value_eur>68625000</total_value_eur>
+      <top_players>
+        <player name="M. Abline" rating="76"/>
+        <player name="A. Lopes" rating="76"/>
+        <player name="F. Coquelin" rating="75"/>
+        <player name="J. Lepenant" rating="74"/>
+        <player name="Hong Hyeon Seok" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Le Havre AC" players="25">
+      <name>Le Havre AC</name>
+      <average_rating>68.9</average_rating>
+      <total_value_eur>54825000</total_value_eur>
+      <top_players>
+        <player name="A. Touré" rating="75"/>
+        <player name="G. Lloris" rating="74"/>
+        <player name="Y. Kechta" rating="73"/>
+        <player name="A. Sangante" rating="73"/>
+        <player name="L. Négo" rating="72"/>
+      </top_players>
+    </team>
+    <team name="FC Metz" players="26">
+      <name>FC Metz</name>
+      <average_rating>67.5</average_rating>
+      <total_value_eur>51650000</total_value_eur>
+      <top_players>
+        <player name="G. Hein" rating="76"/>
+        <player name="B. Stambouli" rating="73"/>
+        <player name="J. Deminguet" rating="72"/>
+        <player name="F. Ballo-Touré" rating="72"/>
+        <player name="C. Sabaly" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Toulouse FC" players="31">
+      <name>Toulouse FC</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>105725000</total_value_eur>
+      <top_players>
+        <player name="G. Restes" rating="78"/>
+        <player name="R. Nicolaisen" rating="76"/>
+        <player name="A. Dønnum" rating="75"/>
+        <player name="Y. Gboho" rating="75"/>
+        <player name="C. Cásseres Jr" rating="74"/>
+      </top_players>
+    </team>
+    <team name="AJ Auxerre" players="28">
+      <name>AJ Auxerre</name>
+      <average_rating>67.1</average_rating>
+      <total_value_eur>72650000</total_value_eur>
+      <top_players>
+        <player name="D. Léon" rating="76"/>
+        <player name="G. Mensah" rating="74"/>
+        <player name="L. Sinayoko" rating="74"/>
+        <player name="K. Danois" rating="74"/>
+        <player name="C. Akpa" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Angers SCO" players="29">
+      <name>Angers SCO</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>53375000</total_value_eur>
+      <top_players>
+        <player name="H. Abdelli" rating="76"/>
+        <player name="H. Belkebla" rating="74"/>
+        <player name="J. Lefort" rating="73"/>
+        <player name="H. Koffi" rating="73"/>
+        <player name="F. Hanin" rating="72"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

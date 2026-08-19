@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="K League 1" total_teams="12" generated="2026-05-10">
+  <league_info>
+    <name>K League 1</name>
+    <total_players>427</total_players>
+    <average_team_rating>60.6</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Ulsan HD FC" players="29">
+      <name>Ulsan HD FC</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>28795000</total_value_eur>
+      <top_players>
+        <player name="Jo Hyeon Woo" rating="75"/>
+        <player name="D. Bojanić" rating="73"/>
+        <player name="G. Ludwigson" rating="72"/>
+        <player name="Marcão" rating="72"/>
+        <player name="Ko Seung Beom" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Daejeon Citizen" players="36">
+      <name>Daejeon Citizen</name>
+      <average_rating>63.2</average_rating>
+      <total_value_eur>27770000</total_value_eur>
+      <top_players>
+        <player name="Joo Min Kyu" rating="74"/>
+        <player name="Lee Chang Geun" rating="74"/>
+        <player name="Kim Bong Soo" rating="72"/>
+        <player name="Lee Myung Jae" rating="70"/>
+        <player name="Kim Moon Hwan" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Gimcheon Sangmu FC" players="38">
+      <name>Gimcheon Sangmu FC</name>
+      <average_rating>62.2</average_rating>
+      <total_value_eur>30225000</total_value_eur>
+      <top_players>
+        <player name="Lee Dong Kyeong" rating="75"/>
+        <player name="Park Chan Yong" rating="68"/>
+        <player name="Lee Dong Jun" rating="67"/>
+        <player name="Park Cheol Woo" rating="67"/>
+        <player name="Jeon Byung Kwan" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Anyang" players="33">
+      <name>FC Anyang</name>
+      <average_rating>60.8</average_rating>
+      <total_value_eur>15635000</total_value_eur>
+      <top_players>
+        <player name="Bruno Mota" rating="72"/>
+        <player name="Matheus Oliveira" rating="71"/>
+        <player name="Kwon Kyung Won" rating="70"/>
+        <player name="Kim Jung Hyun" rating="68"/>
+        <player name="T. Oude Kotte" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Gangwon FC" players="38">
+      <name>Gangwon FC</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>23455000</total_value_eur>
+      <top_players>
+        <player name="Seo Min Woo" rating="70"/>
+        <player name="Lee Gi Hyeok" rating="69"/>
+        <player name="Kim Dae Won" rating="69"/>
+        <player name="M. Tući" rating="69"/>
+        <player name="Lee Sang Heon" rating="68"/>
+      </top_players>
+    </team>
+    <team name="FC Seoul" players="36">
+      <name>FC Seoul</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>30660000</total_value_eur>
+      <top_players>
+        <player name="Anderson Oliveira" rating="75"/>
+        <player name="Y. Al Arab" rating="75"/>
+        <player name="J. Lingard" rating="74"/>
+        <player name="Jeong Seung Won" rating="71"/>
+        <player name="Choi Jun" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Jeonbuk Hyundai Motors" players="38">
+      <name>Jeonbuk Hyundai Motors</name>
+      <average_rating>59.9</average_rating>
+      <total_value_eur>29170000</total_value_eur>
+      <top_players>
+        <player name="Song Bum Keun" rating="74"/>
+        <player name="Jeon Jin Woo" rating="72"/>
+        <player name="Kim Jin Kyu" rating="71"/>
+        <player name="Park Jin Seob" rating="71"/>
+        <player name="A. Compagno" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Pohang Steelers" players="38">
+      <name>Pohang Steelers</name>
+      <average_rating>59.7</average_rating>
+      <total_value_eur>24940000</total_value_eur>
+      <top_players>
+        <player name="Oberdan" rating="75"/>
+        <player name="Wanderson" rating="73"/>
+        <player name="Park Seung Wook" rating="71"/>
+        <player name="Lee Ho Jae" rating="71"/>
+        <player name="Ki Sung Yueng" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Jeju United FC" players="33">
+      <name>Jeju United FC</name>
+      <average_rating>59.5</average_rating>
+      <total_value_eur>16240000</total_value_eur>
+      <top_players>
+        <player name="Italo" rating="70"/>
+        <player name="Lee Chang Min" rating="70"/>
+        <player name="Song Ju Hun" rating="68"/>
+        <player name="Kim Dong Joon" rating="68"/>
+        <player name="Nam Tae Hee" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Daegu FC" players="38">
+      <name>Daegu FC</name>
+      <average_rating>59.4</average_rating>
+      <total_value_eur>18485000</total_value_eur>
+      <top_players>
+        <player name="Cesinha" rating="74"/>
+        <player name="Caio Marcelo" rating="71"/>
+        <player name="Hwang Jae Won" rating="70"/>
+        <player name="Bruno Lamas" rating="68"/>
+        <player name="Kim Jin Hyuk" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Gwangju FC" players="32">
+      <name>Gwangju FC</name>
+      <average_rating>59.2</average_rating>
+      <total_value_eur>13375000</total_value_eur>
+      <top_players>
+        <player name="Reis" rating="70"/>
+        <player name="Byeon Jun Soo" rating="69"/>
+        <player name="Kim Gyeong Min" rating="69"/>
+        <player name="Choi Kyoung Rok" rating="65"/>
+        <player name="Lee Kang Hyeon" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Suwon FC" players="38">
+      <name>Suwon FC</name>
+      <average_rating>58.7</average_rating>
+      <total_value_eur>15565000</total_value_eur>
+      <top_players>
+        <player name="P. Sabbag" rating="70"/>
+        <player name="Lee Jae Won" rating="69"/>
+        <player name="Ahn Joon Soo" rating="68"/>
+        <player name="Yoon Bit Garam" rating="67"/>
+        <player name="Ahn Hyun Beom" rating="67"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

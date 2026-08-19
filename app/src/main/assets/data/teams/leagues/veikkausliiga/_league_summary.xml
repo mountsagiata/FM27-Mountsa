@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Veikkausliiga" total_teams="1" generated="2026-05-10">
+  <league_info>
+    <name>Veikkausliiga</name>
+    <total_players>31</total_players>
+    <average_team_rating>61.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="HJK Helsinki" players="31">
+      <name>HJK Helsinki</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>16315000</total_value_eur>
+      <top_players>
+        <player name="T. Pukki" rating="71"/>
+        <player name="A. Ring" rating="70"/>
+        <player name="L. Lingman" rating="66"/>
+        <player name="S. Hostikka" rating="66"/>
+        <player name="Ricardo Friedrich" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

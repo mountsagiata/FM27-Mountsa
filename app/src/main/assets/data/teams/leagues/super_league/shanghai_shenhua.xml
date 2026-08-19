@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="Shanghai Shenhua" league="Super League" total_players="36" generated="2026-05-10">
+  <team_info>
+    <name>Shanghai Shenhua</name>
+    <league>Super League</league>
+    <average_rating>60.1</average_rating>
+    <highest_rating>73</highest_rating>
+    <lowest_rating>47</lowest_rating>
+    <total_value_eur>26670000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="246093">
+      <basic_info>
+        <name>André Luís</name>
+        <full_name>André Luis Silva de Aguiar</full_name>
+        <age>31</age>
+        <nationality>Brazil</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>RS</position>
+        <jersey_number>9.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>73</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>CAM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>82.0</pace>
+        <shooting>73.0</shooting>
+        <passing>60.0</passing>
+        <dribbling>70.0</dribbling>
+        <defending>24.0</defending>
+        <physical>72.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2600000</value_eur>
+        <wage_eur>19000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>4000000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/093/26_120.png</face_url>
+    </player>
+    <player id="210377">
+      <basic_info>
+        <name>João Teixeira</name>
+        <full_name>João Carlos Vilaça Teixeira</full_name>
+        <age>32</age>
+        <nationality>Portugal</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>CAM</position>
+        <jersey_number>10.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>72</overall>
+        <potential>72</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>4</skill_moves>
+      <attributes>
+        <pace>74.0</pace>
+        <shooting>70.0</shooting>
+        <passing>68.0</passing>
+        <dribbling>74.0</dribbling>
+        <defending>36.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1900000</value_eur>
+        <wage_eur>16000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>2900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/210/377/26_120.png</face_url>
+    </player>
+    <player id="238857">
+      <basic_info>
+        <name>Wilson Manafá</name>
+        <full_name>Wilson Migueis Manafá Jancó</full_name>
+        <age>30</age>
+        <nationality>Portugal</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>69</weight_kg>
+        <position>RB</position>
+        <jersey_number>13.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>71</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>87.0</pace>
+        <shooting>58.0</shooting>
+        <passing>64.0</passing>
+        <dribbling>72.0</dribbling>
+        <defending>66.0</defending>
+        <physical>76.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1600000</value_eur>
+        <wage_eur>14000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>2500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/238/857/26_120.png</face_url>
+    </player>
+    <player id="217153">
+      <basic_info>
+        <name>Wu Xi</name>
+        <full_name>Wu Xi吴曦</full_name>
+        <age>36</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RCM</position>
+        <jersey_number>15.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>65.0</shooting>
+        <passing>69.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>68.0</defending>
+        <physical>78.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>500000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>775000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/217/153/26_120.png</face_url>
+    </player>
+    <player id="245040">
+      <basic_info>
+        <name>Jiang Shenglong</name>
+        <full_name>Jiang Shenglong蒋圣龙</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>193</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>RCB</position>
+        <jersey_number>4.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>50.0</shooting>
+        <passing>55.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>67.0</defending>
+        <physical>81.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2200000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>3600000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/245/040/26_120.png</face_url>
+    </player>
+    <player id="211382">
+      <basic_info>
+        <name>I. Amadou</name>
+        <full_name>Ibrahim Amadou</full_name>
+        <age>32</age>
+        <nationality>France</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>84</weight_kg>
+        <position>RES</position>
+        <jersey_number>6.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>66.0</pace>
+        <shooting>57.0</shooting>
+        <passing>64.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>68.0</defending>
+        <physical>79.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1100000</value_eur>
+        <wage_eur>12000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1700000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/211/382/26_120.png</face_url>
+    </player>
+    <player id="241418">
+      <basic_info>
+        <name>Gao Tianyi</name>
+        <full_name>Gao Tianyi高天意</full_name>
+        <age>27</age>
+        <nationality>China PR</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>LCM</position>
+        <jersey_number>17.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>73.0</pace>
+        <shooting>58.0</shooting>
+        <passing>69.0</passing>
+        <dribbling>69.0</dribbling>
+        <defending>57.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1800000</value_eur>
+        <wage_eur>12000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/241/418/26_120.png</face_url>
+    </player>
+    <player id="263563">
+      <basic_info>
+        <name>Saulo Mineiro</name>
+        <full_name>Saulo Rodrigues da Silva</full_name>
+        <age>28</age>
+        <nationality>Brazil</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>85</weight_kg>
+        <position>RES</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>RW</position>
+        <position>LW</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>81.0</pace>
+        <shooting>68.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>67.0</dribbling>
+        <defending>21.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1600000</value_eur>
+        <wage_eur>14000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/263/563/26_120.png</face_url>
+    </player>
+    <player id="245041">
+      <basic_info>
+        <name>Zhu Chenjie</name>
+        <full_name>Zhu Chenjie朱辰杰</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>LCB</position>
+        <jersey_number>5.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>80.0</pace>
+        <shooting>41.0</shooting>
+        <passing>47.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>68.0</defending>
+        <physical>83.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2200000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>3600000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/245/041/26_120.png</face_url>
+    </player>
+    <player id="70810">
+      <basic_info>
+        <name>Luís Asué</name>
+        <full_name>Luís Miguel Nlavo Asué</full_name>
+        <age>23</age>
+        <nationality>Equatorial Guinea</nationality>
+        <height_cm>187</height_cm>
+        <weight_kg>79</weight_kg>
+        <position>LS</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>76</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>69.0</shooting>
+        <passing>51.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>26.0</defending>
+        <physical>65.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2800000</value_eur>
+        <wage_eur>10000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>4900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/070/810/26_120.png</face_url>
+    </player>
+    <player id="73718">
+      <basic_info>
+        <name>Chan Shinichi</name>
+        <full_name>Shinichi Chan陳晉一</full_name>
+        <age>22</age>
+        <nationality>Hong Kong</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>LB</position>
+        <jersey_number>27.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>67</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>CB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>81.0</pace>
+        <shooting>51.0</shooting>
+        <passing>61.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>60.0</defending>
+        <physical>76.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2200000</value_eur>
+        <wage_eur>7000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>3900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/718/26_120.png</face_url>
+    </player>
+    <player id="222350">
+      <basic_info>
+        <name>Xie Pengfei</name>
+        <full_name>Xie Pengfei谢鹏飞</full_name>
+        <age>32</age>
+        <nationality>China PR</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>14.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>66</overall>
+        <potential>66</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>61.0</shooting>
+        <passing>63.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>49.0</defending>
+        <physical>66.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>675000</value_eur>
+        <wage_eur>8000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1000000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/222/350/26_120.png</face_url>
+    </player>
+    <player id="202808">
+      <basic_info>
+        <name>Li Ke</name>
+        <full_name>Li KeNicholas Harry Yennaris 李可</full_name>
+        <age>32</age>
+        <nationality>China PR</nationality>
+        <height_cm>171</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>CDM</position>
+        <jersey_number>23.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>73.0</pace>
+        <shooting>60.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>60.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>450000</value_eur>
+        <wage_eur>6000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>698000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/202/808/26_120.png</face_url>
+    </player>
+    <player id="245042">
+      <basic_info>
+        <name>Xu Haoyang</name>
+        <full_name>Xu Haoyang徐皓阳</full_name>
+        <age>26</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>64</weight_kg>
+        <position>SUB</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>CM</position>
+        <position>RM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>55.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>57.0</defending>
+        <physical>62.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>700000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/245/042/26_120.png</face_url>
+    </player>
+    <player id="228076">
+      <basic_info>
+        <name>Yang Zexiang</name>
+        <full_name>Yang Zexiang杨泽翔</full_name>
+        <age>30</age>
+        <nationality>China PR</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>SUB</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>RB</position>
+        <position>RM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>73.0</pace>
+        <shooting>54.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>61.0</dribbling>
+        <defending>59.0</defending>
+        <physical>72.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>425000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>659000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/228/076/26_120.png</face_url>
+    </player>
+    <player id="248735">
+      <basic_info>
+        <name>Bao Yaxiong</name>
+        <full_name>Bao Yaxiong鲍亚雄</full_name>
+        <age>28</age>
+        <nationality>China PR</nationality>
+        <height_cm>192</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>SUB</position>
+        <jersey_number>30.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>543000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/248/735/26_120.png</face_url>
+    </player>
+    <player id="182411">
+      <basic_info>
+        <name>Yu Hanchao</name>
+        <full_name>Yu Hanchao于汉超</full_name>
+        <age>38</age>
+        <nationality>China PR</nationality>
+        <height_cm>179</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>SUB</position>
+        <jersey_number>20.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>61</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>CM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>71.0</pace>
+        <shooting>59.0</shooting>
+        <passing>60.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>40.0</defending>
+        <physical>56.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>171000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/182/411/26_120.png</face_url>
+    </player>
+    <player id="222183">
+      <basic_info>
+        <name>Aidi Fulangxisi</name>
+        <full_name>Aidi Fulangxisi艾迪·弗朗西斯</full_name>
+        <age>34</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>SUB</position>
+        <jersey_number>32.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>61</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>LB</position>
+        <position>CM</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>36.0</shooting>
+        <passing>55.0</passing>
+        <dribbling>57.0</dribbling>
+        <defending>59.0</defending>
+        <physical>74.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>110000</value_eur>
+        <wage_eur>4000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>171000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/222/183/26_120.png</face_url>
+    </player>
+    <player id="251110">
+      <basic_info>
+        <name>Wang Haijian</name>
+        <full_name>Wang Haijian汪海健</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>SUB</position>
+        <jersey_number>33.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>57.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>63.0</dribbling>
+        <defending>60.0</defending>
+        <physical>57.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>609000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/251/110/26_120.png</face_url>
+    </player>
+    <player id="240805">
+      <basic_info>
+        <name>Dai Weijun</name>
+        <full_name>Dai Weijun戴伟浚</full_name>
+        <age>25</age>
+        <nationality>China PR</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>8.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CAM</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>59.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>46.0</defending>
+        <physical>60.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>325000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>528000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/240/805/26_120.png</face_url>
+    </player>
+    <player id="241317">
+      <basic_info>
+        <name>Xue Qinghao</name>
+        <full_name>Xue Qinghao薛庆浩</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>195</height_cm>
+        <weight_kg>87</weight_kg>
+        <position>GK</position>
+        <jersey_number>1.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>425000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>744000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/241/317/26_120.png</face_url>
+    </player>
+    <player id="243107">
+      <basic_info>
+        <name>Cui Lin</name>
+        <full_name>Cui Lin崔麟</full_name>
+        <age>27</age>
+        <nationality>China PR</nationality>
+        <height_cm>174</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>SUB</position>
+        <jersey_number>21.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>59</overall>
+        <potential>59</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>RB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>66.0</pace>
+        <shooting>28.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>59.0</dribbling>
+        <defending>55.0</defending>
+        <physical>64.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>220000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>341000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/243/107/26_120.png</face_url>
+    </player>
+    <player id="71437">
+      <basic_info>
+        <name>Yang Haoyu</name>
+        <full_name>Yang Haoyu杨皓宇</full_name>
+        <age>19</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>43.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>56</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>50.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>60.0</dribbling>
+        <defending>43.0</defending>
+        <physical>65.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>761000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/437/26_120.png</face_url>
+    </player>
+    <player id="277017">
+      <basic_info>
+        <name>Jin Shunkai</name>
+        <full_name>Jin Shunkai金顺凯</full_name>
+        <age>23</age>
+        <nationality>China PR</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>SUB</position>
+        <jersey_number>3.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>22.0</shooting>
+        <passing>32.0</passing>
+        <dribbling>34.0</dribbling>
+        <defending>55.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>170000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>276000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/277/017/26_120.png</face_url>
+    </player>
+    <player id="245024">
+      <basic_info>
+        <name>Wang Shilong</name>
+        <full_name>Wang Shilong王世龙</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>64</weight_kg>
+        <position>SUB</position>
+        <jersey_number>2.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>59</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>CB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>61.0</pace>
+        <shooting>37.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>45.0</dribbling>
+        <defending>50.0</defending>
+        <physical>57.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>170000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>276000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/245/024/26_120.png</face_url>
+    </player>
+    <player id="71430">
+      <basic_info>
+        <name>Liu Chengyu</name>
+        <full_name>Liu Chengyu刘诚宇</full_name>
+        <age>18</age>
+        <nationality>China PR</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>34.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>54</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>54.0</shooting>
+        <passing>39.0</passing>
+        <dribbling>50.0</dribbling>
+        <defending>16.0</defending>
+        <physical>59.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>598000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/430/26_120.png</face_url>
+    </player>
+    <player id="71440">
+      <basic_info>
+        <name>Han Jiawen</name>
+        <full_name>Han Jiawen韩嘉文</full_name>
+        <age>21</age>
+        <nationality>China PR</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>RES</position>
+        <jersey_number>45.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>67.0</pace>
+        <shooting>43.0</shooting>
+        <passing>45.0</passing>
+        <dribbling>54.0</dribbling>
+        <defending>24.0</defending>
+        <physical>41.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>140000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>305000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/440/26_120.png</face_url>
+    </player>
+    <player id="71431">
+      <basic_info>
+        <name>He Xin</name>
+        <full_name>He Xin和新</full_name>
+        <age>20</age>
+        <nationality>China PR</nationality>
+        <height_cm>172</height_cm>
+        <weight_kg>60</weight_kg>
+        <position>RES</position>
+        <jersey_number>35.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>48.0</shooting>
+        <passing>44.0</passing>
+        <dribbling>57.0</dribbling>
+        <defending>33.0</defending>
+        <physical>37.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>130000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>228000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/431/26_120.png</face_url>
+    </player>
+    <player id="77927">
+      <basic_info>
+        <name>Wang Hanlong</name>
+        <full_name>Wang HanlongMarcel Petrov 王汉龙</full_name>
+        <age>19</age>
+        <nationality>China PR</nationality>
+        <height_cm>181</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>RES</position>
+        <jersey_number>37.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>62.0</pace>
+        <shooting>49.0</shooting>
+        <passing>36.0</passing>
+        <dribbling>48.0</dribbling>
+        <defending>19.0</defending>
+        <physical>51.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>120000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>261000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/927/26_120.png</face_url>
+    </player>
+    <player id="277768">
+      <basic_info>
+        <name>Liu Haoran</name>
+        <full_name>Liu Haoran刘浩然</full_name>
+        <age>20</age>
+        <nationality>China PR</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RES</position>
+        <jersey_number>44.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>50</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>700</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>175000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/277/768/26_120.png</face_url>
+    </player>
+    <player id="77931">
+      <basic_info>
+        <name>Zhang Bin</name>
+        <full_name>Zhang Bin张斌</full_name>
+        <age>20</age>
+        <nationality>China PR</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>RES</position>
+        <jersey_number>48.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>21.0</shooting>
+        <passing>32.0</passing>
+        <dribbling>35.0</dribbling>
+        <defending>51.0</defending>
+        <physical>55.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>175000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/931/26_120.png</face_url>
+    </player>
+    <player id="79990">
+      <basic_info>
+        <name>Wu Qipeng</name>
+        <full_name>Qipeng Wu</full_name>
+        <age>18</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RES</position>
+        <jersey_number>38.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>49</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>24.0</shooting>
+        <passing>25.0</passing>
+        <dribbling>34.0</dribbling>
+        <defending>51.0</defending>
+        <physical>54.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>218000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/079/990/26_120.png</face_url>
+    </player>
+    <player id="77930">
+      <basic_info>
+        <name>He Quan</name>
+        <full_name>He Quan和泉</full_name>
+        <age>20</age>
+        <nationality>Korea Republic</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RES</position>
+        <jersey_number>47.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>48</overall>
+        <potential>56</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>58.0</pace>
+        <shooting>27.0</shooting>
+        <passing>30.0</passing>
+        <dribbling>47.0</dribbling>
+        <defending>47.0</defending>
+        <physical>49.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>175000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/930/26_120.png</face_url>
+    </player>
+    <player id="269105">
+      <basic_info>
+        <name>Zhou Zhengkai</name>
+        <full_name>Zhou Zhengkai周正凯</full_name>
+        <age>24</age>
+        <nationality>China PR</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>RES</position>
+        <jersey_number>41.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>48</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>60000</value_eur>
+        <wage_eur>950</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>105000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/269/105/26_120.png</face_url>
+    </player>
+    <player id="275659">
+      <basic_info>
+        <name>He Bizhen</name>
+        <full_name>He Bizhen和必臻</full_name>
+        <age>22</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>69</weight_kg>
+        <position>RES</position>
+        <jersey_number>46.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>47</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>23.0</shooting>
+        <passing>29.0</passing>
+        <dribbling>31.0</dribbling>
+        <defending>50.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>90000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>158000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/275/659/26_120.png</face_url>
+    </player>
+    <player id="77932">
+      <basic_info>
+        <name>He Linhan</name>
+        <full_name>He Linhan贺麟涵</full_name>
+        <age>21</age>
+        <nationality>China PR</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>RES</position>
+        <jersey_number>49.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>47</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>37.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>44.0</dribbling>
+        <defending>38.0</defending>
+        <physical>54.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>100000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>175000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/932/26_120.png</face_url>
+    </player>
+  </players>
+</team>

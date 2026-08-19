@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Liga I" total_teams="16" generated="2026-05-10">
+  <league_info>
+    <name>Liga I</name>
+    <total_players>450</total_players>
+    <average_team_rating>63.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="FCSB" players="28">
+      <name>FCSB</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>40849999</total_value_eur>
+      <top_players>
+        <player name="D. Olaru" rating="73"/>
+        <player name="D. Bîrligea" rating="73"/>
+        <player name="S. Ngezana" rating="73"/>
+        <player name="A. Șut" rating="72"/>
+        <player name="Ș. Târnovanu" rating="72"/>
+      </top_players>
+    </team>
+    <team name="CFR Cluj" players="31">
+      <name>CFR Cluj</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>43120000</total_value_eur>
+      <top_players>
+        <player name="K. Zouma" rating="75"/>
+        <player name="L. Munteanu" rating="74"/>
+        <player name="M. Coco" rating="70"/>
+        <player name="M. Korenica" rating="70"/>
+        <player name="A. Micai" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Universitatea Craiova" players="27">
+      <name>Universitatea Craiova</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>31920000</total_value_eur>
+      <top_players>
+        <player name="N. Bancu" rating="71"/>
+        <player name="Ș. Baiaram" rating="70"/>
+        <player name="A. Al Hamlawi" rating="69"/>
+        <player name="O. Romanchuk" rating="69"/>
+        <player name="N. Stevanović" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Universitatea Cluj" players="28">
+      <name>Universitatea Cluj</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>22950000</total_value_eur>
+      <top_players>
+        <player name="D. Nistor" rating="72"/>
+        <player name="A. Murgia" rating="70"/>
+        <player name="A. Chipciu" rating="69"/>
+        <player name="A. Artean" rating="68"/>
+        <player name="O. Bic" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Rapid Bucuresti" players="31">
+      <name>Rapid Bucuresti</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>36260000</total_value_eur>
+      <top_players>
+        <player name="A. Dobre" rating="72"/>
+        <player name="C. Petrila" rating="71"/>
+        <player name="A. Borza" rating="70"/>
+        <player name="D. Ciobotariu" rating="70"/>
+        <player name="T. Christensen" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Dinamo Bucureşti" players="25">
+      <name>Dinamo Bucureşti</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>28515000</total_value_eur>
+      <top_players>
+        <player name="D. Armstrong" rating="70"/>
+        <player name="E. Gnahoré" rating="70"/>
+        <player name="C. Cîrjan" rating="70"/>
+        <player name="K. Boateng" rating="70"/>
+        <player name="R. Opruț" rating="69"/>
+      </top_players>
+    </team>
+    <team name="FCV Farul Constanța" players="26">
+      <name>FCV Farul Constanța</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>20175000</total_value_eur>
+      <top_players>
+        <player name="I. Vînă" rating="68"/>
+        <player name="C. Ganea" rating="68"/>
+        <player name="N. Grigoryan" rating="68"/>
+        <player name="A. Buzbuchi" rating="68"/>
+        <player name="V. Dican" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Hermannstadt" players="26">
+      <name>FC Hermannstadt</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>13965000</total_value_eur>
+      <top_players>
+        <player name="A. Chitu" rating="68"/>
+        <player name="I. Stoica" rating="68"/>
+        <player name="C. Căbuz" rating="68"/>
+        <player name="A. Ivanov" rating="67"/>
+        <player name="S. Balaure" rating="67"/>
+      </top_players>
+    </team>
+    <team name="FC Botoşani" players="30">
+      <name>FC Botoşani</name>
+      <average_rating>62.1</average_rating>
+      <total_value_eur>19540000</total_value_eur>
+      <top_players>
+        <player name="S. Mailat" rating="69"/>
+        <player name="G. Anestis" rating="68"/>
+        <player name="Aldaír Ferreira" rating="67"/>
+        <player name="A. Friday" rating="67"/>
+        <player name="H. Ongenda" rating="67"/>
+      </top_players>
+    </team>
+    <team name="UTA Arad" players="27">
+      <name>UTA Arad</name>
+      <average_rating>62.0</average_rating>
+      <total_value_eur>14770000</total_value_eur>
+      <top_players>
+        <player name="D. Pospelov" rating="69"/>
+        <player name="A. Roman" rating="68"/>
+        <player name="V. Costache" rating="67"/>
+        <player name="F. Poulolo" rating="67"/>
+        <player name="O. Popescu" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Asociația Clubul Sportiv Petrolul 52" players="34">
+      <name>Asociația Clubul Sportiv Petrolul 52</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>17750000</total_value_eur>
+      <top_players>
+        <player name="G. Grozav" rating="69"/>
+        <player name="T. Jyry" rating="68"/>
+        <player name="Ricardinho" rating="67"/>
+        <player name="P. Papp" rating="67"/>
+        <player name="S. Hanca" rating="66"/>
+      </top_players>
+    </team>
+    <team name="FC Argeș" players="27">
+      <name>FC Argeș</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>11425000</total_value_eur>
+      <top_players>
+        <player name="Caio Ferreira" rating="65"/>
+        <player name="D. Lazar" rating="65"/>
+        <player name="M. Briceag" rating="64"/>
+        <player name="D. Oancea" rating="64"/>
+        <player name="Ricardo Matos" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Oțelul Galați" players="27">
+      <name>Oțelul Galați</name>
+      <average_rating>61.1</average_rating>
+      <total_value_eur>15085000</total_value_eur>
+      <top_players>
+        <player name="D. Živulić" rating="68"/>
+        <player name="João Lameira" rating="68"/>
+        <player name="Andrezinho" rating="68"/>
+        <player name="Né Lopes" rating="66"/>
+        <player name="C. Dur-Bozoancă" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Unirea Slobozia" players="28">
+      <name>Unirea Slobozia</name>
+      <average_rating>61.1</average_rating>
+      <total_value_eur>11180000</total_value_eur>
+      <top_players>
+        <player name="C. Afalna" rating="67"/>
+        <player name="F. Purece" rating="65"/>
+        <player name="M. Antoche" rating="65"/>
+        <player name="D. Rusu" rating="65"/>
+        <player name="E. Florescu" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Csíkszereda Miercurea Ciuc" players="29">
+      <name>Csíkszereda Miercurea Ciuc</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>9790000</total_value_eur>
+      <top_players>
+        <player name="L. Pászka" rating="66"/>
+        <player name="Anderson Ceará" rating="64"/>
+        <player name="N. Kaján" rating="63"/>
+        <player name="B. Végh" rating="62"/>
+        <player name="J. Dolný" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Metaloglobus București" players="26">
+      <name>Metaloglobus București</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>8525000</total_value_eur>
+      <top_players>
+        <player name="C. Kouadio" rating="65"/>
+        <player name="Júnior Morais" rating="63"/>
+        <player name="Y. Zakir" rating="63"/>
+        <player name="D. Irimia" rating="62"/>
+        <player name="D. Huiban" rating="62"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="A-League Men" total_teams="13" generated="2026-05-10">
+  <league_info>
+    <name>A-League Men</name>
+    <total_players>302</total_players>
+    <average_team_rating>60.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Western United" players="18">
+      <name>Western United</name>
+      <average_rating>62.2</average_rating>
+      <total_value_eur>4265000</total_value_eur>
+      <top_players>
+        <player name="T. Jindalee" rating="66"/>
+        <player name="K. Nankervis" rating="65"/>
+        <player name="H. Cayless" rating="65"/>
+        <player name="B. Oaksott" rating="65"/>
+        <player name="O. Allgood" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Auckland FC" players="23">
+      <name>Auckland FC</name>
+      <average_rating>61.9</average_rating>
+      <total_value_eur>15675000</total_value_eur>
+      <top_players>
+        <player name="L. Verstraete" rating="70"/>
+        <player name="H. Sakai" rating="70"/>
+        <player name="F. de Vries" rating="69"/>
+        <player name="G. May" rating="68"/>
+        <player name="N. Pijnaker" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Melbourne Victory" players="22">
+      <name>Melbourne Victory</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>13240000</total_value_eur>
+      <top_players>
+        <player name="R. Piscopo" rating="67"/>
+        <player name="D. Genreau" rating="67"/>
+        <player name="Roderick Miranda" rating="67"/>
+        <player name="J. Davidson" rating="66"/>
+        <player name="L. Jackson" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Western Sydney Wanderers" players="25">
+      <name>Western Sydney Wanderers</name>
+      <average_rating>61.1</average_rating>
+      <total_value_eur>14670000</total_value_eur>
+      <top_players>
+        <player name="B. Borrello" rating="70"/>
+        <player name="B. Kraev" rating="69"/>
+        <player name="S. Ugarković" rating="68"/>
+        <player name="K. Barbarouses" rating="68"/>
+        <player name="L. Thomas" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Macarthur FC" players="22">
+      <name>Macarthur FC</name>
+      <average_rating>60.8</average_rating>
+      <total_value_eur>7915000</total_value_eur>
+      <top_players>
+        <player name="A. Caceres" rating="69"/>
+        <player name="L. Brattan" rating="67"/>
+        <player name="D. Da Silva" rating="67"/>
+        <player name="F. Kurto" rating="67"/>
+        <player name="T. Uskok" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Adelaide United" players="26">
+      <name>Adelaide United</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>14430000</total_value_eur>
+      <top_players>
+        <player name="C. Goodwin" rating="73"/>
+        <player name="Anselmo" rating="69"/>
+        <player name="B. Vriends" rating="67"/>
+        <player name="J. Smits" rating="66"/>
+        <player name="E. Alagich" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Melbourne City FC" players="24">
+      <name>Melbourne City FC</name>
+      <average_rating>60.0</average_rating>
+      <total_value_eur>14985000</total_value_eur>
+      <top_players>
+        <player name="M. Leckie" rating="70"/>
+        <player name="K. Trewin" rating="69"/>
+        <player name="A. Kuen" rating="68"/>
+        <player name="N. Atkinson" rating="68"/>
+        <player name="A. Behich" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Central Coast Mariners" players="20">
+      <name>Central Coast Mariners</name>
+      <average_rating>59.8</average_rating>
+      <total_value_eur>9805000</total_value_eur>
+      <top_players>
+        <player name="T. Sainsbury" rating="67"/>
+        <player name="A. McCalmont" rating="65"/>
+        <player name="L. Mauragis" rating="64"/>
+        <player name="C. Theoharous" rating="63"/>
+        <player name="N. Paull" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Perth Glory" players="26">
+      <name>Perth Glory</name>
+      <average_rating>59.5</average_rating>
+      <total_value_eur>11945000</total_value_eur>
+      <top_players>
+        <player name="A. Taggart" rating="69"/>
+        <player name="B. Kaltak" rating="68"/>
+        <player name="L. Amos" rating="65"/>
+        <player name="S. Wootton" rating="65"/>
+        <player name="J. Risdon" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Newcastle Jets" players="24">
+      <name>Newcastle Jets</name>
+      <average_rating>59.2</average_rating>
+      <total_value_eur>13135000</total_value_eur>
+      <top_players>
+        <player name="K. Mizunuma" rating="69"/>
+        <player name="E. Adams" rating="66"/>
+        <player name="L. Rose" rating="65"/>
+        <player name="T. Aquilina" rating="65"/>
+        <player name="J. Shaughnessy" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Brisbane Roar" players="24">
+      <name>Brisbane Roar</name>
+      <average_rating>59.1</average_rating>
+      <total_value_eur>9865000</total_value_eur>
+      <top_players>
+        <player name="J. O'Shea" rating="68"/>
+        <player name="H. Hore" rating="66"/>
+        <player name="G. Vrakas" rating="65"/>
+        <player name="J. McGarry" rating="64"/>
+        <player name="A. Burke-Gilroy" rating="63"/>
+      </top_players>
+    </team>
+    <team name="Wellington Phoenix" players="23">
+      <name>Wellington Phoenix</name>
+      <average_rating>59.0</average_rating>
+      <total_value_eur>9125000</total_value_eur>
+      <top_players>
+        <player name="A. Rufer" rating="67"/>
+        <player name="M. James" rating="64"/>
+        <player name="H. Ishige" rating="63"/>
+        <player name="T. Payne" rating="63"/>
+        <player name="K. Nagasawa" rating="62"/>
+      </top_players>
+    </team>
+    <team name="Sydney FC" players="25">
+      <name>Sydney FC</name>
+      <average_rating>58.6</average_rating>
+      <total_value_eur>13320000</total_value_eur>
+      <top_players>
+        <player name="J. Lolley" rating="73"/>
+        <player name="A. Grant" rating="71"/>
+        <player name="M. Tisserand" rating="70"/>
+        <player name="R. Grant" rating="66"/>
+        <player name="J. Courtney-Perkins" rating="64"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Ekstraklasa" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Ekstraklasa</name>
+    <total_players>483</total_players>
+    <average_team_rating>64.7</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Raków Częstochowa" players="26">
+      <name>Raków Częstochowa</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>46250000</total_value_eur>
+      <top_players>
+        <player name="Ivi López" rating="73"/>
+        <player name="S. Svarnas" rating="73"/>
+        <player name="V. Kochergin" rating="72"/>
+        <player name="F. Tudor" rating="71"/>
+        <player name="Jean Carlos" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Legia Warszawa" players="31">
+      <name>Legia Warszawa</name>
+      <average_rating>67.0</average_rating>
+      <total_value_eur>44175000</total_value_eur>
+      <top_players>
+        <player name="D. Szymański" rating="73"/>
+        <player name="N. Weißhaupt" rating="73"/>
+        <player name="Rúben Vinagre" rating="72"/>
+        <player name="B. Kapustka" rating="72"/>
+        <player name="K. Piątkowski" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Lech Poznań" players="29">
+      <name>Lech Poznań</name>
+      <average_rating>66.8</average_rating>
+      <total_value_eur>48975000</total_value_eur>
+      <top_players>
+        <player name="M. Ishak" rating="74"/>
+        <player name="Joel Pereira" rating="72"/>
+        <player name="M. Skrzypczak" rating="72"/>
+        <player name="B. Mrozek" rating="72"/>
+        <player name="A. Kozubal" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Jagiellonia Białystok" players="26">
+      <name>Jagiellonia Białystok</name>
+      <average_rating>66.3</average_rating>
+      <total_value_eur>37780000</total_value_eur>
+      <top_players>
+        <player name="Jesús Imaz" rating="74"/>
+        <player name="A. Pululu" rating="72"/>
+        <player name="Álex Pozo" rating="71"/>
+        <player name="T. Romanczuk" rating="71"/>
+        <player name="Sergio Lozano" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Pogoń Szczecin" players="23">
+      <name>Pogoń Szczecin</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>27400000</total_value_eur>
+      <top_players>
+        <player name="K. Grosicki" rating="74"/>
+        <player name="S. Greenwood" rating="70"/>
+        <player name="L. Koutris" rating="70"/>
+        <player name="L. Wahlqvist Egnell" rating="70"/>
+        <player name="V. Cojocaru" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Cracovia" players="28">
+      <name>Cracovia</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>31845000</total_value_eur>
+      <top_players>
+        <player name="M. Klich" rating="71"/>
+        <player name="A. Hasić" rating="70"/>
+        <player name="O. Kakabadze" rating="69"/>
+        <player name="M. Maigaard" rating="69"/>
+        <player name="B. Šutalo" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Lechia Gdańsk" players="24">
+      <name>Lechia Gdańsk</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>27675000</total_value_eur>
+      <top_players>
+        <player name="A. Paulsen" rating="71"/>
+        <player name="A. Ćirković" rating="69"/>
+        <player name="R. Kapić" rating="68"/>
+        <player name="C. Mena" rating="68"/>
+        <player name="I. Zhelizko" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Widzew Łódź" players="29">
+      <name>Widzew Łódź</name>
+      <average_rating>65.0</average_rating>
+      <total_value_eur>38340000</total_value_eur>
+      <top_players>
+        <player name="A. Zeqiri" rating="72"/>
+        <player name="S. Andreou" rating="72"/>
+        <player name="L. Selahi" rating="71"/>
+        <player name="J. Shehu" rating="70"/>
+        <player name="Fran Álvarez" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Radomiak Radom" players="25">
+      <name>Radomiak Radom</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>23035000</total_value_eur>
+      <top_players>
+        <player name="J. Grzesik" rating="69"/>
+        <player name="Capita" rating="68"/>
+        <player name="Adrián Diéguez" rating="68"/>
+        <player name="Romário Baró" rating="67"/>
+        <player name="Z. Ouattara" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Motor Lublin" players="25">
+      <name>Motor Lublin</name>
+      <average_rating>64.7</average_rating>
+      <total_value_eur>22400000</total_value_eur>
+      <top_players>
+        <player name="Ivo Rodrigues" rating="70"/>
+        <player name="B. Wolski" rating="69"/>
+        <player name="Fábio Ronaldo" rating="68"/>
+        <player name="Sergi Samper" rating="68"/>
+        <player name="H. Matthys" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Górnik Zabrze" players="27">
+      <name>Górnik Zabrze</name>
+      <average_rating>64.7</average_rating>
+      <total_value_eur>24965000</total_value_eur>
+      <top_players>
+        <player name="M. Sáček" rating="71"/>
+        <player name="L. Podolski" rating="71"/>
+        <player name="P. Hellebrand" rating="70"/>
+        <player name="J. Kubicki" rating="69"/>
+        <player name="E. Janža" rating="69"/>
+      </top_players>
+    </team>
+    <team name="GKS Katowice" players="28">
+      <name>GKS Katowice</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>21480000</total_value_eur>
+      <top_players>
+        <player name="M. Kowalczyk" rating="68"/>
+        <player name="B. Nowak" rating="68"/>
+        <player name="M. Wasielewski" rating="68"/>
+        <player name="I. Shkurin" rating="68"/>
+        <player name="A. Jędrych" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Piast Gliwice" players="26">
+      <name>Piast Gliwice</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>17790000</total_value_eur>
+      <top_players>
+        <player name="J. Czerwiński" rating="69"/>
+        <player name="F. Plach" rating="69"/>
+        <player name="G. Tomasiewicz" rating="68"/>
+        <player name="M. Chrapek" rating="68"/>
+        <player name="P. Dziczek" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Korona Kielce" players="26">
+      <name>Korona Kielce</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>23575000</total_value_eur>
+      <top_players>
+        <player name="V. Popov" rating="68"/>
+        <player name="K. Soteriou" rating="68"/>
+        <player name="S. Rubežić" rating="68"/>
+        <player name="M. Remacle" rating="67"/>
+        <player name="T. Svetlin" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Wisła Płock" players="27">
+      <name>Wisła Płock</name>
+      <average_rating>62.9</average_rating>
+      <total_value_eur>15680000</total_value_eur>
+      <top_players>
+        <player name="M. Kamiński" rating="68"/>
+        <player name="Dani Pacheco" rating="67"/>
+        <player name="Ž. Rogelj" rating="67"/>
+        <player name="Matchoi Djaló" rating="66"/>
+        <player name="Tomás Tavares" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Zagłębie Lubin" players="31">
+      <name>Zagłębie Lubin</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>21680000</total_value_eur>
+      <top_players>
+        <player name="D. Dąbrowski" rating="68"/>
+        <player name="Leonardo Rocha" rating="68"/>
+        <player name="A. Ławniczak" rating="68"/>
+        <player name="M. Wdowiak" rating="67"/>
+        <player name="M. Kosidis" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Bruk-Bet Termalica Nieciecza" players="25">
+      <name>Bruk-Bet Termalica Nieciecza</name>
+      <average_rating>62.6</average_rating>
+      <total_value_eur>14590000</total_value_eur>
+      <top_players>
+        <player name="R. Boboc" rating="68"/>
+        <player name="L. Masoero" rating="68"/>
+        <player name="R. Kurzawa" rating="67"/>
+        <player name="Jesús Jiménez" rating="67"/>
+        <player name="Sergio Guerrero" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Arka Gdynia" players="27">
+      <name>Arka Gdynia</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>13965000</total_value_eur>
+      <top_players>
+        <player name="D. Abramowicz" rating="66"/>
+        <player name="N. Rusyn" rating="66"/>
+        <player name="Marc Navarro" rating="65"/>
+        <player name="P. Szysz" rating="65"/>
+        <player name="D. Węglarz" rating="65"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

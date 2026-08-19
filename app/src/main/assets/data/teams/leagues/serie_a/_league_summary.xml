@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Serie A" total_teams="25" generated="2026-05-10">
+  <league_info>
+    <name>Serie A</name>
+    <total_players>687</total_players>
+    <average_team_rating>71.6</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Inter" players="25">
+      <name>Inter</name>
+      <average_rating>80.2</average_rating>
+      <total_value_eur>698250000</total_value_eur>
+      <top_players>
+        <player name="L. Martínez" rating="88"/>
+        <player name="N. Barella" rating="87"/>
+        <player name="A. Bastoni" rating="87"/>
+        <player name="Y. Sommer" rating="87"/>
+        <player name="H. Çalhanoğlu" rating="86"/>
+      </top_players>
+    </team>
+    <team name="Napoli" players="27">
+      <name>Napoli</name>
+      <average_rating>77.9</average_rating>
+      <total_value_eur>520250000</total_value_eur>
+      <top_players>
+        <player name="K. De Bruyne" rating="87"/>
+        <player name="S. McTominay" rating="85"/>
+        <player name="R. Lukaku" rating="84"/>
+        <player name="G. Di Lorenzo" rating="83"/>
+        <player name="S. Lobotka" rating="83"/>
+      </top_players>
+    </team>
+    <team name="Juventus" players="26">
+      <name>Juventus</name>
+      <average_rating>77.9</average_rating>
+      <total_value_eur>577650000</total_value_eur>
+      <top_players>
+        <player name="Bremer" rating="85"/>
+        <player name="M. Locatelli" rating="84"/>
+        <player name="L. Openda" rating="83"/>
+        <player name="D. Vlahović" rating="82"/>
+        <player name="J. David" rating="82"/>
+      </top_players>
+    </team>
+    <team name="AC Milan" players="23">
+      <name>AC Milan</name>
+      <average_rating>76.4</average_rating>
+      <total_value_eur>474525000</total_value_eur>
+      <top_players>
+        <player name="M. Maignan" rating="87"/>
+        <player name="C. Pulisic" rating="84"/>
+        <player name="Rafael Leão" rating="84"/>
+        <player name="A. Rabiot" rating="83"/>
+        <player name="L. Modrić" rating="83"/>
+      </top_players>
+    </team>
+    <team name="Roma" players="28">
+      <name>Roma</name>
+      <average_rating>76.2</average_rating>
+      <total_value_eur>453100000</total_value_eur>
+      <top_players>
+        <player name="P. Dybala" rating="86"/>
+        <player name="A. Dovbyk" rating="83"/>
+        <player name="G. Mancini" rating="83"/>
+        <player name="M. Svilar" rating="82"/>
+        <player name="E. Ndicka" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Atalanta" players="26">
+      <name>Atalanta</name>
+      <average_rating>76.2</average_rating>
+      <total_value_eur>412770000</total_value_eur>
+      <top_players>
+        <player name="A. Lookman" rating="84"/>
+        <player name="M. Carnesecchi" rating="84"/>
+        <player name="Éderson" rating="82"/>
+        <player name="C. De Ketelaere" rating="82"/>
+        <player name="M. de Roon" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Lazio" players="31">
+      <name>Lazio</name>
+      <average_rating>74.5</average_rating>
+      <total_value_eur>327025000</total_value_eur>
+      <top_players>
+        <player name="M. Zaccagni" rating="84"/>
+        <player name="M. Guendouzi" rating="82"/>
+        <player name="A. Romagnoli" rating="82"/>
+        <player name="I. Provedel" rating="82"/>
+        <player name="V. Castellanos" rating="80"/>
+      </top_players>
+    </team>
+    <team name="Bologna" players="27">
+      <name>Bologna</name>
+      <average_rating>74.3</average_rating>
+      <total_value_eur>211955000</total_value_eur>
+      <top_players>
+        <player name="R. Orsolini" rating="82"/>
+        <player name="R. Freuler" rating="81"/>
+        <player name="Ł. Skorupski" rating="79"/>
+        <player name="L. Ferguson" rating="78"/>
+        <player name="C. Immobile" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Fiorentina" players="30">
+      <name>Fiorentina</name>
+      <average_rating>73.1</average_rating>
+      <total_value_eur>239850000</total_value_eur>
+      <top_players>
+        <player name="De Gea" rating="85"/>
+        <player name="M. Kean" rating="83"/>
+        <player name="E. Džeko" rating="81"/>
+        <player name="R. Gosens" rating="80"/>
+        <player name="A. Guðmundsson" rating="79"/>
+      </top_players>
+    </team>
+    <team name="Como" players="28">
+      <name>Como</name>
+      <average_rating>73.0</average_rating>
+      <total_value_eur>225384999</total_value_eur>
+      <top_players>
+        <player name="Morata" rating="81"/>
+        <player name="Nico Paz" rating="79"/>
+        <player name="S. Posch" rating="79"/>
+        <player name="M. Baturina" rating="78"/>
+        <player name="N. Kühn" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Torino" players="30">
+      <name>Torino</name>
+      <average_rating>71.7</average_rating>
+      <total_value_eur>168325000</total_value_eur>
+      <top_players>
+        <player name="D. Zapata" rating="82"/>
+        <player name="N. Vlašić" rating="79"/>
+        <player name="C. Biraghi" rating="78"/>
+        <player name="C. Adams" rating="77"/>
+        <player name="P. Schuurs" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Sassuolo" players="30">
+      <name>Sassuolo</name>
+      <average_rating>71.1</average_rating>
+      <total_value_eur>138325000</total_value_eur>
+      <top_players>
+        <player name="D. Berardi" rating="82"/>
+        <player name="A. Laurienté" rating="80"/>
+        <player name="N. Matić" rating="77"/>
+        <player name="K. Thorstvedt" rating="75"/>
+        <player name="A. Pinamonti" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Cremonese" players="30">
+      <name>Cremonese</name>
+      <average_rating>70.8</average_rating>
+      <total_value_eur>87175000</total_value_eur>
+      <top_players>
+        <player name="E. Audero" rating="78"/>
+        <player name="J. Vardy" rating="76"/>
+        <player name="A. Sanabria" rating="76"/>
+        <player name="F. Baschirotto" rating="75"/>
+        <player name="F. Vázquez" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Udinese" players="28">
+      <name>Udinese</name>
+      <average_rating>70.5</average_rating>
+      <total_value_eur>101155000</total_value_eur>
+      <top_players>
+        <player name="O. Solet" rating="78"/>
+        <player name="N. Zaniolo" rating="76"/>
+        <player name="S. Lovrič" rating="75"/>
+        <player name="J. Karlström" rating="75"/>
+        <player name="J. Ekkelenkamp" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Hellas Verona FC" players="29">
+      <name>Hellas Verona FC</name>
+      <average_rating>70.0</average_rating>
+      <total_value_eur>97625000</total_value_eur>
+      <top_players>
+        <player name="A. Al Musrati" rating="78"/>
+        <player name="S. Serdar" rating="76"/>
+        <player name="Unai Núñez" rating="76"/>
+        <player name="L. Montipò" rating="76"/>
+        <player name="V. Nelsson" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Lecce" players="30">
+      <name>Lecce</name>
+      <average_rating>69.9</average_rating>
+      <total_value_eur>97225000</total_value_eur>
+      <top_players>
+        <player name="W. Falcone" rating="81"/>
+        <player name="A. Gallo" rating="75"/>
+        <player name="F. Guilbert" rating="75"/>
+        <player name="R. Sottil" rating="75"/>
+        <player name="L. Coulibaly" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Cagliari" players="28">
+      <name>Cagliari</name>
+      <average_rating>69.8</average_rating>
+      <total_value_eur>105875000</total_value_eur>
+      <top_players>
+        <player name="A. Belotti" rating="77"/>
+        <player name="Y. Mina" rating="77"/>
+        <player name="S. Luperto" rating="76"/>
+        <player name="E. Caprile" rating="76"/>
+        <player name="M. Folorunsho" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Genoa" players="29">
+      <name>Genoa</name>
+      <average_rating>69.3</average_rating>
+      <total_value_eur>95500000</total_value_eur>
+      <top_players>
+        <player name="N. Stanciu" rating="77"/>
+        <player name="R. Malinovskyi" rating="76"/>
+        <player name="M. Frendrup" rating="76"/>
+        <player name="Vitinha" rating="75"/>
+        <player name="J. Vásquez" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Parma" players="30">
+      <name>Parma</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>110110000</total_value_eur>
+      <top_players>
+        <player name="E. Valeri" rating="75"/>
+        <player name="Hernani" rating="75"/>
+        <player name="E. Delprato" rating="75"/>
+        <player name="P. Cutrone" rating="75"/>
+        <player name="A. Ndiaye" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Pisa" players="30">
+      <name>Pisa</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>66260000</total_value_eur>
+      <top_players>
+        <player name="J. Cuadrado" rating="76"/>
+        <player name="C. Stengs" rating="76"/>
+        <player name="Raúl Albiol" rating="76"/>
+        <player name="M. Nzola" rating="75"/>
+        <player name="M. Aebischer" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Barcelona de Guayaquil" players="25">
+      <name>Barcelona de Guayaquil</name>
+      <average_rating>67.5</average_rating>
+      <total_value_eur>28850000</total_value_eur>
+      <top_players>
+        <player name="I. De Arruabarrena" rating="73"/>
+        <player name="O. Rivero" rating="72"/>
+        <player name="J. Contreras" rating="72"/>
+        <player name="J. Corozo" rating="71"/>
+        <player name="G. Cortez" rating="70"/>
+      </top_players>
+    </team>
+    <team name="LDU Quito" players="25">
+      <name>LDU Quito</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>27925000</total_value_eur>
+      <top_players>
+        <player name="A. Domínguez" rating="73"/>
+        <player name="C. Gruezo" rating="72"/>
+        <player name="R. Adé" rating="72"/>
+        <player name="L. Quiñonez" rating="71"/>
+        <player name="B. Ramírez" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Independiente del Valle" players="28">
+      <name>Independiente del Valle</name>
+      <average_rating>66.4</average_rating>
+      <total_value_eur>36650000</total_value_eur>
+      <top_players>
+        <player name="J. Sornoza" rating="72"/>
+        <player name="R. Schunke" rating="72"/>
+        <player name="R. Ibarra" rating="70"/>
+        <player name="J. Méndez" rating="70"/>
+        <player name="P. Mercado" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Universidad Católica del Ecuador" players="22">
+      <name>Universidad Católica del Ecuador</name>
+      <average_rating>64.8</average_rating>
+      <total_value_eur>18575000</total_value_eur>
+      <top_players>
+        <player name="R. Romo" rating="73"/>
+        <player name="B. Palacios" rating="71"/>
+        <player name="L. Cangá" rating="70"/>
+        <player name="M. Díaz" rating="69"/>
+        <player name="J. Cacciabue" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Mushuc Runa" players="22">
+      <name>Mushuc Runa</name>
+      <average_rating>64.6</average_rating>
+      <total_value_eur>14020000</total_value_eur>
+      <top_players>
+        <player name="J. Vergés" rating="70"/>
+        <player name="D. Quintero" rating="68"/>
+        <player name="Á. Gracia" rating="67"/>
+        <player name="J. Dos Santos" rating="67"/>
+        <player name="S. Tapiero" rating="67"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Premier League" total_teams="22" generated="2026-05-10">
+  <league_info>
+    <name>Premier League</name>
+    <total_players>609</total_players>
+    <average_team_rating>75.4</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Arsenal" players="24">
+      <name>Arsenal</name>
+      <average_rating>82.6</average_rating>
+      <total_value_eur>1145000000</total_value_eur>
+      <top_players>
+        <player name="B. Saka" rating="88"/>
+        <player name="Gabriel" rating="88"/>
+        <player name="D. Rice" rating="87"/>
+        <player name="M. Ødegaard" rating="87"/>
+        <player name="V. Gyökeres" rating="87"/>
+      </top_players>
+    </team>
+    <team name="Manchester City" players="26">
+      <name>Manchester City</name>
+      <average_rating>81.0</average_rating>
+      <total_value_eur>1088625000</total_value_eur>
+      <top_players>
+        <player name="Rodri" rating="90"/>
+        <player name="E. Haaland" rating="90"/>
+        <player name="G. Donnarumma" rating="89"/>
+        <player name="T. Reijnders" rating="86"/>
+        <player name="Rúben Dias" rating="86"/>
+      </top_players>
+    </team>
+    <team name="Liverpool" players="28">
+      <name>Liverpool</name>
+      <average_rating>79.2</average_rating>
+      <total_value_eur>1111875000</total_value_eur>
+      <top_players>
+        <player name="M. Salah" rating="91"/>
+        <player name="V. van Dijk" rating="90"/>
+        <player name="F. Wirtz" rating="89"/>
+        <player name="Alisson" rating="89"/>
+        <player name="A. Isak" rating="88"/>
+      </top_players>
+    </team>
+    <team name="Aston Villa" players="24">
+      <name>Aston Villa</name>
+      <average_rating>78.7</average_rating>
+      <total_value_eur>504400000</total_value_eur>
+      <top_players>
+        <player name="Y. Tielemans" rating="85"/>
+        <player name="E. Martínez" rating="85"/>
+        <player name="O. Watkins" rating="84"/>
+        <player name="B. Kamara" rating="83"/>
+        <player name="M. Rogers" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Tottenham Hotspur" players="29">
+      <name>Tottenham Hotspur</name>
+      <average_rating>78.2</average_rating>
+      <total_value_eur>657800000</total_value_eur>
+      <top_players>
+        <player name="J. Maddison" rating="84"/>
+        <player name="X. Simons" rating="84"/>
+        <player name="D. Kulusevski" rating="83"/>
+        <player name="Palhinha" rating="83"/>
+        <player name="Pedro Porro" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Chelsea" players="30">
+      <name>Chelsea</name>
+      <average_rating>78.0</average_rating>
+      <total_value_eur>801100000</total_value_eur>
+      <top_players>
+        <player name="M. Caicedo" rating="87"/>
+        <player name="C. Palmer" rating="87"/>
+        <player name="E. Fernández" rating="84"/>
+        <player name="Marc Cucurella" rating="84"/>
+        <player name="R. James" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Newcastle United" players="28">
+      <name>Newcastle United</name>
+      <average_rating>77.0</average_rating>
+      <total_value_eur>586060000</total_value_eur>
+      <top_players>
+        <player name="S. Tonali" rating="86"/>
+        <player name="Bruno Guimarães" rating="86"/>
+        <player name="A. Gordon" rating="83"/>
+        <player name="Joelinton" rating="82"/>
+        <player name="F. Schär" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Nottingham Forest" players="28">
+      <name>Nottingham Forest</name>
+      <average_rating>76.8</average_rating>
+      <total_value_eur>446800000</total_value_eur>
+      <top_players>
+        <player name="Murillo" rating="83"/>
+        <player name="N. Milenković" rating="83"/>
+        <player name="M. Sels" rating="83"/>
+        <player name="M. Gibbs-White" rating="82"/>
+        <player name="C. Wood" rating="82"/>
+      </top_players>
+    </team>
+    <team name="Manchester United" players="26">
+      <name>Manchester United</name>
+      <average_rating>76.7</average_rating>
+      <total_value_eur>562810000</total_value_eur>
+      <top_players>
+        <player name="Bruno Fernandes" rating="87"/>
+        <player name="B. Mbeumo" rating="85"/>
+        <player name="Matheus Cunha" rating="83"/>
+        <player name="M. de Ligt" rating="82"/>
+        <player name="L. Martínez" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Fulham FC" players="24">
+      <name>Fulham FC</name>
+      <average_rating>75.8</average_rating>
+      <total_value_eur>238200000</total_value_eur>
+      <top_players>
+        <player name="A. Robinson" rating="82"/>
+        <player name="A. Iwobi" rating="80"/>
+        <player name="S. Chukwueze" rating="80"/>
+        <player name="B. Leno" rating="80"/>
+        <player name="S. Berge" rating="79"/>
+      </top_players>
+    </team>
+    <team name="Brighton &amp; Hove Albion" players="26">
+      <name>Brighton &amp;amp; Hove Albion</name>
+      <average_rating>75.6</average_rating>
+      <total_value_eur>330450000</total_value_eur>
+      <top_players>
+        <player name="K. Mitoma" rating="82"/>
+        <player name="C. Baleba" rating="81"/>
+        <player name="M. De Cuyper" rating="80"/>
+        <player name="J. van Hecke" rating="80"/>
+        <player name="F. Kadıoğlu" rating="79"/>
+      </top_players>
+    </team>
+    <team name="West Ham United" players="26">
+      <name>West Ham United</name>
+      <average_rating>75.2</average_rating>
+      <total_value_eur>262525000</total_value_eur>
+      <top_players>
+        <player name="J. Bowen" rating="83"/>
+        <player name="Lucas Paquetá" rating="80"/>
+        <player name="A. Wan-Bissaka" rating="80"/>
+        <player name="N. Füllkrug" rating="79"/>
+        <player name="T. Souček" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Crystal Palace" players="26">
+      <name>Crystal Palace</name>
+      <average_rating>75.2</average_rating>
+      <total_value_eur>353000000</total_value_eur>
+      <top_players>
+        <player name="J. Mateta" rating="82"/>
+        <player name="M. Guéhi" rating="82"/>
+        <player name="D. Muñoz" rating="81"/>
+        <player name="D. Henderson" rating="81"/>
+        <player name="Yeremy Pino" rating="80"/>
+      </top_players>
+    </team>
+    <team name="Everton" players="24">
+      <name>Everton</name>
+      <average_rating>74.8</average_rating>
+      <total_value_eur>254850000</total_value_eur>
+      <top_players>
+        <player name="J. Pickford" rating="84"/>
+        <player name="J. Grealish" rating="80"/>
+        <player name="J. Tarkowski" rating="80"/>
+        <player name="I. Gueye" rating="79"/>
+        <player name="I. Ndiaye" rating="79"/>
+      </top_players>
+    </team>
+    <team name="Leeds United" players="26">
+      <name>Leeds United</name>
+      <average_rating>74.2</average_rating>
+      <total_value_eur>197565000</total_value_eur>
+      <top_players>
+        <player name="Lucas Perri" rating="81"/>
+        <player name="A. Stach" rating="79"/>
+        <player name="G. Gudmundsson" rating="77"/>
+        <player name="J. Bijol" rating="77"/>
+        <player name="A. Tanaka" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Wolverhampton Wanderers" players="26">
+      <name>Wolverhampton Wanderers</name>
+      <average_rating>73.9</average_rating>
+      <total_value_eur>228125000</total_value_eur>
+      <top_players>
+        <player name="E. Agbadou" rating="79"/>
+        <player name="T. Arokodare" rating="79"/>
+        <player name="L. Krejčí" rating="78"/>
+        <player name="João Gomes" rating="78"/>
+        <player name="André" rating="78"/>
+      </top_players>
+    </team>
+    <team name="AFC Bournemouth" players="27">
+      <name>AFC Bournemouth</name>
+      <average_rating>73.4</average_rating>
+      <total_value_eur>295300000</total_value_eur>
+      <top_players>
+        <player name="A. Semenyo" rating="80"/>
+        <player name="Evanilson" rating="80"/>
+        <player name="Đ. Petrović" rating="80"/>
+        <player name="R. Christie" rating="79"/>
+        <player name="L. Cook" rating="79"/>
+      </top_players>
+    </team>
+    <team name="Burnley" players="32">
+      <name>Burnley</name>
+      <average_rating>72.9</average_rating>
+      <total_value_eur>170315000</total_value_eur>
+      <top_players>
+        <player name="Florentino" rating="80"/>
+        <player name="K. Walker" rating="79"/>
+        <player name="Q. Hartman" rating="77"/>
+        <player name="M. Dúbravka" rating="77"/>
+        <player name="J. Cullen" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Brentford" players="31">
+      <name>Brentford</name>
+      <average_rating>72.0</average_rating>
+      <total_value_eur>238925000</total_value_eur>
+      <top_players>
+        <player name="M. Damsgaard" rating="80"/>
+        <player name="J. Henderson" rating="79"/>
+        <player name="N. Collins" rating="79"/>
+        <player name="C. Kelleher" rating="79"/>
+        <player name="K. Schade" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Sunderland" players="36">
+      <name>Sunderland</name>
+      <average_rating>71.1</average_rating>
+      <total_value_eur>246614998</total_value_eur>
+      <top_players>
+        <player name="G. Xhaka" rating="85"/>
+        <player name="Reinildo" rating="79"/>
+        <player name="N. Mukiele" rating="79"/>
+        <player name="L. Geertruida" rating="78"/>
+        <player name="O. Alderete" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Shakhtar Donetsk" players="33">
+      <name>Shakhtar Donetsk</name>
+      <average_rating>68.8</average_rating>
+      <total_value_eur>104225000</total_value_eur>
+      <top_players>
+        <player name="A. Bondarenko" rating="77"/>
+        <player name="M. Matviienko" rating="77"/>
+        <player name="V. Bondar" rating="75"/>
+        <player name="D. Riznyk" rating="74"/>
+        <player name="Pedrinho" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Dynamo Kyiv" players="29">
+      <name>Dynamo Kyiv</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>90870000</total_value_eur>
+      <top_players>
+        <player name="M. Shaparenko" rating="78"/>
+        <player name="V. Buyalskyi" rating="76"/>
+        <player name="V. Brazhko" rating="75"/>
+        <player name="O. Pikhalyonok" rating="75"/>
+        <player name="D. Popov" rating="75"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

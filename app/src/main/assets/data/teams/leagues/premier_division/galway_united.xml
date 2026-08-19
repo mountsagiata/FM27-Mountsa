@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="Galway United" league="Premier Division" total_players="24" generated="2026-05-10">
+  <team_info>
+    <name>Galway United</name>
+    <league>Premier Division</league>
+    <average_rating>57.3</average_rating>
+    <highest_rating>62</highest_rating>
+    <lowest_rating>51</lowest_rating>
+    <total_value_eur>4880000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="228108">
+      <basic_info>
+        <name>K. Brouder</name>
+        <full_name>Killian Brouder</full_name>
+        <age>26</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>CB</position>
+        <jersey_number>5.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>62</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>51.0</pace>
+        <shooting>22.0</shooting>
+        <passing>42.0</passing>
+        <dribbling>39.0</dribbling>
+        <defending>62.0</defending>
+        <physical>71.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>581000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/228/108/26_120.png</face_url>
+    </player>
+    <player id="251416">
+      <basic_info>
+        <name>R. Slevin</name>
+        <full_name>Robert Slevin</full_name>
+        <age>26</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>LCB</position>
+        <jersey_number>4.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>62</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>28.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>46.0</dribbling>
+        <defending>60.0</defending>
+        <physical>71.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>425000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>691000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/251/416/26_120.png</face_url>
+    </player>
+    <player id="243688">
+      <basic_info>
+        <name>B. Burns</name>
+        <full_name>Robert Joseph Burns</full_name>
+        <age>25</age>
+        <nationality>Northern Ireland</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>LB</position>
+        <jersey_number>18.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>52.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>58.0</dribbling>
+        <defending>55.0</defending>
+        <physical>50.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>250000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>388000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/243/688/26_120.png</face_url>
+    </player>
+    <player id="157407">
+      <basic_info>
+        <name>B. Clarke</name>
+        <full_name>Brendan Clarke</full_name>
+        <age>39</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>GK</position>
+        <jersey_number>1.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>25000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>39000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/157/407/26_120.png</face_url>
+    </player>
+    <player id="198190">
+      <basic_info>
+        <name>G. Cunningham</name>
+        <full_name>Gregory Richard Cunningham</full_name>
+        <age>34</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>183</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>8.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>37.0</pace>
+        <shooting>47.0</shooting>
+        <passing>59.0</passing>
+        <dribbling>48.0</dribbling>
+        <defending>58.0</defending>
+        <physical>67.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>80000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>124000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/198/190/26_120.png</face_url>
+    </player>
+    <player id="71384">
+      <basic_info>
+        <name>J. Esua</name>
+        <full_name>Jeannot Esua</full_name>
+        <age>28</age>
+        <nationality>Cameroon</nationality>
+        <height_cm>175</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RB</position>
+        <jersey_number>33.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>74.0</pace>
+        <shooting>37.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>56.0</dribbling>
+        <defending>53.0</defending>
+        <physical>60.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>220000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>341000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/384/26_120.png</face_url>
+    </player>
+    <player id="71140">
+      <basic_info>
+        <name>D. Hurley</name>
+        <full_name>David Hurley</full_name>
+        <age>26</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>CDM</position>
+        <jersey_number>10.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>59</overall>
+        <potential>61</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>56.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>56.0</dribbling>
+        <defending>46.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>447000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/140/26_120.png</face_url>
+    </player>
+    <player id="208771">
+      <basic_info>
+        <name>G. Buckley</name>
+        <full_name>Garry Buckley</full_name>
+        <age>31</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RCB</position>
+        <jersey_number>26.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>58</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>34.0</pace>
+        <shooting>50.0</shooting>
+        <passing>58.0</passing>
+        <dribbling>46.0</dribbling>
+        <defending>56.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>140000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>217000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/208/771/26_120.png</face_url>
+    </player>
+    <player id="236495">
+      <basic_info>
+        <name>A. Bolger</name>
+        <full_name>Aaron Nigel Bolger</full_name>
+        <age>25</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>170</height_cm>
+        <weight_kg>65</weight_kg>
+        <position>SUB</position>
+        <jersey_number>34.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>59</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>56.0</pace>
+        <shooting>45.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>54.0</defending>
+        <physical>59.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>220000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>358000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/236/495/26_120.png</face_url>
+    </player>
+    <player id="71142">
+      <basic_info>
+        <name>E. McCarthy</name>
+        <full_name>Ed McCarthy</full_name>
+        <age>24</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>170</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>LCM</position>
+        <jersey_number>24.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>60</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>CM</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>71.0</pace>
+        <shooting>50.0</shooting>
+        <passing>54.0</passing>
+        <dribbling>57.0</dribbling>
+        <defending>48.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>447000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/142/26_120.png</face_url>
+    </player>
+    <player id="71141">
+      <basic_info>
+        <name>P. Hickey</name>
+        <full_name>Patrick Hickey</full_name>
+        <age>26</age>
+        <nationality>United States</nationality>
+        <height_cm>198</height_cm>
+        <weight_kg>90</weight_kg>
+        <position>SUB</position>
+        <jersey_number>15.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>59</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>CDM</position>
+        <position>CM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>48.0</pace>
+        <shooting>55.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>51.0</defending>
+        <physical>72.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>240000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>390000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/141/26_120.png</face_url>
+    </player>
+    <player id="79225">
+      <basic_info>
+        <name>M. Shaw</name>
+        <full_name>Malcolm Shaw</full_name>
+        <age>29</age>
+        <nationality>Trinidad and Tobago</nationality>
+        <height_cm>186</height_cm>
+        <weight_kg>84</weight_kg>
+        <position>LS</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>68.0</pace>
+        <shooting>56.0</shooting>
+        <passing>41.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>27.0</defending>
+        <physical>64.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>160000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>248000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/079/225/26_120.png</face_url>
+    </player>
+    <player id="71138">
+      <basic_info>
+        <name>V. Borden</name>
+        <full_name>Vincent Russell Borden</full_name>
+        <age>26</age>
+        <nationality>United States</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>87</weight_kg>
+        <position>SUB</position>
+        <jersey_number>17.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>50.0</pace>
+        <shooting>42.0</shooting>
+        <passing>44.0</passing>
+        <dribbling>51.0</dribbling>
+        <defending>55.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>160000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>248000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/138/26_120.png</face_url>
+    </player>
+    <player id="77439">
+      <basic_info>
+        <name>E. Watts</name>
+        <full_name>Evan Watts</full_name>
+        <age>20</age>
+        <nationality>Wales</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/439/26_120.png</face_url>
+    </player>
+    <player id="200844">
+      <basic_info>
+        <name>J. Keohane</name>
+        <full_name>James Clifford John Keohane</full_name>
+        <age>34</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>RCM</position>
+        <jersey_number>20.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>RB</position>
+        <position>CM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>57.0</pace>
+        <shooting>54.0</shooting>
+        <passing>54.0</passing>
+        <dribbling>56.0</dribbling>
+        <defending>54.0</defending>
+        <physical>68.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>80000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>124000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/200/844/26_120.png</face_url>
+    </player>
+    <player id="202731">
+      <basic_info>
+        <name>C. McCormack</name>
+        <full_name>Conor McCormack</full_name>
+        <age>35</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>176</height_cm>
+        <weight_kg>67</weight_kg>
+        <position>SUB</position>
+        <jersey_number>22.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>57</overall>
+        <potential>57</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>38.0</pace>
+        <shooting>54.0</shooting>
+        <passing>57.0</passing>
+        <dribbling>54.0</dribbling>
+        <defending>57.0</defending>
+        <physical>54.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>45000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>70000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/202/731/26_120.png</face_url>
+    </player>
+    <player id="200404">
+      <basic_info>
+        <name>S. Walsh</name>
+        <full_name>Stephen Walsh</full_name>
+        <age>34</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>77</weight_kg>
+        <position>RS</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>56</overall>
+        <potential>56</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>46.0</pace>
+        <shooting>57.0</shooting>
+        <passing>47.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>38.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>70000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>109000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/200/404/26_120.png</face_url>
+    </player>
+    <player id="80017">
+      <basic_info>
+        <name>D. McGuinness</name>
+        <full_name>Dara McGuinness</full_name>
+        <age>21</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>SUB</position>
+        <jersey_number>27.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>56</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>69.0</pace>
+        <shooting>55.0</shooting>
+        <passing>40.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>17.0</defending>
+        <physical>56.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>325000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>569000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/080/017/26_120.png</face_url>
+    </player>
+    <player id="71379">
+      <basic_info>
+        <name>A. Piesold</name>
+        <full_name>Axel Piesold</full_name>
+        <age>20</age>
+        <nationality>England</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>6.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>56</overall>
+        <potential>73</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>67.0</pace>
+        <shooting>49.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>53.0</defending>
+        <physical>56.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>350000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>761000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/071/379/26_120.png</face_url>
+    </player>
+    <player id="262542">
+      <basic_info>
+        <name>J. Sivi</name>
+        <full_name>Jeremy Kilongo Sivi</full_name>
+        <age>22</age>
+        <nationality>England</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>RES</position>
+        <jersey_number>14.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>55</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LB</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>55.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>57.0</dribbling>
+        <defending>26.0</defending>
+        <physical>37.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>481000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/262/542/26_120.png</face_url>
+    </player>
+    <player id="226006">
+      <basic_info>
+        <name>C. Horgan</name>
+        <full_name>Colm Horgan</full_name>
+        <age>30</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>172</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>SUB</position>
+        <jersey_number>21.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>54</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>57.0</pace>
+        <shooting>31.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>54.0</dribbling>
+        <defending>53.0</defending>
+        <physical>43.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>90000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>140000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/226/006/26_120.png</face_url>
+    </player>
+    <player id="223091">
+      <basic_info>
+        <name>R. Donelon</name>
+        <full_name>Regan Donelon</full_name>
+        <age>29</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>171</height_cm>
+        <weight_kg>71</weight_kg>
+        <position>SUB</position>
+        <jersey_number>3.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>54</overall>
+        <potential>54</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>63.0</pace>
+        <shooting>35.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>52.0</dribbling>
+        <defending>51.0</defending>
+        <physical>51.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>90000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>140000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/223/091/26_120.png</face_url>
+    </player>
+    <player id="77438">
+      <basic_info>
+        <name>M. Wilson</name>
+        <full_name>Max Wilson</full_name>
+        <age>18</age>
+        <nationality>Northern Ireland</nationality>
+        <height_cm>181</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>SUB</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>53</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>CAM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>67.0</pace>
+        <shooting>47.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>35.0</defending>
+        <physical>51.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>200000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2025.0</contract_until>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/077/438/26_120.png</face_url>
+    </player>
+    <player id="75447">
+      <basic_info>
+        <name>C. Tollett</name>
+        <full_name>Cillian Tollett</full_name>
+        <age>17</age>
+        <nationality>Republic of Ireland</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>81</weight_kg>
+        <position>SUB</position>
+        <jersey_number>29.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>51</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>50.0</shooting>
+        <passing>34.0</passing>
+        <dribbling>50.0</dribbling>
+        <defending>22.0</defending>
+        <physical>46.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>160000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2025.0</contract_until>
+        <release_clause>408000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/075/447/26_120.png</face_url>
+    </player>
+  </players>
+</team>

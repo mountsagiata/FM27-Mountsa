@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Allsvenskan" total_teams="16" generated="2026-05-10">
+  <league_info>
+    <name>Allsvenskan</name>
+    <total_players>424</total_players>
+    <average_team_rating>63.6</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Malmö FF" players="30">
+      <name>Malmö FF</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>39735000</total_value_eur>
+      <top_players>
+        <player name="L. Johnsen" rating="73"/>
+        <player name="Busanello" rating="73"/>
+        <player name="P. Jansson" rating="73"/>
+        <player name="R. Olsen" rating="73"/>
+        <player name="A. Christiansen" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Djurgårdens IF" players="27">
+      <name>Djurgårdens IF</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>29450000</total_value_eur>
+      <top_players>
+        <player name="M. Anderson" rating="71"/>
+        <player name="T. Nguen" rating="71"/>
+        <player name="K. Kosugi" rating="70"/>
+        <player name="M. Danielson" rating="70"/>
+        <player name="A. Ståhl" rating="68"/>
+      </top_players>
+    </team>
+    <team name="IF Elfsborg" players="24">
+      <name>IF Elfsborg</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>27320000</total_value_eur>
+      <top_players>
+        <player name="B. Zeneli" rating="72"/>
+        <player name="S. Holmén" rating="72"/>
+        <player name="A. Zeneli" rating="71"/>
+        <player name="S. Hedlund" rating="70"/>
+        <player name="N. Hult" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Hammarby Fotboll" players="25">
+      <name>Hammarby Fotboll</name>
+      <average_rating>65.2</average_rating>
+      <total_value_eur>34715000</total_value_eur>
+      <top_players>
+        <player name="N. Besara" rating="73"/>
+        <player name="V. Eriksson" rating="73"/>
+        <player name="T. Tekie" rating="72"/>
+        <player name="W. Hahn" rating="72"/>
+        <player name="P. Vagić" rating="71"/>
+      </top_players>
+    </team>
+    <team name="BK Häcken" players="33">
+      <name>BK Häcken</name>
+      <average_rating>64.9</average_rating>
+      <total_value_eur>31060000</total_value_eur>
+      <top_players>
+        <player name="S. Gustafson" rating="72"/>
+        <player name="A. Layouni" rating="72"/>
+        <player name="E. Berisha" rating="72"/>
+        <player name="M. Rygaard" rating="71"/>
+        <player name="S. Andersen" rating="70"/>
+      </top_players>
+    </team>
+    <team name="IFK Göteborg" players="22">
+      <name>IFK Göteborg</name>
+      <average_rating>64.2</average_rating>
+      <total_value_eur>24320000</total_value_eur>
+      <top_players>
+        <player name="T. Heintz" rating="69"/>
+        <player name="A. Mucolli" rating="68"/>
+        <player name="G. Svensson" rating="68"/>
+        <player name="M. Fenger" rating="68"/>
+        <player name="R. Lundqvist" rating="67"/>
+      </top_players>
+    </team>
+    <team name="AIK" players="27">
+      <name>AIK</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>26475000</total_value_eur>
+      <top_players>
+        <player name="A. Salétros" rating="73"/>
+        <player name="F. Benković" rating="72"/>
+        <player name="K. Nordfeldt" rating="72"/>
+        <player name="S. Papagiannopoulos" rating="71"/>
+        <player name="Á. Csongvai" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Mjällby AIF" players="27">
+      <name>Mjällby AIF</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>30720000</total_value_eur>
+      <top_players>
+        <player name="E. Stroud" rating="71"/>
+        <player name="A. Manneh" rating="71"/>
+        <player name="A. Norén" rating="71"/>
+        <player name="H. Johansson" rating="70"/>
+        <player name="N. Törnqvist" rating="70"/>
+      </top_players>
+    </team>
+    <team name="IK Sirius" players="26">
+      <name>IK Sirius</name>
+      <average_rating>63.1</average_rating>
+      <total_value_eur>24700000</total_value_eur>
+      <top_players>
+        <player name="L. Walta" rating="69"/>
+        <player name="J. Persson" rating="67"/>
+        <player name="R. Ure" rating="67"/>
+        <player name="N. Milleskog" rating="66"/>
+        <player name="H. Rönnlöf Castegren" rating="66"/>
+      </top_players>
+    </team>
+    <team name="IFK Värnamo" players="23">
+      <name>IFK Värnamo</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>17250000</total_value_eur>
+      <top_players>
+        <player name="K. Antonsen" rating="66"/>
+        <player name="S. Thern" rating="65"/>
+        <player name="I. Abdulrazak" rating="65"/>
+        <player name="P. Cibicki" rating="65"/>
+        <player name="O. Liimatta" rating="65"/>
+      </top_players>
+    </team>
+    <team name="IFK Norrköping" players="25">
+      <name>IFK Norrköping</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>20185000</total_value_eur>
+      <top_players>
+        <player name="C. Nyman" rating="71"/>
+        <player name="D. Moberg Karlsson" rating="70"/>
+        <player name="A. Traustason" rating="69"/>
+        <player name="A. Fransson" rating="67"/>
+        <player name="Í. Sigurgeirsson" rating="67"/>
+      </top_players>
+    </team>
+    <team name="GAIS" players="25">
+      <name>GAIS</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>20055000</total_value_eur>
+      <top_players>
+        <player name="G. Lundgren" rating="69"/>
+        <player name="I. Diabate" rating="67"/>
+        <player name="M. Krasniqi" rating="66"/>
+        <player name="A. Boudri" rating="65"/>
+        <player name="W. Milovanović" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Östers IF" players="25">
+      <name>Östers IF</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>15900000</total_value_eur>
+      <top_players>
+        <player name="A. Suhonen" rating="66"/>
+        <player name="P. Sejdiu" rating="65"/>
+        <player name="A. Lindahl" rating="64"/>
+        <player name="C. Kouakou" rating="64"/>
+        <player name="A. Aliev" rating="64"/>
+      </top_players>
+    </team>
+    <team name="Degerfors IF" players="25">
+      <name>Degerfors IF</name>
+      <average_rating>62.2</average_rating>
+      <total_value_eur>15395000</total_value_eur>
+      <top_players>
+        <player name="D. Sundgren" rating="68"/>
+        <player name="J. Pikkarainen" rating="66"/>
+        <player name="S. Ohlsson" rating="65"/>
+        <player name="N. Netabay" rating="65"/>
+        <player name="R. Omorowa" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Halmstads BK" players="27">
+      <name>Halmstads BK</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>15870000</total_value_eur>
+      <top_players>
+        <player name="R. Kaib" rating="65"/>
+        <player name="N. Mohammed" rating="65"/>
+        <player name="P. Gregor" rating="65"/>
+        <player name="T. Erlandsson" rating="65"/>
+        <player name="A. Boman" rating="64"/>
+      </top_players>
+    </team>
+    <team name="IF Brommapojkarna" players="33">
+      <name>IF Brommapojkarna</name>
+      <average_rating>61.2</average_rating>
+      <total_value_eur>22510000</total_value_eur>
+      <top_players>
+        <player name="V. Lind" rating="67"/>
+        <player name="S. Martinsson Ngouali" rating="66"/>
+        <player name="D. Irandust" rating="66"/>
+        <player name="A. Timossi Andersson" rating="65"/>
+        <player name="K. Ackermann" rating="65"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

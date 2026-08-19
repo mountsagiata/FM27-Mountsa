@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Série A" total_teams="14" generated="2026-05-10">
+  <league_info>
+    <name>Série A</name>
+    <total_players>280</total_players>
+    <average_team_rating>72.1</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Flamengo" players="20">
+      <name>Flamengo</name>
+      <average_rating>75.5</average_rating>
+      <total_value_eur>151200000</total_value_eur>
+      <top_players>
+        <player name="Oswaldinato" rating="81"/>
+        <player name="Héniton Pires" rating="80"/>
+        <player name="Wellington Sabrão" rating="78"/>
+        <player name="Guilson Paiva" rating="78"/>
+        <player name="Arturo Inálcio" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Palmeiras" players="20">
+      <name>Palmeiras</name>
+      <average_rating>74.8</average_rating>
+      <total_value_eur>118300000</total_value_eur>
+      <top_players>
+        <player name="Lucas Mantela" rating="82"/>
+        <player name="Fredditinho" rating="78"/>
+        <player name="Wagner Laranjo" rating="77"/>
+        <player name="Enzo Chissano" rating="77"/>
+        <player name="Victorio Jabim" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Atlético Mineiro" players="20">
+      <name>Atlético Mineiro</name>
+      <average_rating>74.8</average_rating>
+      <total_value_eur>140750000</total_value_eur>
+      <top_players>
+        <player name="Welington Dano" rating="81"/>
+        <player name="Nailton Suzuki" rating="81"/>
+        <player name="Heberto Gaúcho" rating="80"/>
+        <player name="Diego Essler" rating="79"/>
+        <player name="Rodrigo Vuarte" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Botafogo" players="20">
+      <name>Botafogo</name>
+      <average_rating>74.0</average_rating>
+      <total_value_eur>97299998</total_value_eur>
+      <top_players>
+        <player name="Ronaldo Cabrais" rating="83"/>
+        <player name="Vieirundinho" rating="78"/>
+        <player name="Lúcio Corteijo" rating="76"/>
+        <player name="Davi Parrela" rating="76"/>
+        <player name="Pierrino Faria" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Internacional" players="20">
+      <name>Internacional</name>
+      <average_rating>73.2</average_rating>
+      <total_value_eur>102950000</total_value_eur>
+      <top_players>
+        <player name="Tony Abranjes" rating="80"/>
+        <player name="Adnan Vidual" rating="79"/>
+        <player name="Gabri Prestão" rating="79"/>
+        <player name="Gerson Armão" rating="78"/>
+        <player name="Zervandro" rating="78"/>
+      </top_players>
+    </team>
+    <team name="Corinthians" players="20">
+      <name>Corinthians</name>
+      <average_rating>72.5</average_rating>
+      <total_value_eur>92975000</total_value_eur>
+      <top_players>
+        <player name="Rosival Dourado" rating="81"/>
+        <player name="Maikel Catarino" rating="80"/>
+        <player name="Jason Bardeira" rating="78"/>
+        <player name="Enaldo Praz" rating="75"/>
+        <player name="Simão Donatinho" rating="75"/>
+      </top_players>
+    </team>
+    <team name="São Paulo" players="20">
+      <name>São Paulo</name>
+      <average_rating>72.2</average_rating>
+      <total_value_eur>59399998</total_value_eur>
+      <top_players>
+        <player name="Albertinho Dutra" rating="78"/>
+        <player name="Leôncio Vimieiro" rating="75"/>
+        <player name="Mauri Borgho" rating="74"/>
+        <player name="Ailtio Coelho" rating="74"/>
+        <player name="Lino Essier" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Fluminense" players="20">
+      <name>Fluminense</name>
+      <average_rating>71.5</average_rating>
+      <total_value_eur>76925000</total_value_eur>
+      <top_players>
+        <player name="Laure Santeiro" rating="80"/>
+        <player name="Jorge Andrão" rating="79"/>
+        <player name="Andeson Trigo" rating="77"/>
+        <player name="Kaíquão Castro" rating="75"/>
+        <player name="Kaimo Lima" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Bahia" players="20">
+      <name>Bahia</name>
+      <average_rating>71.0</average_rating>
+      <total_value_eur>62500000</total_value_eur>
+      <top_players>
+        <player name="Luimo Boas Santos" rating="79"/>
+        <player name="Adilson Edrada" rating="76"/>
+        <player name="Pascoal Muscato" rating="75"/>
+        <player name="Joshuando Sá" rating="75"/>
+        <player name="Silvosinho" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Grêmio" players="20">
+      <name>Grêmio</name>
+      <average_rating>70.8</average_rating>
+      <total_value_eur>44750000</total_value_eur>
+      <top_players>
+        <player name="Emilio Piodão" rating="75"/>
+        <player name="Juli Freitinho" rating="75"/>
+        <player name="Ramón da Almeyda" rating="74"/>
+        <player name="Juli Piresinho" rating="74"/>
+        <player name="Victorino Magela" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Cruzeiro" players="20">
+      <name>Cruzeiro</name>
+      <average_rating>70.8</average_rating>
+      <total_value_eur>51049999</total_value_eur>
+      <top_players>
+        <player name="Silas Almeim" rating="76"/>
+        <player name="Nelsildo Reis" rating="76"/>
+        <player name="Jorginhson" rating="75"/>
+        <player name="Jailson Caeiro" rating="75"/>
+        <player name="Dênildo Stein" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Fortaleza" players="20">
+      <name>Fortaleza</name>
+      <average_rating>70.6</average_rating>
+      <total_value_eur>36849998</total_value_eur>
+      <top_players>
+        <player name="Edval Anton" rating="74"/>
+        <player name="Caio Nunson" rating="74"/>
+        <player name="Mardial Cunha" rating="74"/>
+        <player name="Kauã Abranches" rating="72"/>
+        <player name="Tony Muttinho" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Vasco da Gama" players="20">
+      <name>Vasco da Gama</name>
+      <average_rating>68.7</average_rating>
+      <total_value_eur>31125000</total_value_eur>
+      <top_players>
+        <player name="Lafortiscinho" rating="76"/>
+        <player name="Nivo Serpinho" rating="73"/>
+        <player name="Éder Aldralho" rating="72"/>
+        <player name="Maicol Pimenta" rating="72"/>
+        <player name="Josué da Feira" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Vitória" players="20">
+      <name>Vitória</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>27925000</total_value_eur>
+      <top_players>
+        <player name="Kel Perinho" rating="74"/>
+        <player name="Leo Caldeirinha" rating="73"/>
+        <player name="Porphirinho" rating="72"/>
+        <player name="Jacson Zonta" rating="72"/>
+        <player name="Ricky Guerreda" rating="72"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

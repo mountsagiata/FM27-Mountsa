@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="División Profesional" total_teams="5" generated="2026-05-10">
+  <league_info>
+    <name>División Profesional</name>
+    <total_players>126</total_players>
+    <average_team_rating>65.0</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Cerro Porteño" players="27">
+      <name>Cerro Porteño</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>34555000</total_value_eur>
+      <top_players>
+        <player name="C. Domínguez" rating="73"/>
+        <player name="G. Velázquez" rating="73"/>
+        <player name="F. Carrizo" rating="72"/>
+        <player name="I. Aliseda" rating="72"/>
+        <player name="J. Torres" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Libertad" players="28">
+      <name>Libertad</name>
+      <average_rating>66.7</average_rating>
+      <total_value_eur>32700000</total_value_eur>
+      <top_players>
+        <player name="D. Viera" rating="76"/>
+        <player name="L. Melgarejo" rating="74"/>
+        <player name="M. Espinoza" rating="72"/>
+        <player name="R. Rojas" rating="71"/>
+        <player name="I. Ramírez" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Club Olimpia" players="19">
+      <name>Club Olimpia</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>22775000</total_value_eur>
+      <top_players>
+        <player name="G. Olveira" rating="74"/>
+        <player name="D. González" rating="73"/>
+        <player name="I. Leguizamón" rating="72"/>
+        <player name="R. Ortiz" rating="70"/>
+        <player name="R. Redes" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Guaraní" players="27">
+      <name>Guaraní</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>22605000</total_value_eur>
+      <top_players>
+        <player name="F. Fernández" rating="70"/>
+        <player name="D. Fernández" rating="69"/>
+        <player name="A. Manzur" rating="68"/>
+        <player name="J. Pérez" rating="68"/>
+        <player name="W. Mendieta" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Sportivo Luqueño" players="25">
+      <name>Sportivo Luqueño</name>
+      <average_rating>62.6</average_rating>
+      <total_value_eur>16610000</total_value_eur>
+      <top_players>
+        <player name="F. Santander" rating="68"/>
+        <player name="W. González" rating="68"/>
+        <player name="W. Rodríguez" rating="67"/>
+        <player name="A. Aguilar" rating="67"/>
+        <player name="R. Ríos" rating="66"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

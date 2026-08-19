@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Ligue 2" total_teams="18" generated="2026-05-10">
+  <league_info>
+    <name>Ligue 2</name>
+    <total_players>482</total_players>
+    <average_team_rating>63.5</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="AS Saint-Étienne" players="26">
+      <name>AS Saint-Étienne</name>
+      <average_rating>67.5</average_rating>
+      <total_value_eur>60380000</total_value_eur>
+      <top_players>
+        <player name="L. Stassin" rating="75"/>
+        <player name="Z. Davitashvili" rating="74"/>
+        <player name="G. Larsonneur" rating="74"/>
+        <player name="I. Cardona" rating="73"/>
+        <player name="P. Ekwah" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Stade de Reims" players="28">
+      <name>Stade de Reims</name>
+      <average_rating>67.2</average_rating>
+      <total_value_eur>62700000</total_value_eur>
+      <top_players>
+        <player name="K. Nakamura" rating="76"/>
+        <player name="T. Teuma" rating="75"/>
+        <player name="Akieme" rating="73"/>
+        <player name="M. Daramy" rating="73"/>
+        <player name="J. Okumu" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Montpellier HSC" players="26">
+      <name>Montpellier HSC</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>45125000</total_value_eur>
+      <top_players>
+        <player name="T. Savanier" rating="75"/>
+        <player name="B. Omeragić" rating="74"/>
+        <player name="J. Laporte" rating="73"/>
+        <player name="L. Mincarelli" rating="71"/>
+        <player name="E. Tchato" rating="71"/>
+      </top_players>
+    </team>
+    <team name="USL Dunkerque" players="24">
+      <name>USL Dunkerque</name>
+      <average_rating>64.2</average_rating>
+      <total_value_eur>22250000</total_value_eur>
+      <top_players>
+        <player name="E. Bardeli" rating="71"/>
+        <player name="V. Sasso" rating="71"/>
+        <player name="Eguaras" rating="70"/>
+        <player name="A. Georgen" rating="70"/>
+        <player name="O. Sangante" rating="70"/>
+      </top_players>
+    </team>
+    <team name="En Avant Guingamp" players="25">
+      <name>En Avant Guingamp</name>
+      <average_rating>64.1</average_rating>
+      <total_value_eur>25175000</total_value_eur>
+      <top_players>
+        <player name="A. Sissoko" rating="71"/>
+        <player name="K. Sidibé" rating="71"/>
+        <player name="A. Hemia" rating="70"/>
+        <player name="L. Mafouta" rating="70"/>
+        <player name="D. Gomis" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Stade Lavallois Mayenne FC" players="24">
+      <name>Stade Lavallois Mayenne FC</name>
+      <average_rating>64.0</average_rating>
+      <total_value_eur>19500000</total_value_eur>
+      <top_players>
+        <player name="M. Samassa" rating="72"/>
+        <player name="T. Vargas" rating="71"/>
+        <player name="S. Sanna" rating="69"/>
+        <player name="T. Pellenard" rating="69"/>
+        <player name="M. Tchokounté" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Red Star FC" players="27">
+      <name>Red Star FC</name>
+      <average_rating>63.7</average_rating>
+      <total_value_eur>24000000</total_value_eur>
+      <top_players>
+        <player name="G. Poussin" rating="72"/>
+        <player name="S. Khaoui" rating="70"/>
+        <player name="G. Haag" rating="70"/>
+        <player name="P. Lemonnier" rating="68"/>
+        <player name="R. Hachem" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Grenoble Foot 38" players="30">
+      <name>Grenoble Foot 38</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>28560000</total_value_eur>
+      <top_players>
+        <player name="T. Valls" rating="72"/>
+        <player name="J. Benet" rating="71"/>
+        <player name="M. Diop" rating="69"/>
+        <player name="S. Delos" rating="68"/>
+        <player name="C. Vidal" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Sporting Club Bastia" players="27">
+      <name>Sporting Club Bastia</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>24200000</total_value_eur>
+      <top_players>
+        <player name="T. Ducrocq" rating="70"/>
+        <player name="Z. Ariss" rating="69"/>
+        <player name="A. Boutrah" rating="69"/>
+        <player name="J. Placide" rating="69"/>
+        <player name="J. Janneh" rating="68"/>
+      </top_players>
+    </team>
+    <team name="ESTAC Troyes" players="33">
+      <name>ESTAC Troyes</name>
+      <average_rating>63.1</average_rating>
+      <total_value_eur>31205000</total_value_eur>
+      <top_players>
+        <player name="N. Lemaître" rating="70"/>
+        <player name="A. Mille" rating="69"/>
+        <player name="A. Monfray" rating="69"/>
+        <player name="I. Boura" rating="68"/>
+        <player name="Y. Larouci" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Le Mans FC" players="26">
+      <name>Le Mans FC</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>17485000</total_value_eur>
+      <top_players>
+        <player name="B. Guillaume" rating="67"/>
+        <player name="H. Voyer" rating="67"/>
+        <player name="E. Quarshie" rating="66"/>
+        <player name="D. Gueye" rating="66"/>
+        <player name="T. Luvambo" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Pau FC" players="24">
+      <name>Pau FC</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>19015000</total_value_eur>
+      <top_players>
+        <player name="A. Briançon" rating="69"/>
+        <player name="A. Bobichon" rating="68"/>
+        <player name="J. Ruiz" rating="67"/>
+        <player name="T. Pouilly" rating="66"/>
+        <player name="S. Beusnard" rating="65"/>
+      </top_players>
+    </team>
+    <team name="AS Nancy Lorraine" players="24">
+      <name>AS Nancy Lorraine</name>
+      <average_rating>62.5</average_rating>
+      <total_value_eur>14160000</total_value_eur>
+      <top_players>
+        <player name="E. Basilio" rating="71"/>
+        <player name="F. Maouassa" rating="69"/>
+        <player name="A. Dabasse" rating="66"/>
+        <player name="W. Bouabdeli" rating="65"/>
+        <player name="N. Saint-Ruf" rating="65"/>
+      </top_players>
+    </team>
+    <team name="Amiens SC" players="26">
+      <name>Amiens SC</name>
+      <average_rating>62.4</average_rating>
+      <total_value_eur>23540000</total_value_eur>
+      <top_players>
+        <player name="P. Bernardoni" rating="71"/>
+        <player name="K. Kaïboué" rating="70"/>
+        <player name="N. Kandil" rating="69"/>
+        <player name="J. Mlakar" rating="67"/>
+        <player name="V. Lobry" rating="66"/>
+      </top_players>
+    </team>
+    <team name="Clermont Foot 63" players="28">
+      <name>Clermont Foot 63</name>
+      <average_rating>62.3</average_rating>
+      <total_value_eur>18050000</total_value_eur>
+      <top_players>
+        <player name="J. Gastien" rating="69"/>
+        <player name="Y. Salmier" rating="69"/>
+        <player name="A. Bamba" rating="68"/>
+        <player name="M. Caufriez" rating="68"/>
+        <player name="H. Saivet" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Rodez Aveyron Football" players="28">
+      <name>Rodez Aveyron Football</name>
+      <average_rating>62.1</average_rating>
+      <total_value_eur>24140000</total_value_eur>
+      <top_players>
+        <player name="M. Tourraine" rating="69"/>
+        <player name="A. Trouillet" rating="68"/>
+        <player name="Q. Braat" rating="68"/>
+        <player name="W. Younoussa" rating="67"/>
+        <player name="T. Arconte" rating="65"/>
+      </top_players>
+    </team>
+    <team name="FC Annecy" players="29">
+      <name>FC Annecy</name>
+      <average_rating>61.4</average_rating>
+      <total_value_eur>17845000</total_value_eur>
+      <top_players>
+        <player name="F. Escales" rating="70"/>
+        <player name="A. Kashi" rating="69"/>
+        <player name="A. Larose" rating="69"/>
+        <player name="V. Pajot" rating="68"/>
+        <player name="F. N'Sakala" rating="67"/>
+      </top_players>
+    </team>
+    <team name="US Boulogne Cote d'Opale" players="27">
+      <name>US Boulogne Cote d&amp;apos;Opale</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>11860000</total_value_eur>
+      <top_players>
+        <player name="J. Boyer" rating="64"/>
+        <player name="A. El Farissi" rating="63"/>
+        <player name="J. Bultel" rating="63"/>
+        <player name="D. Thiam" rating="63"/>
+        <player name="N. Zohoré" rating="63"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

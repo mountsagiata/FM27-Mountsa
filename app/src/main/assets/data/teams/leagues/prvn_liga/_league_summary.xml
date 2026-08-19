@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="První liga" total_teams="3" generated="2026-05-10">
+  <league_info>
+    <name>První liga</name>
+    <total_players>82</total_players>
+    <average_team_rating>70.5</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="SK Slavia Praha" players="29">
+      <name>SK Slavia Praha</name>
+      <average_rating>72.0</average_rating>
+      <total_value_eur>135025000</total_value_eur>
+      <top_players>
+        <player name="L. Provod" rating="78"/>
+        <player name="O. Dorley" rating="78"/>
+        <player name="M. Sadílek" rating="76"/>
+        <player name="T. Holeš" rating="76"/>
+        <player name="J. Staněk" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Sparta Praha" players="27">
+      <name>Sparta Praha</name>
+      <average_rating>70.1</average_rating>
+      <total_value_eur>90655000</total_value_eur>
+      <top_players>
+        <player name="L. Haraslín" rating="78"/>
+        <player name="V. Birmančević" rating="76"/>
+        <player name="K. Kairinen" rating="75"/>
+        <player name="Á. Preciado" rating="75"/>
+        <player name="P. Vindahl" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Viktoria Plzeň" players="26">
+      <name>Viktoria Plzeň</name>
+      <average_rating>69.5</average_rating>
+      <total_value_eur>67850000</total_value_eur>
+      <top_players>
+        <player name="R. Durosinmi" rating="75"/>
+        <player name="S. Dweh" rating="75"/>
+        <player name="M. Jedlička" rating="75"/>
+        <player name="L. Červ" rating="74"/>
+        <player name="M. Vydra" rating="74"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

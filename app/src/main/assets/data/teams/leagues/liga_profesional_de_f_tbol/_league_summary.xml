@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Liga Profesional de Fútbol" total_teams="30" generated="2026-05-10">
+  <league_info>
+    <name>Liga Profesional de Fútbol</name>
+    <total_players>944</total_players>
+    <average_team_rating>67.2</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="River Plate" players="34">
+      <name>River Plate</name>
+      <average_rating>73.0</average_rating>
+      <total_value_eur>177650000</total_value_eur>
+      <top_players>
+        <player name="M. Acuña" rating="78"/>
+        <player name="G. Montiel" rating="78"/>
+        <player name="C. Ledesma" rating="78"/>
+        <player name="F. Armani" rating="78"/>
+        <player name="K. Castaño" rating="77"/>
+      </top_players>
+    </team>
+    <team name="Boca Juniors" players="35">
+      <name>Boca Juniors</name>
+      <average_rating>71.8</average_rating>
+      <total_value_eur>134150000</total_value_eur>
+      <top_players>
+        <player name="L. Paredes" rating="78"/>
+        <player name="Ander Herrera" rating="78"/>
+        <player name="A. Marchesín" rating="77"/>
+        <player name="M. Braida" rating="76"/>
+        <player name="R. Battaglia" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Estudiantes de La Plata" players="30">
+      <name>Estudiantes de La Plata</name>
+      <average_rating>70.2</average_rating>
+      <total_value_eur>84699999</total_value_eur>
+      <top_players>
+        <player name="F. Muslera" rating="79"/>
+        <player name="S. Ascacíbar" rating="78"/>
+        <player name="G. Neves" rating="75"/>
+        <player name="T. Palacios" rating="75"/>
+        <player name="L. González Pirez" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Racing Club" players="33">
+      <name>Racing Club</name>
+      <average_rating>70.2</average_rating>
+      <total_value_eur>108000000</total_value_eur>
+      <top_players>
+        <player name="A. Martínez" rating="78"/>
+        <player name="G. Arias" rating="77"/>
+        <player name="S. Sosa" rating="76"/>
+        <player name="R. Sánchez" rating="75"/>
+        <player name="G. Martirena" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Vélez Sarsfield" players="34">
+      <name>Vélez Sarsfield</name>
+      <average_rating>69.6</average_rating>
+      <total_value_eur>87800000</total_value_eur>
+      <top_players>
+        <player name="D. Valdés" rating="75"/>
+        <player name="E. Mammana" rating="75"/>
+        <player name="Á. Montero" rating="75"/>
+        <player name="T. Marchiori" rating="75"/>
+        <player name="R. Aliendro" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Talleres" players="26">
+      <name>Talleres</name>
+      <average_rating>68.6</average_rating>
+      <total_value_eur>61930000</total_value_eur>
+      <top_players>
+        <player name="E. Reynoso" rating="77"/>
+        <player name="R. Botta" rating="76"/>
+        <player name="G. Herrera" rating="76"/>
+        <player name="J. Rodríguez" rating="75"/>
+        <player name="M. Galarza" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Independiente" players="29">
+      <name>Independiente</name>
+      <average_rating>68.2</average_rating>
+      <total_value_eur>55700000</total_value_eur>
+      <top_players>
+        <player name="R. Rey" rating="78"/>
+        <player name="I. Marcone" rating="76"/>
+        <player name="S. Montiel" rating="75"/>
+        <player name="G. Ávalos" rating="75"/>
+        <player name="L. Godoy" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Huracán" players="29">
+      <name>Huracán</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>37950000</total_value_eur>
+      <top_players>
+        <player name="M. Nervo" rating="74"/>
+        <player name="H. Galíndez" rating="74"/>
+        <player name="F. Waller" rating="72"/>
+        <player name="A. Urzi" rating="72"/>
+        <player name="F. Pereyra" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Rosario Central" players="29">
+      <name>Rosario Central</name>
+      <average_rating>67.5</average_rating>
+      <total_value_eur>65120000</total_value_eur>
+      <top_players>
+        <player name="Á. Di María" rating="82"/>
+        <player name="V. Malcorra" rating="76"/>
+        <player name="J. Campaz" rating="76"/>
+        <player name="C. Quintana" rating="74"/>
+        <player name="A. Sández" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Belgrano de Córdoba" players="32">
+      <name>Belgrano de Córdoba</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>54920000</total_value_eur>
+      <top_players>
+        <player name="L. Zelarayán" rating="79"/>
+        <player name="N. Fernández" rating="75"/>
+        <player name="L. Morales" rating="74"/>
+        <player name="L. Menossi" rating="73"/>
+        <player name="U. Sánchez" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Godoy Cruz" players="36">
+      <name>Godoy Cruz</name>
+      <average_rating>67.3</average_rating>
+      <total_value_eur>63825000</total_value_eur>
+      <top_players>
+        <player name="Pol Fernández" rating="75"/>
+        <player name="F. Petroli" rating="74"/>
+        <player name="G. Abrego" rating="72"/>
+        <player name="F. Rasmussen" rating="72"/>
+        <player name="N. Fernández" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Tigre" players="32">
+      <name>Tigre</name>
+      <average_rating>67.2</average_rating>
+      <total_value_eur>45875000</total_value_eur>
+      <top_players>
+        <player name="T. Cardona" rating="73"/>
+        <player name="J. Elías" rating="71"/>
+        <player name="J. López" rating="70"/>
+        <player name="B. Leyes" rating="70"/>
+        <player name="N. Banegas" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Argentinos Juniors" players="32">
+      <name>Argentinos Juniors</name>
+      <average_rating>67.1</average_rating>
+      <total_value_eur>62200000</total_value_eur>
+      <top_players>
+        <player name="F. Fattori" rating="76"/>
+        <player name="L. Lozano" rating="74"/>
+        <player name="F. Álvarez" rating="74"/>
+        <player name="D. Rodríguez" rating="74"/>
+        <player name="N. Oroz" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Club Atlético Unión" players="28">
+      <name>Club Atlético Unión</name>
+      <average_rating>66.9</average_rating>
+      <total_value_eur>38000000</total_value_eur>
+      <top_players>
+        <player name="C. Corvalán" rating="73"/>
+        <player name="M. Martínez" rating="72"/>
+        <player name="M. Pittón" rating="71"/>
+        <player name="A. Solari" rating="71"/>
+        <player name="M. Del Blanco" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Gimnasia y Esgrima La Plata" players="37">
+      <name>Gimnasia y Esgrima La Plata</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>51700000</total_value_eur>
+      <top_players>
+        <player name="J. Pintado" rating="73"/>
+        <player name="L. Castro" rating="72"/>
+        <player name="G. Suso" rating="72"/>
+        <player name="P. Silva Torrejón" rating="71"/>
+        <player name="B. Merlini" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Lanús" players="35">
+      <name>Lanús</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>63425000</total_value_eur>
+      <top_players>
+        <player name="M. Moreno" rating="78"/>
+        <player name="E. Salvio" rating="76"/>
+        <player name="R. Carrera" rating="74"/>
+        <player name="C. Izquierdoz" rating="74"/>
+        <player name="W. Bou" rating="73"/>
+      </top_players>
+    </team>
+    <team name="CA Banfield" players="31">
+      <name>CA Banfield</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>42700000</total_value_eur>
+      <top_players>
+        <player name="J. Furch" rating="75"/>
+        <player name="F. Castañeda" rating="70"/>
+        <player name="S. Vittor" rating="70"/>
+        <player name="M. Río" rating="70"/>
+        <player name="T. Nasif" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Newell's Old Boys" players="32">
+      <name>Newell&amp;apos;s Old Boys</name>
+      <average_rating>66.4</average_rating>
+      <total_value_eur>37105000</total_value_eur>
+      <top_players>
+        <player name="É. Banega" rating="77"/>
+        <player name="V. Cuesta" rating="75"/>
+        <player name="C. González" rating="73"/>
+        <player name="L. Lollo" rating="72"/>
+        <player name="L. Hoyos" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Defensa y Justicia" players="30">
+      <name>Defensa y Justicia</name>
+      <average_rating>66.3</average_rating>
+      <total_value_eur>44055000</total_value_eur>
+      <top_players>
+        <player name="A. Molinas" rating="73"/>
+        <player name="R. Delgado" rating="71"/>
+        <player name="K. Gutiérrez" rating="71"/>
+        <player name="L. González" rating="71"/>
+        <player name="A. Soto" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Independiente Rivadavia" players="33">
+      <name>Independiente Rivadavia</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>45805000</total_value_eur>
+      <top_players>
+        <player name="S. Villa" rating="75"/>
+        <player name="A. Arce" rating="75"/>
+        <player name="E. Centurión" rating="72"/>
+        <player name="E. Bonifacio" rating="70"/>
+        <player name="L. Gómez" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Instituto Atlético Central Córdoba" players="30">
+      <name>Instituto Atlético Central Córdoba</name>
+      <average_rating>66.1</average_rating>
+      <total_value_eur>45625000</total_value_eur>
+      <top_players>
+        <player name="G. Lódico" rating="75"/>
+        <player name="M. Roffo" rating="74"/>
+        <player name="F. Alarcón" rating="72"/>
+        <player name="A. Luna" rating="70"/>
+        <player name="F. Mac Allister" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Barracas Central" players="29">
+      <name>Barracas Central</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>36600000</total_value_eur>
+      <top_players>
+        <player name="N. Barrios" rating="74"/>
+        <player name="I. Tapia" rating="71"/>
+        <player name="F. Bruera" rating="71"/>
+        <player name="Y. Rak" rating="71"/>
+        <player name="R. Insua" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Atlético Tucumán" players="30">
+      <name>Atlético Tucumán</name>
+      <average_rating>66.0</average_rating>
+      <total_value_eur>34550000</total_value_eur>
+      <top_players>
+        <player name="L. Díaz" rating="73"/>
+        <player name="M. Mansilla" rating="73"/>
+        <player name="M. Coronel" rating="71"/>
+        <player name="C. Auzqui" rating="70"/>
+        <player name="R. Ruiz Rodríguez" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Platense" players="33">
+      <name>Platense</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>43835000</total_value_eur>
+      <top_players>
+        <player name="M. Luna Diale" rating="72"/>
+        <player name="I. Vázquez" rating="72"/>
+        <player name="A. Lotti" rating="71"/>
+        <player name="A. Desábato" rating="71"/>
+        <player name="F. Zapiola" rating="70"/>
+      </top_players>
+    </team>
+    <team name="CA Aldosivi" players="31">
+      <name>CA Aldosivi</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>35820000</total_value_eur>
+      <top_players>
+        <player name="I. Guerrico" rating="71"/>
+        <player name="J. Giani" rating="71"/>
+        <player name="S. Moyano" rating="71"/>
+        <player name="N. Breitenbruch" rating="70"/>
+        <player name="G. Mottes" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Club Atlético Sarmiento" players="32">
+      <name>Club Atlético Sarmiento</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>32175000</total_value_eur>
+      <top_players>
+        <player name="J. Gómez" rating="71"/>
+        <player name="L. Acosta" rating="71"/>
+        <player name="S. Rodríguez" rating="70"/>
+        <player name="J. Insaurralde" rating="70"/>
+        <player name="J. Devecchi" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Central Cordoba SdE" players="33">
+      <name>Central Cordoba SdE</name>
+      <average_rating>65.5</average_rating>
+      <total_value_eur>36270000</total_value_eur>
+      <top_players>
+        <player name="J. Florentín" rating="71"/>
+        <player name="L. Heredia" rating="71"/>
+        <player name="G. Verón" rating="71"/>
+        <player name="I. Gómez" rating="70"/>
+        <player name="J. Galván" rating="70"/>
+      </top_players>
+    </team>
+    <team name="San Lorenzo de Almagro" players="29">
+      <name>San Lorenzo de Almagro</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>39849999</total_value_eur>
+      <top_players>
+        <player name="A. Vombergar" rating="74"/>
+        <player name="J. Romaña" rating="74"/>
+        <player name="N. Tripichio" rating="73"/>
+        <player name="G. Hernández" rating="73"/>
+        <player name="N. Domínguez" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Club Atlético San Martín" players="30">
+      <name>Club Atlético San Martín</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>23425000</total_value_eur>
+      <top_players>
+        <player name="D. González" rating="70"/>
+        <player name="J. Menéndez" rating="70"/>
+        <player name="L. Diarte" rating="69"/>
+        <player name="I. Maestro Puch" rating="68"/>
+        <player name="E. Burgos" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Deportivo Riestra" players="30">
+      <name>Deportivo Riestra</name>
+      <average_rating>63.3</average_rating>
+      <total_value_eur>16420000</total_value_eur>
+      <top_players>
+        <player name="I. Arce" rating="72"/>
+        <player name="J. Herrera" rating="69"/>
+        <player name="M. Barbieri" rating="69"/>
+        <player name="N. Benegas" rating="68"/>
+        <player name="A. Díaz" rating="67"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

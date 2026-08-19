@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Pro League" total_teams="35" generated="2026-05-10">
+  <league_info>
+    <name>Pro League</name>
+    <total_players>1014</total_players>
+    <average_team_rating>64.3</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Club Brugge KV" players="31">
+      <name>Club Brugge KV</name>
+      <average_rating>69.5</average_rating>
+      <total_value_eur>166925000</total_value_eur>
+      <top_players>
+        <player name="H. Vanaken" rating="80"/>
+        <player name="C. Tzolis" rating="80"/>
+        <player name="R. Onyedika" rating="77"/>
+        <player name="B. Mechele" rating="76"/>
+        <player name="G. Nilsson" rating="75"/>
+      </top_players>
+    </team>
+    <team name="KRC Genk" players="28">
+      <name>KRC Genk</name>
+      <average_rating>69.0</average_rating>
+      <total_value_eur>119175000</total_value_eur>
+      <top_players>
+        <player name="B. Heynen" rating="78"/>
+        <player name="J. Ito" rating="77"/>
+        <player name="P. Hrošovský" rating="76"/>
+        <player name="Z. El Ouahdi" rating="76"/>
+        <player name="M. Smets" rating="76"/>
+      </top_players>
+    </team>
+    <team name="Al Ittihad" players="32">
+      <name>Al Ittihad</name>
+      <average_rating>68.5</average_rating>
+      <total_value_eur>217015000</total_value_eur>
+      <top_players>
+        <player name="N. Kanté" rating="85"/>
+        <player name="K. Benzema" rating="85"/>
+        <player name="M. Diaby" rating="84"/>
+        <player name="Fabinho" rating="82"/>
+        <player name="Danilo Pereira" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Union Saint-Gilloise" players="27">
+      <name>Union Saint-Gilloise</name>
+      <average_rating>68.1</average_rating>
+      <total_value_eur>86330000</total_value_eur>
+      <top_players>
+        <player name="A. Zorgane" rating="78"/>
+        <player name="C. Burgess" rating="78"/>
+        <player name="R. Schoofs" rating="76"/>
+        <player name="K. Mac Allister" rating="76"/>
+        <player name="P. David" rating="75"/>
+      </top_players>
+    </team>
+    <team name="RSC Anderlecht" players="32">
+      <name>RSC Anderlecht</name>
+      <average_rating>67.8</average_rating>
+      <total_value_eur>87905000</total_value_eur>
+      <top_players>
+        <player name="C. Coosemans" rating="77"/>
+        <player name="A. Bertaccini" rating="75"/>
+        <player name="M. Stroeykens" rating="74"/>
+        <player name="T. Hazard" rating="73"/>
+        <player name="C. Huerta" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Al Hilal" players="36">
+      <name>Al Hilal</name>
+      <average_rating>67.7</average_rating>
+      <total_value_eur>314020000</total_value_eur>
+      <top_players>
+        <player name="T. Hernández" rating="84"/>
+        <player name="João Cancelo" rating="84"/>
+        <player name="S. Milinković-Savić" rating="84"/>
+        <player name="Rúben Neves" rating="84"/>
+        <player name="S. Al Dawsari" rating="82"/>
+      </top_players>
+    </team>
+    <team name="KAA Gent" players="28">
+      <name>KAA Gent</name>
+      <average_rating>67.6</average_rating>
+      <total_value_eur>53675000</total_value_eur>
+      <top_players>
+        <player name="D. Roef" rating="76"/>
+        <player name="A. Kadri" rating="73"/>
+        <player name="S. Van der Heyden" rating="73"/>
+        <player name="D. Vanzeir" rating="72"/>
+        <player name="M. Delorge" rating="72"/>
+      </top_players>
+    </team>
+    <team name="Al Nassr" players="32">
+      <name>Al Nassr</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>203609999</total_value_eur>
+      <top_players>
+        <player name="Cristiano Ronaldo" rating="85"/>
+        <player name="Iñigo Martínez" rating="85"/>
+        <player name="S. Mané" rating="83"/>
+        <player name="K. Coman" rating="83"/>
+        <player name="M. Brozović" rating="81"/>
+      </top_players>
+    </team>
+    <team name="Al Ahli SFC" players="31">
+      <name>Al Ahli SFC</name>
+      <average_rating>66.5</average_rating>
+      <total_value_eur>201680000</total_value_eur>
+      <top_players>
+        <player name="R. Mahrez" rating="84"/>
+        <player name="Ibañez" rating="82"/>
+        <player name="I. Toney" rating="81"/>
+        <player name="Galeno" rating="81"/>
+        <player name="F. Kessié" rating="80"/>
+      </top_players>
+    </team>
+    <team name="Al Qadsiah FC" players="31">
+      <name>Al Qadsiah FC</name>
+      <average_rating>66.2</average_rating>
+      <total_value_eur>172150000</total_value_eur>
+      <top_players>
+        <player name="M. Retegui" rating="83"/>
+        <player name="Otávio" rating="82"/>
+        <player name="Nacho Fernández" rating="82"/>
+        <player name="K. Casteels" rating="82"/>
+        <player name="J. Quiñones" rating="80"/>
+      </top_players>
+    </team>
+    <team name="Oud-Heverlee Leuven" players="30">
+      <name>Oud-Heverlee Leuven</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>45050000</total_value_eur>
+      <top_players>
+        <player name="S. Schrijvers" rating="74"/>
+        <player name="N. Dussenne" rating="73"/>
+        <player name="T. Leysen" rating="73"/>
+        <player name="Y. Maziz" rating="72"/>
+        <player name="B. Verstraete" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Standard de Liège" players="29">
+      <name>Standard de Liège</name>
+      <average_rating>65.9</average_rating>
+      <total_value_eur>43000000</total_value_eur>
+      <top_players>
+        <player name="D. Eckert Ayensa" rating="73"/>
+        <player name="M. Epolo" rating="73"/>
+        <player name="M. El Hankouri" rating="71"/>
+        <player name="M. Ilaimaharitra" rating="71"/>
+        <player name="M. Fossey" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Royal Charleroi Sporting Club" players="25">
+      <name>Royal Charleroi Sporting Club</name>
+      <average_rating>65.8</average_rating>
+      <total_value_eur>40960000</total_value_eur>
+      <top_players>
+        <player name="P. Pflücke" rating="73"/>
+        <player name="P. Guiagon" rating="72"/>
+        <player name="A. Ousou" rating="71"/>
+        <player name="K. Van Den Kerkhof" rating="70"/>
+        <player name="A. Bernier" rating="70"/>
+      </top_players>
+    </team>
+    <team name="NEOM SC" players="29">
+      <name>NEOM SC</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>79530000</total_value_eur>
+      <top_players>
+        <player name="A. Lacazette" rating="79"/>
+        <player name="M. Bułka" rating="79"/>
+        <player name="S. Benrahma" rating="77"/>
+        <player name="A. Hegazi" rating="75"/>
+        <player name="A. Doucouré" rating="74"/>
+      </top_players>
+    </team>
+    <team name="KVC Westerlo" players="30">
+      <name>KVC Westerlo</name>
+      <average_rating>65.1</average_rating>
+      <total_value_eur>55655000</total_value_eur>
+      <top_players>
+        <player name="A. Sayyadmanesh" rating="74"/>
+        <player name="D. Haspolat" rating="74"/>
+        <player name="B. Reynolds" rating="73"/>
+        <player name="E. Bayram" rating="73"/>
+        <player name="S. Bolat" rating="70"/>
+      </top_players>
+    </team>
+    <team name="KV Mechelen" players="27">
+      <name>KV Mechelen</name>
+      <average_rating>64.6</average_rating>
+      <total_value_eur>42350000</total_value_eur>
+      <top_players>
+        <player name="O. De Wolf" rating="75"/>
+        <player name="K. Mrabti" rating="74"/>
+        <player name="B. Raman" rating="73"/>
+        <player name="L. Lauberbach" rating="71"/>
+        <player name="M. Konaté" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Royal Antwerp FC" players="31">
+      <name>Royal Antwerp FC</name>
+      <average_rating>64.5</average_rating>
+      <total_value_eur>56375000</total_value_eur>
+      <top_players>
+        <player name="V. Janssen" rating="77"/>
+        <player name="Z. Van Den Bosch" rating="74"/>
+        <player name="T. Somers" rating="73"/>
+        <player name="D. Praet" rating="73"/>
+        <player name="B. Kouyaté" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Cercle Brugge KSV" players="29">
+      <name>Cercle Brugge KSV</name>
+      <average_rating>64.3</average_rating>
+      <total_value_eur>45805000</total_value_eur>
+      <top_players>
+        <player name="O. Diakité" rating="72"/>
+        <player name="H. Van Der Bruggen" rating="70"/>
+        <player name="G. Magnée" rating="70"/>
+        <player name="A. Minda" rating="70"/>
+        <player name="E. Utkus" rating="70"/>
+      </top_players>
+    </team>
+    <team name="FCV Dender EH" players="25">
+      <name>FCV Dender EH</name>
+      <average_rating>63.9</average_rating>
+      <total_value_eur>25745000</total_value_eur>
+      <top_players>
+        <player name="R. Květ" rating="70"/>
+        <player name="M. Sahi" rating="69"/>
+        <player name="B. Goncalves" rating="69"/>
+        <player name="B. Nsimba" rating="68"/>
+        <player name="K. Cools" rating="68"/>
+      </top_players>
+    </team>
+    <team name="Sint-Truidense VV" players="24">
+      <name>Sint-Truidense VV</name>
+      <average_rating>63.6</average_rating>
+      <total_value_eur>27220000</total_value_eur>
+      <top_players>
+        <player name="L. Lapoussin" rating="72"/>
+        <player name="R. Ito" rating="71"/>
+        <player name="A. Muja" rating="71"/>
+        <player name="L. Kokubo" rating="70"/>
+        <player name="S. Taniguchi" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Al Ain" players="27">
+      <name>Al Ain</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>64365000</total_value_eur>
+      <top_players>
+        <player name="Kaku" rating="79"/>
+        <player name="S. Rahimi" rating="78"/>
+        <player name="K. Laba" rating="77"/>
+        <player name="Erik" rating="73"/>
+        <player name="K. Autonne" rating="72"/>
+      </top_players>
+    </team>
+    <team name="RAAL La Louvière" players="26">
+      <name>RAAL La Louvière</name>
+      <average_rating>63.5</average_rating>
+      <total_value_eur>23935000</total_value_eur>
+      <top_players>
+        <player name="M. Belkheir" rating="70"/>
+        <player name="A. Beka Beka" rating="69"/>
+        <player name="M. Pau" rating="68"/>
+        <player name="J. Liongola" rating="68"/>
+        <player name="M. Peano" rating="67"/>
+      </top_players>
+    </team>
+    <team name="Al Khaleej" players="27">
+      <name>Al Khaleej</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>35470000</total_value_eur>
+      <top_players>
+        <player name="K. Fortounis" rating="80"/>
+        <player name="A. Moris" rating="75"/>
+        <player name="J. King" rating="74"/>
+        <player name="Pedro Rebocho" rating="73"/>
+        <player name="G. Masouras" rating="73"/>
+      </top_players>
+    </team>
+    <team name="SV Zulte Waregem" players="29">
+      <name>SV Zulte Waregem</name>
+      <average_rating>63.0</average_rating>
+      <total_value_eur>28265000</total_value_eur>
+      <top_players>
+        <player name="J. Vossen" rating="71"/>
+        <player name="J. Erenbjerg" rating="69"/>
+        <player name="J. Opoku" rating="69"/>
+        <player name="M. Aké" rating="69"/>
+        <player name="S. Gavriel" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Al Taawoun FC" players="29">
+      <name>Al Taawoun FC</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>60100000</total_value_eur>
+      <top_players>
+        <player name="A. El Mahdioui" rating="78"/>
+        <player name="M. Barrow" rating="78"/>
+        <player name="R. Faivre" rating="76"/>
+        <player name="Andrei Girotto" rating="76"/>
+        <player name="Mailson" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Al Ettifaq" players="29">
+      <name>Al Ettifaq</name>
+      <average_rating>62.8</average_rating>
+      <total_value_eur>45705000</total_value_eur>
+      <top_players>
+        <player name="G. Wijnaldum" rating="78"/>
+        <player name="Medrán" rating="77"/>
+        <player name="O. Duda" rating="75"/>
+        <player name="J. Hendry" rating="74"/>
+        <player name="M. Rodák" rating="74"/>
+      </top_players>
+    </team>
+    <team name="Al Shabab" players="30">
+      <name>Al Shabab</name>
+      <average_rating>62.0</average_rating>
+      <total_value_eur>77445000</total_value_eur>
+      <top_players>
+        <player name="Y. Carrasco" rating="81"/>
+        <player name="A. Hamdallah" rating="79"/>
+        <player name="Y. Adli" rating="78"/>
+        <player name="J. Brownhill" rating="76"/>
+        <player name="V. Sierro" rating="75"/>
+      </top_players>
+    </team>
+    <team name="Al Fayha" players="28">
+      <name>Al Fayha</name>
+      <average_rating>61.7</average_rating>
+      <total_value_eur>27575000</total_value_eur>
+      <top_players>
+        <player name="C. Smalling" rating="80"/>
+        <player name="F. Sakala" rating="75"/>
+        <player name="Jason" rating="73"/>
+        <player name="Y. Benzia" rating="72"/>
+        <player name="M. Villanueva" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Al Akhdoud Saudi Club" players="26">
+      <name>Al Akhdoud Saudi Club</name>
+      <average_rating>60.6</average_rating>
+      <total_value_eur>17459999</total_value_eur>
+      <top_players>
+        <player name="K. Narey" rating="74"/>
+        <player name="Petros" rating="72"/>
+        <player name="S. Pedroza" rating="72"/>
+        <player name="C. Bassogog" rating="70"/>
+        <player name="Samuel Portugal" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Damac FC" players="25">
+      <name>Damac FC</name>
+      <average_rating>60.6</average_rating>
+      <total_value_eur>15480000</total_value_eur>
+      <top_players>
+        <player name="Kewin" rating="73"/>
+        <player name="M. Sylla" rating="72"/>
+        <player name="A. Bedrane" rating="72"/>
+        <player name="J. Medina" rating="70"/>
+        <player name="Y. Méïté" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Al Kholood" players="26">
+      <name>Al Kholood</name>
+      <average_rating>60.5</average_rating>
+      <total_value_eur>21495000</total_value_eur>
+      <top_players>
+        <player name="M. Maolida" rating="74"/>
+        <player name="S. Pinas" rating="73"/>
+        <player name="W. Troost-Ekong" rating="71"/>
+        <player name="R. Enrique" rating="70"/>
+        <player name="J. Cozzani" rating="70"/>
+      </top_players>
+    </team>
+    <team name="Al-Najma SC" players="29">
+      <name>Al-Najma SC</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>17995000</total_value_eur>
+      <top_players>
+        <player name="R. Quioto" rating="73"/>
+        <player name="J. El Yamiq" rating="73"/>
+        <player name="Samir Caetano" rating="73"/>
+        <player name="D. Tijanić" rating="71"/>
+        <player name="B. Boutobba" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Al Fateh" players="31">
+      <name>Al Fateh</name>
+      <average_rating>60.1</average_rating>
+      <total_value_eur>44265000</total_value_eur>
+      <top_players>
+        <player name="Z. Youssouf" rating="77"/>
+        <player name="M. Batna" rating="77"/>
+        <player name="M. Vargas" rating="77"/>
+        <player name="Jorge Fernandes" rating="73"/>
+        <player name="Pacheco" rating="73"/>
+      </top_players>
+    </team>
+    <team name="Al Riyadh" players="34">
+      <name>Al Riyadh</name>
+      <average_rating>58.9</average_rating>
+      <total_value_eur>21305000</total_value_eur>
+      <top_players>
+        <player name="M. Borjan" rating="78"/>
+        <player name="Tozé" rating="75"/>
+        <player name="Sergio" rating="72"/>
+        <player name="M. Sylla" rating="71"/>
+        <player name="I. Soro" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Al Hazem FC" players="31">
+      <name>Al Hazem FC</name>
+      <average_rating>58.7</average_rating>
+      <total_value_eur>20260000</total_value_eur>
+      <top_players>
+        <player name="Fábio Martins" rating="76"/>
+        <player name="O. Al Somah" rating="75"/>
+        <player name="A. Sâyoud" rating="75"/>
+        <player name="Bruno Varela" rating="74"/>
+        <player name="L. Rosier" rating="68"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

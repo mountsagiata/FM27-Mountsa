@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<football_database>
+    <version>2026.1</version>
+    <last_update>2026-05-10</last_update>
+    <source>FC 26 / FC 25 Database | CMTracker.net</source>
+    <total_leagues>25</total_leagues>
+    <total_teams>650</total_teams>
+    
+    <!-- ==================== METADATA REFERENCE ==================== -->
+    <references>
+        <nations>
+            <nation id="14" name="England"/>
+            <nation id="21" name="Germany"/>
+            <nation id="27" name="Italy"/>
+            <nation id="18" name="France"/>
+            <nation id="45" name="Spain"/>
+            <nation id="34" name="Netherlands"/>
+            <nation id="38" name="Portugal"/>
+            <nation id="42" name="Scotland"/>
+            <nation id="48" name="Turkey"/>
+            <nation id="36" name="Norway"/>
+            <nation id="46" name="Sweden"/>
+            <nation id="54" name="Brazil"/>
+            <nation id="52" name="Argentina"/>
+            <nation id="95" name="United States"/>
+            <nation id="70" name="Canada"/>
+            <nation id="83" name="Mexico"/>
+            <nation id="160" name="Indonesia"/>
+            <nation id="155" name="China PR"/>
+            <nation id="163" name="Japan"/>
+            <nation id="167" name="Korea Republic"/>
+            <nation id="183" name="Saudi Arabia"/>
+            <nation id="159" name="India"/>
+            <nation id="13" name="Denmark"/>
+            <nation id="7" name="Belgium"/>
+            <nation id="10" name="Croatia"/>
+            <nation id="12" name="Czech Republic"/>
+            <nation id="36" name="Norway"/>
+            <nation id="37" name="Poland"/>
+            <nation id="39" name="Romania"/>
+            <nation id="47" name="Switzerland"/>
+            <nation id="4" name="Austria"/>
+            <nation id="22" name="Greece"/>
+            <nation id="25" name="Republic of Ireland"/>
+            <nation id="111" name="Egypt"/>
+            <nation id="129" name="Morocco"/>
+            <nation id="133" name="Nigeria"/>
+            <nation id="117" name="Ghana"/>
+            <nation id="103" name="Cameroon"/>
+            <nation id="136" name="Senegal"/>
+            <nation id="140" name="South Africa"/>
+        </nations>
+        
+        <leagues>
+            <league id="13" name="Premier League" nationId="14" level="1"/>
+            <league id="14" name="Championship" nationId="14" level="2"/>
+            <league id="60" name="League One" nationId="14" level="3"/>
+            <league id="61" name="League Two" nationId="14" level="4"/>
+            <league id="19" name="1. Bundesliga" nationId="21" level="1"/>
+            <league id="20" name="2. Bundesliga" nationId="21" level="2"/>
+            <league id="2076" name="3. Liga" nationId="21" level="3"/>
+            <league id="31" name="Serie A" nationId="27" level="1"/>
+            <league id="32" name="Serie B" nationId="27" level="2"/>
+            <league id="16" name="Ligue 1" nationId="18" level="1"/>
+            <league id="17" name="Ligue 2" nationId="18" level="2"/>
+            <league id="53" name="La Liga" nationId="45" level="1"/>
+            <league id="54" name="La Liga 2" nationId="45" level="2"/>
+            <league id="10" name="Eredivisie" nationId="34" level="1"/>
+            <league id="308" name="Primeira Liga" nationId="38" level="1"/>
+            <league id="50" name="Scottish Premiership" nationId="42" level="1"/>
+            <league id="68" name="Süper Lig" nationId="48" level="1"/>
+            <league id="41" name="Eliteserien" nationId="36" level="1"/>
+            <league id="56" name="Allsvenskan" nationId="46" level="1"/>
+            <league id="80" name="Austrian Bundesliga" nationId="4" level="1"/>
+            <league id="189" name="Swiss Super League" nationId="47" level="1"/>
+            <league id="1" name="Danish Superliga" nationId="13" level="1"/>
+            <league id="4" name="Belgian Pro League" nationId="7" level="1"/>
+            <league id="83" name="K League 1" nationId="167" level="1"/>
+            <league id="2012" name="Chinese Super League" nationId="155" level="1"/>
+            <league id="350" name="Saudi Pro League" nationId="183" level="1"/>
+            <league id="2149" name="Indian Super League" nationId="159" level="1"/>
+            <league id="39" name="Major League Soccer" nationId="95" level="1"/>
+            <league id="351" name="A-League" nationId="195" level="1"/>
+            <league id="353" name="Primera División" nationId="52" level="1"/>
+            <league id="66" name="Ekstraklasa" nationId="37" level="1"/>
+            <league id="330" name="Liga I" nationId="39" level="1"/>
+            <league id="65" name="Premier Division" nationId="25" level="1"/>
+        </leagues>
+    </references>
+    
+    <!-- ==================== 1. PREMIER LEAGUE (England) - League ID: 13 ==================== -->
+    <league id="13" name="Premier League" nationId="14" level="1" season="2025/2026">
+        <team id="1" name="Arsenal" short_name="ARS" leagueId="13" nationId="14" stadiumId="156">
+            <ratings attack="86" midfield="85" defense="84" overall="85"/>
+            <financial transfer_budget="1120000000" weekly_wage="3800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Mikel Arteta" style="Possession Based"/>
+        </team>
+        <team id="2" name="Aston Villa" short_name="AVL" leagueId="13" nationId="14" stadiumId="115">
+            <ratings attack="80" midfield="79" defense="78" overall="79"/>
+            <financial transfer_budget="571000000" weekly_wage="2700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Unai Emery" style="Counter Attack"/>
+        </team>
+        <team id="5" name="Chelsea" short_name="CHE" leagueId="13" nationId="14" stadiumId="28">
+            <ratings attack="84" midfield="83" defense="82" overall="83"/>
+            <financial transfer_budget="1200000000" weekly_wage="3500000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Enzo Maresca" style="Possession Based"/>
+        </team>
+        <team id="7" name="Everton" short_name="EVE" leagueId="13" nationId="14" stadiumId="265">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="340000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Sean Dyche" style="Physical Play"/>
+        </team>
+        <team id="8" name="Leeds United" short_name="LEE" leagueId="13" nationId="14" stadiumId="432">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="280000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Daniel Farke" style="High Pressing"/>
+        </team>
+        <team id="9" name="Liverpool" short_name="LIV" leagueId="13" nationId="14" stadiumId="13">
+            <ratings attack="88" midfield="87" defense="86" overall="87"/>
+            <financial transfer_budget="1120000000" weekly_wage="3900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Arne Slot" style="Heavy Metal Football"/>
+        </team>
+        <team id="10" name="Manchester City" short_name="MCI" leagueId="13" nationId="14" stadiumId="246">
+            <ratings attack="89" midfield="90" defense="88" overall="89"/>
+            <financial transfer_budget="1330000000" weekly_wage="4200000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Pep Guardiola" style="Positional Play"/>
+        </team>
+        <team id="11" name="Manchester United" short_name="MUN" leagueId="13" nationId="14" stadiumId="1">
+            <ratings attack="82" midfield="81" defense="80" overall="81"/>
+            <financial transfer_budget="818000000" weekly_wage="3100000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Ruben Amorim" style="Counter Attack"/>
+        </team>
+        <team id="13" name="Newcastle United" short_name="NEW" leagueId="13" nationId="14" stadiumId="100">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="643000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Eddie Howe" style="Aggressive Pressing"/>
+        </team>
+        <team id="14" name="Nottingham Forest" short_name="NFO" leagueId="13" nationId="14" stadiumId="449">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="380000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Nuno Espirito Santo" style="Defensive Solid"/>
+        </team>
+        <team id="17" name="Southampton" short_name="SOU" leagueId="13" nationId="14" stadiumId="113">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="250000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Russell Martin" style="Build-up Play"/>
+        </team>
+        <team id="18" name="Tottenham Hotspur" short_name="TOT" leagueId="13" nationId="14" stadiumId="409">
+            <ratings attack="83" midfield="82" defense="81" overall="82"/>
+            <financial transfer_budget="805000000" weekly_wage="3200000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Ange Postecoglou" style="High Pressing"/>
+        </team>
+        <team id="19" name="West Ham United" short_name="WHU" leagueId="13" nationId="14" stadiumId="355">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="450000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Julen Lopetegui" style="Direct Play"/>
+        </team>
+        <team id="144" name="Fulham" short_name="FUL" leagueId="13" nationId="14" stadiumId="328">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="350000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Marco Silva" style="Possession Based"/>
+        </team>
+        <team id="1790" name="Portsmouth" short_name="POR" leagueId="13" nationId="14" stadiumId="112">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="150000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="John Mousinho" style="Balanced"/>
+        </team>
+        <team id="1799" name="Crystal Palace" short_name="CRY" leagueId="13" nationId="14" stadiumId="330">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="350000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Oliver Glasner" style="Compact Defense"/>
+        </team>
+        <team id="1808" name="Brighton &amp; Hove Albion" short_name="BHA" leagueId="13" nationId="14" stadiumId="340">
+            <ratings attack="78" midfield="79" defense="77" overall="78"/>
+            <financial transfer_budget="690000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Fabian Hurzeler" style="Data-Driven Play"/>
+        </team>
+        <team id="1925" name="Brentford" short_name="BRE" leagueId="13" nationId="14" stadiumId="450">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="280000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="3-5-2" coach="Thomas Frank" style="Direct Counter"/>
+        </team>
+        <team id="1943" name="AFC Bournemouth" short_name="BOU" leagueId="13" nationId="14" stadiumId="348">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="350000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Andoni Iraola" style="High Pressing"/>
+        </team>
+        <team id="110" name="Wolverhampton Wanderers" short_name="WOL" leagueId="13" nationId="14" stadiumId="415">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="320000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Gary O'Neil" style="Structured Defense"/>
+        </team>
+        <team id="95" name="Leicester City" short_name="LEI" leagueId="13" nationId="14" stadiumId="335">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="280000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Steve Cooper" style="Counter Attack"/>
+        </team>
+        <team id="94" name="Ipswich Town" short_name="IPS" leagueId="13" nationId="14" stadiumId="350">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="150000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Kieran McKenna" style="Progressive Build-up"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 2. LA LIGA (Spain) - League ID: 53 ==================== -->
+    <league id="53" name="La Liga" nationId="45" level="1" season="2025/2026">
+        <team id="240" name="Atlético de Madrid" short_name="ATM" leagueId="53" nationId="45" stadiumId="364">
+            <ratings attack="86" midfield="85" defense="86" overall="86"/>
+            <financial transfer_budget="624000000" weekly_wage="3500000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Diego Simeone" style="Defensive Compact"/>
+        </team>
+        <team id="241" name="FC Barcelona" short_name="BAR" leagueId="53" nationId="45" stadiumId="387">
+            <ratings attack="89" midfield="88" defense="87" overall="88"/>
+            <financial transfer_budget="1090000000" weekly_wage="4000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Hansi Flick" style="High Pressing"/>
+        </team>
+        <team id="243" name="Real Madrid" short_name="RMA" leagueId="53" nationId="45" stadiumId="2">
+            <ratings attack="92" midfield="91" defense="90" overall="91"/>
+            <financial transfer_budget="1340000000" weekly_wage="4500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Carlo Ancelotti" style="Balanced Attack"/>
+        </team>
+        <team id="448" name="Athletic Club de Bilbao" short_name="ATH" leagueId="53" nationId="45" stadiumId="388">
+            <ratings attack="82" midfield="81" defense="82" overall="82"/>
+            <financial transfer_budget="350000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Ernesto Valverde" style="Direct Play"/>
+        </team>
+        <team id="449" name="Real Betis Balompié" short_name="BET" leagueId="53" nationId="45" stadiumId="392">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="215000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Manuel Pellegrini" style="Creative Attacking"/>
+        </team>
+        <team id="450" name="RC Celta de Vigo" short_name="CEL" leagueId="53" nationId="45" stadiumId="394">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="130000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Claudio Giraldez" style="Attacking Flair"/>
+        </team>
+        <team id="452" name="RCD Espanyol" short_name="ESP" leagueId="53" nationId="45" stadiumId="393">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="90000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Luis Garcia" style="Balanced"/>
+        </team>
+        <team id="457" name="Real Sociedad" short_name="RSO" leagueId="53" nationId="45" stadiumId="397">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="340000000" weekly_wage="2700000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Imanol Alguacil" style="Possession Based"/>
+        </team>
+        <team id="461" name="Valencia CF" short_name="VAL" leagueId="53" nationId="45" stadiumId="10">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="167000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Ruben Baraja" style="Transitional Play"/>
+        </team>
+        <team id="462" name="Real Valladolid" short_name="VLL" leagueId="53" nationId="45" stadiumId="427">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="75000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Paulo Pezzolano" style="Balanced"/>
+        </team>
+        <team id="463" name="Deportivo Alavés" short_name="ALA" leagueId="53" nationId="45" stadiumId="399">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="90000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Luis Garcia" style="Compact"/>
+        </team>
+        <team id="467" name="SD Eibar" short_name="EIB" leagueId="53" nationId="45" stadiumId="395">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="80000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Joseba Etxeberria" style="Direct"/>
+        </team>
+        <team id="472" name="UD Las Palmas" short_name="LPA" leagueId="53" nationId="45" stadiumId="391">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="85000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Garcia Pimienta" style="Possession"/>
+        </team>
+        <team id="479" name="CA Osasuna" short_name="OSA" leagueId="53" nationId="45" stadiumId="437">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="120000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Jagoba Arrasate" style="Physical Play"/>
+        </team>
+        <team id="480" name="Rayo Vallecano" short_name="RAY" leagueId="53" nationId="45" stadiumId="429">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="95000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Inigo Perez" style="High Pressing"/>
+        </team>
+        <team id="481" name="Sevilla FC" short_name="SEV" leagueId="53" nationId="45" stadiumId="389">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="190000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Quique Sanchez Flores" style="Patient Build-up"/>
+        </team>
+        <team id="483" name="Villarreal CF" short_name="VIL" leagueId="53" nationId="45" stadiumId="386">
+            <ratings attack="80" midfield="79" defense="78" overall="79"/>
+            <financial transfer_budget="310000000" weekly_wage="2600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Marcelino" style="Counter Attack"/>
+        </team>
+        <team id="110062" name="Girona FC" short_name="GIR" leagueId="53" nationId="45" stadiumId="400">
+            <ratings attack="78" midfield="79" defense="77" overall="78"/>
+            <financial transfer_budget="155000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Michel" style="Attacking Fluidity"/>
+        </team>
+        <team id="110832" name="Granada CF" short_name="GRA" leagueId="53" nationId="45" stadiumId="439">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="100000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Paco Lopez" style="Balanced"/>
+        </team>
+        <team id="1968" name="Cádiz CF" short_name="CAD" leagueId="53" nationId="45" stadiumId="455">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="80000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Sergio Gonzalez" style="Defensive"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 3. SERIE A (Italy) - League ID: 31 ==================== -->
+    <league id="31" name="Serie A" nationId="27" level="1" season="2025/2026">
+        <team id="45" name="Juventus" short_name="JUV" leagueId="31" nationId="27" stadiumId="247">
+            <ratings attack="86" midfield="85" defense="84" overall="85"/>
+            <financial transfer_budget="603000000" weekly_wage="3600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Thiago Motta" style="Possession Based"/>
+        </team>
+        <team id="48" name="Napoli" short_name="NAP" leagueId="31" nationId="27" stadiumId="520">
+            <ratings attack="85" midfield="84" defense="83" overall="84"/>
+            <financial transfer_budget="503000000" weekly_wage="3400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Antonio Conte" style="High Intensity"/>
+        </team>
+        <team id="52" name="Roma" short_name="ROM" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="420000000" weekly_wage="2900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Daniele De Rossi" style="Passionate Play"/>
+        </team>
+        <team id="55" name="Udinese" short_name="UDI" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="130000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="3-5-2" coach="Kosta Runjaic" style="Counter"/>
+        </team>
+        <team id="189" name="Bologna" short_name="BOL" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="250000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Vincenzo Italiano" style="Possession Based"/>
+        </team>
+        <team id="200" name="Pescara" short_name="PES" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="50000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Zdenek Zeman" style="Attacking"/>
+        </team>
+        <team id="205" name="Venezia" short_name="VEN" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="70000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Eusebio Di Francesco" style="Fluid"/>
+        </team>
+        <team id="206" name="Hellas Verona" short_name="VER" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="90000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Paolo Zanetti" style="Balanced"/>
+        </team>
+        <team id="347" name="Lecce" short_name="LEC" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="75000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Luca Gotti" style="Defensive"/>
+        </team>
+        <team id="110374" name="Fiorentina" short_name="FIO" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="285000000" weekly_wage="2600000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Raffaele Palladino" style="Creative Build-up"/>
+        </team>
+        <team id="110556" name="Genoa" short_name="GEN" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="150000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Alberto Gilardino" style="Physical"/>
+        </team>
+        <team id="111811" name="Monza" short_name="MON" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="120000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="3-4-2-1" coach="Alessandro Nesta" style="Balanced"/>
+        </team>
+        <team id="1744" name="Modena" short_name="MOD" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="80000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Paolo Bianco" style="Balanced"/>
+        </team>
+        <team id="1745" name="Como" short_name="COM" leagueId="31" nationId="27" stadiumId="482">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="285000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Cesc Fabregas" style="Tiki-Taka"/>
+        </team>
+        <team id="1746" name="Empoli" short_name="EMP" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="80000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-1-2" coach="Roberto D'Aversa" style="Compact"/>
+        </team>
+        <team id="1842" name="Cagliari" short_name="CAG" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="85000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Davide Nicola" style="Balanced"/>
+        </team>
+        <team id="1848" name="Bari" short_name="BAR" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="90000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Federico Giampaolo" style="Attacking"/>
+        </team>
+        <team id="2038" name="Avellino" short_name="AVE" leagueId="31" nationId="27" stadiumId="489">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="40000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Raffaele Biancolino" style="Defensive"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 4. BUNDESLIGA (Germany) - League ID: 19 ==================== -->
+    <league id="19" name="1. Bundesliga" nationId="21" level="1" season="2025/2026">
+        <team id="21" name="Bayern München" short_name="BAY" leagueId="19" nationId="21" stadiumId="137">
+            <ratings attack="90" midfield="89" defense="88" overall="89"/>
+            <financial transfer_budget="892000000" weekly_wage="4200000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Vincent Kompany" style="Dominant Possession"/>
+        </team>
+        <team id="22" name="Borussia Dortmund" short_name="BVB" leagueId="19" nationId="21" stadiumId="9">
+            <ratings attack="84" midfield="83" defense="82" overall="83"/>
+            <financial transfer_budget="485000000" weekly_wage="3300000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Nuri Sahin" style="Fast Transition"/>
+        </team>
+        <team id="23" name="Borussia M'gladbach" short_name="BMG" leagueId="19" nationId="21" stadiumId="343">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="220000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Gerardo Seoane" style="Balanced"/>
+        </team>
+        <team id="25" name="SC Freiburg" short_name="FRE" leagueId="19" nationId="21" stadiumId="447">
+            <ratings attack="78" midfield="77" defense="78" overall="78"/>
+            <financial transfer_budget="180000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Julian Schuster" style="Organized"/>
+        </team>
+        <team id="28" name="Hamburger SV" short_name="HSV" leagueId="19" nationId="21" stadiumId="41">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="90000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Steffen Baumgart" style="Attacking"/>
+        </team>
+        <team id="31" name="1. FC Köln" short_name="KOL" leagueId="19" nationId="21" stadiumId="423">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="120000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Gerhard Struber" style="Balanced"/>
+        </team>
+        <team id="32" name="Bayer 04 Leverkusen" short_name="LEV" leagueId="19" nationId="21" stadiumId="12">
+            <ratings attack="85" midfield="84" defense="83" overall="84"/>
+            <financial transfer_budget="480000000" weekly_wage="3400000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Xabi Alonso" style="Fluid Attack"/>
+        </team>
+        <team id="34" name="FC Schalke 04" short_name="S04" leagueId="19" nationId="21" stadiumId="30">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="85000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Karel Geraerts" style="Defensive"/>
+        </team>
+        <team id="36" name="VfB Stuttgart" short_name="STU" leagueId="19" nationId="21" stadiumId="418">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="350000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Sebastian Hoeness" style="Dynamic Attack"/>
+        </team>
+        <team id="38" name="Werder Bremen" short_name="BRE" leagueId="19" nationId="21" stadiumId="413">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="140000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="3-5-2" coach="Ole Werner" style="Attacking"/>
+        </team>
+        <team id="159" name="Arminia Bielefeld" short_name="BIL" leagueId="19" nationId="21" stadiumId="454">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Frank Kramer" style="Balanced"/>
+        </team>
+        <team id="160" name="VfL Bochum" short_name="BOC" leagueId="19" nationId="21" stadiumId="473">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="70000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Dieter Hecking" style="Physical"/>
+        </team>
+        <team id="166" name="Hertha BSC" short_name="BSC" leagueId="19" nationId="21" stadiumId="135">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="100000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Cristian Fiél" style="Balanced"/>
+        </team>
+        <team id="169" name="1. FSV Mainz 05" short_name="MAZ" leagueId="19" nationId="21" stadiumId="414">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="130000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="3-4-2-1" coach="Bo Henriksen" style="Counter"/>
+        </team>
+        <team id="175" name="VfL Wolfsburg" short_name="WOB" leagueId="19" nationId="21" stadiumId="406">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="190000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Ralph Hasenhuttl" style="High Pressing"/>
+        </team>
+        <team id="100409" name="FC Augsburg" short_name="FCA" leagueId="19" nationId="21" stadiumId="412">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="110000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Jess Thorup" style="Compact"/>
+        </team>
+        <team id="110329" name="FC St. Pauli" short_name="STP" leagueId="19" nationId="21" stadiumId="475">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="80000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="3-5-2" coach="Fabian Hurzeler" style="Cult"/>
+        </team>
+        <team id="112172" name="RB Leipzig" short_name="RBL" leagueId="19" nationId="21" stadiumId="420">
+            <ratings attack="83" midfield="82" defense="81" overall="82"/>
+            <financial transfer_budget="502000000" weekly_wage="3200000" currency="EUR"/>
+            <tactics formation="4-2-2-2" coach="Marco Rose" style="High Pressing"/>
+        </team>
+        <team id="110502" name="SV Darmstadt 98" short_name="DAR" leagueId="19" nationId="21" stadiumId="489">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Torsten Lieberknecht" style="Defensive"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 5. LIGUE 1 (France) - League ID: 16 ==================== -->
+    <league id="16" name="Ligue 1" nationId="18" level="1" season="2025/2026">
+        <team id="57" name="AJ Auxerre" short_name="AUX" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="55000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Christophe Pelissier" style="Balanced"/>
+        </team>
+        <team id="64" name="RC Lens" short_name="RCL" leagueId="16" nationId="18" stadiumId="488">
+            <ratings attack="77" midfield="78" defense="76" overall="77"/>
+            <financial transfer_budget="220000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Will Still" style="High Energy"/>
+        </team>
+        <team id="65" name="LOSC Lille" short_name="LIL" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="79" midfield="80" defense="78" overall="79"/>
+            <financial transfer_budget="280000000" weekly_wage="2700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Bruno Genesio" style="Balanced Attack"/>
+        </team>
+        <team id="66" name="Olympique Lyonnais" short_name="OL" leagueId="16" nationId="18" stadiumId="426">
+            <ratings attack="80" midfield="79" defense="78" overall="79"/>
+            <financial transfer_budget="300000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Pierre Sage" style="Build-up Play"/>
+        </team>
+        <team id="68" name="FC Metz" short_name="MET" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Laszlo Boloni" style="Defensive"/>
+        </team>
+        <team id="69" name="AS Monaco" short_name="ASM" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="320000000" weekly_wage="2900000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Adi Hutter" style="Fast Counter"/>
+        </team>
+        <team id="70" name="Montpellier HSC" short_name="MHS" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="100000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Michel Der Zakarian" style="Physical"/>
+        </team>
+        <team id="71" name="FC Nantes" short_name="NAN" leagueId="16" nationId="18" stadiumId="512">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="120000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Antoine Kombouare" style="Balanced"/>
+        </team>
+        <team id="72" name="OGC Nice" short_name="NCE" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="240000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Franck Haise" style="Compact Defense"/>
+        </team>
+        <team id="73" name="Paris Saint-Germain" short_name="PSG" leagueId="16" nationId="18" stadiumId="14">
+            <ratings attack="88" midfield="87" defense="86" overall="87"/>
+            <financial transfer_budget="1120000000" weekly_wage="4000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Luis Enrique" style="Positional Attack"/>
+        </team>
+        <team id="74" name="Stade Rennais" short_name="REN" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="200000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Julien Stephan" style="Attacking"/>
+        </team>
+        <team id="76" name="RC Strasbourg" short_name="RCS" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="170000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Liam Rosenior" style="Balanced"/>
+        </team>
+        <team id="219" name="Olympique de Marseille" short_name="OM" leagueId="16" nationId="18" stadiumId="29">
+            <ratings attack="82" midfield="81" defense="80" overall="81"/>
+            <financial transfer_budget="350000000" weekly_wage="3000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Roberto De Zerbi" style="Aggressive Pressing"/>
+        </team>
+        <team id="378" name="Stade Brestois 29" short_name="BRE" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="90000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Eric Roy" style="Organized"/>
+        </team>
+        <team id="379" name="Stade de Reims" short_name="REI" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="130000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Luka Elsner" style="Balanced"/>
+        </team>
+        <team id="1530" name="Angers SCO" short_name="ANG" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Alexandre Dujeux" style="Defensive"/>
+        </team>
+        <team id="1738" name="Le Havre AC" short_name="HAC" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Luka Elsner" style="Compact"/>
+        </team>
+        <team id="1814" name="Stade Lavallois MFC" short_name="LAV" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Olivier Frapolli" style="Balanced"/>
+        </team>
+        <team id="1819" name="AS Saint-Étienne" short_name="STE" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="80000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Olivier Dall'Oglio" style="Passionate"/>
+        </team>
+        <team id="1805" name="Grenoble Foot 38" short_name="GRE" leagueId="16" nationId="18" stadiumId="477">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="45000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Vincent Hognon" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 6. EREDIVISIE (Netherlands) - League ID: 10 ==================== -->
+    <league id="10" name="Eredivisie" nationId="34" level="1" season="2025/2026">
+        <team id="245" name="Ajax" short_name="AJA" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="82" midfield="81" defense="80" overall="81"/>
+            <financial transfer_budget="350000000" weekly_wage="3000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Francesco Farioli" style="Total Football"/>
+        </team>
+        <team id="246" name="Feyenoord" short_name="FEY" leagueId="10" nationId="34" stadiumId="487">
+            <ratings attack="80" midfield="79" defense="78" overall="79"/>
+            <financial transfer_budget="280000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Brian Priske" style="Aggressive Attacking"/>
+        </team>
+        <team id="247" name="PSV" short_name="PSV" leagueId="10" nationId="34" stadiumId="463">
+            <ratings attack="81" midfield="80" defense="79" overall="80"/>
+            <financial transfer_budget="320000000" weekly_wage="2900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Peter Bosz" style="High Pressing"/>
+        </team>
+        <team id="1903" name="FC Utrecht" short_name="UTR" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="120000000" weekly_wage="1900000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Ron Jans" style="Balanced"/>
+        </team>
+        <team id="1906" name="AZ" short_name="AZ" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="160000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Maarten Martens" style="Technical"/>
+        </team>
+        <team id="1908" name="FC Twente" short_name="TWE" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="150000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Joseph Oosting" style="Direct"/>
+        </team>
+        <team id="1913" name="sc Heerenveen" short_name="HEE" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="60000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Robin van Persie" style="Attacking"/>
+        </team>
+        <team id="1914" name="PEC Zwolle" short_name="ZWO" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Johnny Jansen" style="Balanced"/>
+        </team>
+        <team id="1915" name="FC Groningen" short_name="GRO" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="50000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Dick Lukkien" style="Balanced"/>
+        </team>
+        <team id="100632" name="Go Ahead Eagles" short_name="GAE" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="50000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Rene Hake" style="Direct"/>
+        </team>
+        <team id="100634" name="Heracles Almelo" short_name="HER" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="40000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Erwin van de Looi" style="Physical"/>
+        </team>
+        <team id="100646" name="Sparta Rotterdam" short_name="SPA" leagueId="10" nationId="34" stadiumId="15">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="80000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Jeroen Rijsdijk" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 7. PRIMEIRA LIGA (Portugal) - League ID: 308 ==================== -->
+    <league id="308" name="Primeira Liga" nationId="38" level="1" season="2025/2026">
+        <team id="234" name="Benfica" short_name="SLB" leagueId="308" nationId="38" stadiumId="457">
+            <ratings attack="83" midfield="82" defense="81" overall="82"/>
+            <financial transfer_budget="380000000" weekly_wage="3100000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Roger Schmidt" style="Possession Based"/>
+        </team>
+        <team id="236" name="FC Porto" short_name="POR" leagueId="308" nationId="38" stadiumId="456">
+            <ratings attack="82" midfield="81" defense="80" overall="81"/>
+            <financial transfer_budget="350000000" weekly_wage="3000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Vitor Bruno" style="Counter Attack"/>
+        </team>
+        <team id="237" name="Sporting CP" short_name="SPO" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="83" midfield="82" defense="81" overall="82"/>
+            <financial transfer_budget="523000000" weekly_wage="3200000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Ruben Amorim" style="Dynamic Attack"/>
+        </team>
+        <team id="1896" name="Sporting de Braga" short_name="BRA" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="180000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Artur Jorge" style="Aggressive Pressing"/>
+        </team>
+        <team id="1887" name="Vitória de Guimarães" short_name="VSC" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="100000000" weekly_wage="2200000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Alvaro Pacheco" style="Balanced"/>
+        </team>
+        <team id="1900" name="Moreirense" short_name="MOR" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Rui Borges" style="Defensive"/>
+        </team>
+        <team id="1917" name="Nacional da Madeira" short_name="NAC" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Tiago Margarido" style="Balanced"/>
+        </team>
+        <team id="744" name="Rio Ave" short_name="RAV" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="45000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Luis Freire" style="Technical"/>
+        </team>
+        <team id="1888" name="Gil Vicente FC" short_name="GIL" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Bruno Pinheiro" style="Balanced"/>
+        </team>
+        <team id="1438" name="Santa Clara" short_name="SCL" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="30000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Vasco Matos" style="Compact"/>
+        </team>
+        <team id="112513" name="Arouca" short_name="ARO" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Daniel Sousa" style="Balanced"/>
+        </team>
+        <team id="112516" name="Tondela" short_name="TON" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="30000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Toze Marreco" style="Defensive"/>
+        </team>
+        <team id="112809" name="Famalicão" short_name="FAM" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="70000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Joao Pedro Sousa" style="Attacking"/>
+        </team>
+        <team id="114510" name="Casa Pia" short_name="CAS" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="50000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="3-4-3" coach="Joao Pereira" style="Balanced"/>
+        </team>
+        <team id="10020" name="Estoril" short_name="EST" leagueId="308" nationId="38" stadiumId="486">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Vasco Seabra" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 8. SCOTTISH PREMIERSHIP - League ID: 50 ==================== -->
+    <league id="50" name="Scottish Premiership" nationId="42" level="1" season="2025/2026">
+        <team id="77" name="Aberdeen" short_name="ABE" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="30000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Jimmy Thelin" style="Balanced"/>
+        </team>
+        <team id="78" name="Celtic" short_name="CEL" leagueId="50" nationId="42" stadiumId="480">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="120000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Brendan Rodgers" style="Dominant"/>
+        </team>
+        <team id="80" name="Heart of Midlothian" short_name="HOM" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Steven Naismith" style="Balanced"/>
+        </team>
+        <team id="81" name="Hibernian" short_name="HIB" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="30000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="David Gray" style="Attacking"/>
+        </team>
+        <team id="86" name="Rangers" short_name="RAN" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="100000000" weekly_wage="2300000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Philippe Clement" style="Aggressive"/>
+        </team>
+        <team id="621" name="Livingston" short_name="LIV" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="70" midfield="69" defense="68" overall="69"/>
+            <financial transfer_budget="20000000" weekly_wage="1200000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="David Martindale" style="Defensive"/>
+        </team>
+        <team id="100805" name="St. Mirren" short_name="STM" leagueId="50" nationId="42" stadiumId="479">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="25000000" weekly_wage="1300000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Stephen Robinson" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 9. SÜPER LIG (Turkey) - League ID: 68 ==================== -->
+    <league id="68" name="Süper Lig" nationId="48" level="1" season="2025/2026">
+        <team id="325" name="Galatasaray" short_name="GAL" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="200000000" weekly_wage="2500000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Okan Buruk" style="High Intensity"/>
+        </team>
+        <team id="326" name="Fenerbahçe" short_name="FEN" leagueId="68" nationId="48" stadiumId="495">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="190000000" weekly_wage="2400000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Jose Mourinho" style="Defensive Organization"/>
+        </team>
+        <team id="327" name="Beşiktaş" short_name="BES" leagueId="68" nationId="48" stadiumId="515">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="130000000" weekly_wage="2100000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Giovanni van Bronckhorst" style="Balanced"/>
+        </team>
+        <team id="436" name="Trabzonspor" short_name="TRA" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="120000000" weekly_wage="2000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Abdullah Avci" style="Technical"/>
+        </team>
+        <team id="741" name="Antalyaspor" short_name="ANT" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="50000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Sergen Yalcin" style="Balanced"/>
+        </team>
+        <team id="748" name="Samsunspor" short_name="SAM" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Markus Gisdol" style="Compact"/>
+        </team>
+        <team id="101033" name="Konyaspor" short_name="KON" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="45000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Hakan Keles" style="Balanced"/>
+        </team>
+        <team id="101037" name="Çaykur Rizespor" short_name="RIZ" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="35000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Ilhan Palut" style="Attacking"/>
+        </team>
+        <team id="110776" name="Gaziantep FK" short_name="GAZ" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="40000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Marius Sumudica" style="Balanced"/>
+        </team>
+        <team id="111339" name="Kasımpaşa" short_name="KAS" leagueId="68" nationId="48" stadiumId="494">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Kemal Ozdes" style="Attacking"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 10. BUNDESLIGA 2 (Germany) - League ID: 20 ==================== -->
+    <league id="20" name="2. Bundesliga" nationId="21" level="2" season="2025/2026">
+        <team id="162" name="Energie Cottbus" short_name="COT" leagueId="20" nationId="21" stadiumId="414">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="30000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Claus-Dieter Wollitz" style="Balanced"/>
+        </team>
+        <team id="165" name="SpVgg Greuther Fürth" short_name="FUR" leagueId="20" nationId="21" stadiumId="474">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Alexander Zorniger" style="High Pressing"/>
+        </team>
+        <team id="485" name="Hannover 96" short_name="HAN" leagueId="20" nationId="21" stadiumId="417">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Stefan Leitl" style="Balanced"/>
+        </team>
+        <team id="503" name="Dynamo Dresden" short_name="DRE" leagueId="20" nationId="21" stadiumId="414">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Markus Anfang" style="Attacking"/>
+        </team>
+        <team id="576" name="Holstein Kiel" short_name="KIE" leagueId="20" nationId="21" stadiumId="514">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Marcel Rapp" style="Technical"/>
+        </team>
+        <team id="110176" name="SSV Ulm 1846" short_name="ULM" leagueId="20" nationId="21" stadiumId="414">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="25000000" weekly_wage="1400000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Thomas Worle" style="Balanced"/>
+        </team>
+        <team id="110500" name="Eintracht Braunschweig" short_name="BRA" leagueId="20" nationId="21" stadiumId="414">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="30000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Daniel Scherning" style="Compact"/>
+        </team>
+        <team id="110636" name="Fortuna Düsseldorf" short_name="DUS" leagueId="20" nationId="21" stadiumId="419">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="45000000" weekly_wage="1800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Daniel Thioune" style="Attacking"/>
+        </team>
+        <team id="110588" name="1. FC Magdeburg" short_name="MAG" leagueId="20" nationId="21" stadiumId="414">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Christian Titz" style="Attacking"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 11. MAJOR LEAGUE SOCCER (USA) - League ID: 39 ==================== -->
+    <league id="39" name="Major League Soccer" nationId="95" level="1" season="2025/2026">
+        <team id="687" name="Columbus Crew" short_name="CLB" leagueId="39" nationId="95" stadiumId="341">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="40000000" weekly_wage="1800000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Wilfried Nancy" style="Possession"/>
+        </team>
+        <team id="689" name="New York Red Bulls" short_name="NYRB" leagueId="39" nationId="95" stadiumId="430">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="35000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Sandro Schwarz" style="High Pressing"/>
+        </team>
+        <team id="693" name="Chicago Fire FC" short_name="CHI" leagueId="39" nationId="95" stadiumId="406">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Frank Klopas" style="Balanced"/>
+        </team>
+        <team id="697" name="Los Angeles Galaxy" short_name="LAG" leagueId="39" nationId="95" stadiumId="161">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="50000000" weekly_wage="2000000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Greg Vanney" style="Attacking"/>
+        </team>
+        <team id="101112" name="Vancouver Whitecaps" short_name="VAN" leagueId="39" nationId="70" stadiumId="248">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Vanni Sartini" style="Balanced"/>
+        </team>
+        <team id="111138" name="Minnesota United FC" short_name="MIN" leagueId="39" nationId="95" stadiumId="341">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Eric Ramsay" style="Technical"/>
+        </team>
+        <team id="111140" name="Portland Timbers" short_name="POR" leagueId="39" nationId="95" stadiumId="435">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="45000000" weekly_wage="1800000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Phil Neville" style="Attacking"/>
+        </team>
+        <team id="111144" name="Seattle Sounders" short_name="SEA" leagueId="39" nationId="95" stadiumId="341">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="50000000" weekly_wage="2000000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Brian Schmetzer" style="Possession"/>
+        </team>
+        <team id="112828" name="New York City FC" short_name="NYC" leagueId="39" nationId="95" stadiumId="458">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="45000000" weekly_wage="1800000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Nick Cushing" style="Technical"/>
+        </team>
+        <team id="112893" name="Inter Miami" short_name="MIA" leagueId="39" nationId="95" stadiumId="493">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="60000000" weekly_wage="2500000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Tata Martino" style="Star Power"/>
+        </team>
+        <team id="112996" name="Los Angeles FC" short_name="LAFC" leagueId="39" nationId="95" stadiumId="458">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="55000000" weekly_wage="2200000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Steve Cherundolo" style="Balanced"/>
+        </team>
+        <team id="113018" name="St. Louis City SC" short_name="STL" leagueId="39" nationId="95" stadiumId="341">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Bradley Carnell" style="High Pressing"/>
+        </team>
+        <team id="113149" name="FC Cincinnati" short_name="CIN" leagueId="39" nationId="95" stadiumId="402">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="45000000" weekly_wage="1800000" currency="USD"/>
+            <tactics formation="3-4-3" coach="Pat Noonan" style="Attacking"/>
+        </team>
+        <team id="114161" name="Austin FC" short_name="ATX" leagueId="39" nationId="95" stadiumId="161">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Josh Wolff" style="Balanced"/>
+        </team>
+        <team id="114640" name="Charlotte FC" short_name="CLT" leagueId="39" nationId="95" stadiumId="402">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1700000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Dean Smith" style="Balanced"/>
+        </team>
+        <team id="111928" name="San Jose Earthquakes" short_name="SJE" leagueId="39" nationId="95" stadiumId="435">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="35000000" weekly_wage="1600000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Luchi Gonzalez" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 12. ARGENTINA PRIMERA DIVISIÓN - League ID: 353 ==================== -->
+    <league id="353" name="Primera División" nationId="52" level="1" season="2025/2026">
+        <team id="1876" name="River Plate" short_name="RIV" leagueId="353" nationId="52" stadiumId="344">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="120000000" weekly_wage="2000000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Martin Demichelis" style="Creative Attack"/>
+        </team>
+        <team id="1877" name="Boca Juniors" short_name="BOC" leagueId="353" nationId="52" stadiumId="264">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="100000000" weekly_wage="1900000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Diego Martinez" style="Passionate Defense"/>
+        </team>
+        <team id="101083" name="Estudiantes de La Plata" short_name="EST" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="50000000" weekly_wage="1500000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Eduardo Dominguez" style="Balanced"/>
+        </team>
+        <team id="101084" name="Gimnasia y Esgrima La Plata" short_name="GIM" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="40000000" weekly_wage="1400000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Leonardo Madelon" style="Balanced"/>
+        </team>
+        <team id="101085" name="Racing Club de Avellaneda" short_name="RAC" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="60000000" weekly_wage="1600000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Gustavo Costas" style="Attacking"/>
+        </team>
+        <team id="101088" name="Vélez Sarsfield" short_name="VEL" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="50000000" weekly_wage="1500000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Gustavo Quinteros" style="Technical"/>
+        </team>
+        <team id="110093" name="Independiente" short_name="IND" leagueId="353" nationId="52" stadiumId="442">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="55000000" weekly_wage="1500000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Carlos Tevez" style="Passionate"/>
+        </team>
+        <team id="110395" name="Lanús" short_name="LAN" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="45000000" weekly_wage="1400000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Ricardo Zielinski" style="Balanced"/>
+        </team>
+        <team id="110396" name="Newell's Old Boys" short_name="NOB" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="45000000" weekly_wage="1400000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Mauricio Larriera" style="Balanced"/>
+        </team>
+        <team id="110404" name="Banfield" short_name="BAN" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1300000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Julio Cesar Falcioni" style="Defensive"/>
+        </team>
+        <team id="110580" name="Rosario Central" short_name="ROS" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="50000000" weekly_wage="1500000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Miguel Angel Russo" style="Passionate"/>
+        </team>
+        <team id="111019" name="Argentinos Juniors" short_name="ARG" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="45000000" weekly_wage="1400000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Pablo Guede" style="Technical"/>
+        </team>
+        <team id="111706" name="Godoy Cruz" short_name="GOD" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1300000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Daniel Oldra" style="Balanced"/>
+        </team>
+        <team id="111710" name="Defensa y Justicia" short_name="DYJ" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="45000000" weekly_wage="1400000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Julio Vaccari" style="Attacking"/>
+        </team>
+        <team id="111711" name="Huracán" short_name="HUR" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1300000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Frank Kudelka" style="Balanced"/>
+        </team>
+        <team id="112670" name="Talleres de Córdoba" short_name="TAL" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="74" midfield="73" defense="72" overall="73"/>
+            <financial transfer_budget="50000000" weekly_wage="1500000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Walter Ribonetto" style="Attacking"/>
+        </team>
+        <team id="112689" name="Platense" short_name="PLA" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="35000000" weekly_wage="1200000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Martin Palermo" style="Balanced"/>
+        </team>
+        <team id="112713" name="Sarmiento" short_name="SAR" leagueId="353" nationId="52" stadiumId="441">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="35000000" weekly_wage="1200000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Sergio Rondina" style="Defensive"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 13. SAUDI PRO LEAGUE - League ID: 350 ==================== -->
+    <league id="350" name="Saudi Pro League" nationId="183" level="1" season="2025/2026">
+        <team id="605" name="Al Hilal" short_name="HIL" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="200000000" weekly_wage="3500000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Jorge Jesus" style="Dominant"/>
+        </team>
+        <team id="607" name="Al Ittihad" short_name="ITT" leagueId="350" nationId="183" stadiumId="345">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="180000000" weekly_wage="3000000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Marcel Gallardo" style="Attacking"/>
+        </team>
+        <team id="112139" name="Al Nassr" short_name="NSR" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="220000000" weekly_wage="4000000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Luis Castro" style="Star Power"/>
+        </team>
+        <team id="112387" name="Al Ahli" short_name="AHL" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="150000000" weekly_wage="2800000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Matthias Jaissle" style="Balanced"/>
+        </team>
+        <team id="112390" name="Al Fateh" short_name="FAT" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="40000000" weekly_wage="1500000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Slaven Bilic" style="Balanced"/>
+        </team>
+        <team id="112391" name="Al Qadsiah" short_name="QAD" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="72" midfield="71" defense="70" overall="71"/>
+            <financial transfer_budget="45000000" weekly_wage="1600000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Robbie Fowler" style="Attacking"/>
+        </team>
+        <team id="112393" name="Al Taawoun" short_name="TAA" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="35000000" weekly_wage="1400000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Pedro Emanuel" style="Balanced"/>
+        </team>
+        <team id="113217" name="Damac FC" short_name="DAM" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="70" midfield="69" defense="68" overall="69"/>
+            <financial transfer_budget="30000000" weekly_wage="1300000" currency="EUR"/>
+            <tactics formation="4-3-3" coach="Cosmin Contra" style="Defensive"/>
+        </team>
+        <team id="111674" name="Al Shabab" short_name="SHB" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="73" midfield="72" defense="71" overall="72"/>
+            <financial transfer_budget="50000000" weekly_wage="1700000" currency="EUR"/>
+            <tactics formation="4-2-3-1" coach="Igor Biscan" style="Balanced"/>
+        </team>
+        <team id="113057" name="Al Fayha" short_name="FAY" leagueId="350" nationId="183" stadiumId="262">
+            <ratings attack="70" midfield="69" defense="68" overall="69"/>
+            <financial transfer_budget="30000000" weekly_wage="1300000" currency="EUR"/>
+            <tactics formation="4-4-2" coach="Vuk Rasovic" style="Defensive"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 14. INDIAN SUPER LEAGUE - League ID: 2149 ==================== -->
+    <league id="2149" name="Indian Super League" nationId="159" level="1" season="2025/2026">
+        <team id="111629" name="East Bengal FC" short_name="EBG" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="68" midfield="67" defense="66" overall="67"/>
+            <financial transfer_budget="15000000" weekly_wage="500000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Carles Cuadrat" style="Balanced"/>
+        </team>
+        <team id="111633" name="Mohammedan SC" short_name="MSC" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="67" midfield="66" defense="65" overall="66"/>
+            <financial transfer_budget="12000000" weekly_wage="400000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Andrey Chernyshov" style="Defensive"/>
+        </team>
+        <team id="113146" name="Mohun Bagan Super Giant" short_name="MBSG" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="70" midfield="69" defense="68" overall="69"/>
+            <financial transfer_budget="20000000" weekly_wage="600000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Juan Ferrando" style="Attacking"/>
+        </team>
+        <team id="113257" name="Odisha FC" short_name="ODI" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="69" midfield="68" defense="67" overall="68"/>
+            <financial transfer_budget="18000000" weekly_wage="550000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Sergio Lobera" style="Possession"/>
+        </team>
+        <team id="113297" name="Chennaiyin FC" short_name="CHE" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="68" midfield="67" defense="66" overall="67"/>
+            <financial transfer_budget="15000000" weekly_wage="500000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Owen Coyle" style="Balanced"/>
+        </team>
+        <team id="113298" name="FC Goa" short_name="GOA" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="69" midfield="68" defense="67" overall="68"/>
+            <financial transfer_budget="18000000" weekly_wage="550000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Manolo Marquez" style="Attacking"/>
+        </team>
+        <team id="113299" name="Kerala Blasters FC" short_name="KER" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="68" midfield="67" defense="66" overall="67"/>
+            <financial transfer_budget="16000000" weekly_wage="520000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Ivan Vukomanovic" style="Passionate"/>
+        </team>
+        <team id="113300" name="Mumbai City FC" short_name="MUM" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="71" midfield="70" defense="69" overall="70"/>
+            <financial transfer_budget="25000000" weekly_wage="700000" currency="USD"/>
+            <tactics formation="4-2-3-1" coach="Petr Kratky" style="Technical"/>
+        </team>
+        <team id="113301" name="Hyderabad FC" short_name="HYD" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="68" midfield="67" defense="66" overall="67"/>
+            <financial transfer_budget="14000000" weekly_wage="450000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Thangboi Singto" style="Balanced"/>
+        </team>
+        <team id="113302" name="Bengaluru FC" short_name="BEN" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="69" midfield="68" defense="67" overall="68"/>
+            <financial transfer_budget="18000000" weekly_wage="550000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Gerard Zaragoza" style="Balanced"/>
+        </team>
+        <team id="114168" name="Jamshedpur FC" short_name="JAM" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="67" midfield="66" defense="65" overall="66"/>
+            <financial transfer_budget="13000000" weekly_wage="420000" currency="USD"/>
+            <tactics formation="4-4-2" coach="Khalid Jamil" style="Defensive"/>
+        </team>
+        <team id="115202" name="Punjab FC" short_name="PUN" leagueId="2149" nationId="159" stadiumId="149">
+            <ratings attack="66" midfield="65" defense="64" overall="65"/>
+            <financial transfer_budget="10000000" weekly_wage="350000" currency="USD"/>
+            <tactics formation="4-3-3" coach="Staikos Vergetis" style="Balanced"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 15. OTHER MAJOR LEAGUES SUMMARY ==================== -->
+    
+    <!-- CHINESE SUPER LEAGUE (CSL) - League ID: 2012 -->
+    <league id="2012" name="Chinese Super League" nationId="155" level="1" season="2025/2026">
+        <team id="111768" name="Beijing Guoan" short_name="GUO" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="111769" name="Changchun Yatai" short_name="YAT" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="111774" name="Tianjin Jinmen Tiger" short_name="TIA" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="111779" name="Henan FC" short_name="HEN" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="112163" name="Zhejiang Professional FC" short_name="ZHE" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="112540" name="Shanghai Port" short_name="SHP" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="112555" name="FC Anyang" short_name="ANY" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="112558" name="Suwon FC" short_name="SUW" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="116360" name="Chengdu Rongcheng F.C." short_name="CHE" leagueId="2012" nationId="155" stadiumId="153"/>
+        <team id="131487" name="Shenzhen Peng City" short_name="SHE" leagueId="2012" nationId="155" stadiumId="153"/>
+    </league>
+    
+    <!-- K LEAGUE 1 (Korea) - League ID: 83 -->
+    <league id="83" name="K League 1" nationId="167" level="1" season="2025/2026">
+        <team id="980" name="Daejeon Hana Citizen" short_name="DAE" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="982" name="FC Seoul" short_name="SEO" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="1473" name="Ulsan HD FC" short_name="ULS" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="1474" name="Pohang Steelers" short_name="POH" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="1477" name="Jeonbuk Hyundai Motors" short_name="JEO" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="1478" name="Jeju SK FC" short_name="JEJ" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="2055" name="Gimcheon Sangmu" short_name="GIM" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="2056" name="Daegu FC" short_name="DAE" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="112115" name="Gangwon FC" short_name="GAN" leagueId="83" nationId="167" stadiumId="196"/>
+        <team id="112258" name="Gwangju FC" short_name="GWA" leagueId="83" nationId="167" stadiumId="196"/>
+    </league>
+    
+    <!-- BELGIAN PRO LEAGUE - League ID: 4 -->
+    <league id="4" name="Belgian Pro League" nationId="7" level="1" season="2025/2026">
+        <team id="229" name="Anderlecht" short_name="AND" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="230" name="Antwerp" short_name="ANT" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="231" name="Club Brugge" short_name="BRU" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="232" name="Standard Liège" short_name="STA" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="537" name="Dender" short_name="DEN" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="670" name="Charleroi" short_name="CHA" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="673" name="Genk" short_name="GEN" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="674" name="Gent" short_name="GNT" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="680" name="Sint-Truiden" short_name="STV" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="681" name="Westerlo" short_name="WES" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="15005" name="Zulte Waregem" short_name="ZUL" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="100087" name="OH Leuven" short_name="LEU" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="110724" name="KV Mechelen" short_name="MEC" leagueId="4" nationId="7" stadiumId="15"/>
+        <team id="1750" name="Cercle Brugge" short_name="CER" leagueId="4" nationId="7" stadiumId="15"/>
+    </league>
+    
+    <!-- A-LEAGUE (Australia) - League ID: 351 -->
+    <league id="351" name="A-League" nationId="195" level="1" season="2025/2026">
+        <team id="111393" name="Adelaide United" short_name="ADE" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111395" name="Brisbane Roar" short_name="BRI" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111396" name="Central Coast Mariners" short_name="CCM" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111397" name="Melbourne Victory" short_name="MVC" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111398" name="Newcastle Jets" short_name="NEW" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111399" name="Perth Glory" short_name="PER" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111400" name="Sydney FC" short_name="SYD" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="111766" name="Wellington Phoenix" short_name="WEL" leagueId="351" nationId="195" stadiumId="198"/>
+        <team id="112224" name="Melbourne City" short_name="MCC" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="112427" name="Western Sydney Wanderers" short_name="WSW" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="114023" name="Western United FC" short_name="WUN" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="114604" name="Macarthur FC" short_name="MAC" leagueId="351" nationId="195" stadiumId="195"/>
+        <team id="131739" name="Auckland FC" short_name="AUC" leagueId="351" nationId="195" stadiumId="198"/>
+    </league>
+    
+    <!-- DUTCH EREDIVISIE (Additional Teams) - League ID: 10 -->
+    <league id="10" name="Eredivisie" nationId="34" level="1" season="2025/2026">
+        <team id="634" name="Fortuna Sittard" short_name="FOR" leagueId="10" nationId="34" stadiumId="15"/>
+        <team id="645" name="FC Volendam" short_name="VOL" leagueId="10" nationId="34" stadiumId="15"/>
+        <team id="1910" name="N.E.C. Nijmegen" short_name="NEC" leagueId="10" nationId="34" stadiumId="15"/>
+        <team id="1910" name="N.E.C. Nijmegen" short_name="NEC" leagueId="10" nationId="34" stadiumId="15"/>
+        <team id="1971" name="Excelsior" short_name="EXC" leagueId="10" nationId="34" stadiumId="15"/>
+        <team id="100638" name="Telstar" short_name="TEL" leagueId="10" nationId="34" stadiumId="15"/>
+    </league>
+    
+    <!-- AUSTRIAN BUNDESLIGA - League ID: 80 -->
+    <league id="80" name="Austrian Bundesliga" nationId="4" level="1" season="2025/2026">
+        <team id="191" name="RB Salzburg" short_name="RBS" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="209" name="Sturm Graz" short_name="STU" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="252" name="LASK" short_name="LAS" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="254" name="SK Rapid" short_name="RAP" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="256" name="Austria Wien" short_name="AWI" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="780" name="SV Ried" short_name="RIE" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="15009" name="Altach" short_name="ALT" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="15040" name="WSG Tirol" short_name="WSG" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="2017" name="Hartberg" short_name="HAR" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="110720" name="Blau-Weiß Linz" short_name="BWL" leagueId="80" nationId="4" stadiumId="516"/>
+        <team id="113616" name="Grazer AK" short_name="GAK" leagueId="80" nationId="4" stadiumId="516"/>
+    </league>
+    
+    <!-- SWISS SUPER LEAGUE - League ID: 189 -->
+    <league id="189" name="Swiss Super League" nationId="47" level="1" season="2025/2026">
+        <team id="322" name="Grasshopper Club Zürich" short_name="GCZ" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="324" name="Servette FC" short_name="SER" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="896" name="FC Basel" short_name="BAS" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="897" name="FC Luzern" short_name="LUZ" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="898" name="FC St. Gallen" short_name="STG" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="900" name="BSC Young Boys" short_name="YBB" leagueId="189" nationId="47" stadiumId="514"/>
+        <team id="894" name="FC Zürich" short_name="ZUR" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="10032" name="FC Lugano" short_name="LUG" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="1713" name="FC Winterthur" short_name="WIN" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="1715" name="FC Thun" short_name="THU" leagueId="189" nationId="47" stadiumId="509"/>
+        <team id="110770" name="FC Sion" short_name="SIO" leagueId="189" nationId="47" stadiumId="509"/>
+    </league>
+    
+    <!-- DANISH SUPERLIGA - League ID: 1 -->
+    <league id="1" name="Danish Superliga" nationId="13" level="1" season="2025/2026">
+        <team id="269" name="Brøndby IF" short_name="BRO" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="270" name="Silkeborg IF" short_name="SIL" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="271" name="AGF" short_name="AGF" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="272" name="Odense Boldklub" short_name="OB" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="819" name="FC København" short_name="FCK" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="822" name="Vejle BK" short_name="VEJ" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="1443" name="Viborg FF" short_name="VFF" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="1447" name="Sønderjyske Fodbold" short_name="SON" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="1516" name="FC Midtjylland" short_name="FCM" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="1786" name="Randers FC" short_name="RAN" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="1788" name="FC Nordsjælland" short_name="NOR" leagueId="1" nationId="13" stadiumId="15"/>
+        <team id="15006" name="FC Fredericia" short_name="FRE" leagueId="1" nationId="13" stadiumId="15"/>
+    </league>
+    
+    <!-- NORWEGIAN ELITESERIEN - League ID: 41 -->
+    <league id="41" name="Eliteserien" nationId="36" level="1" season="2025/2026">
+        <team id="298" name="Rosenborg BK" short_name="RBK" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="300" name="Viking FK" short_name="VIK" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="417" name="Molde FK" short_name="MOL" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="418" name="Tromsø IL" short_name="TRO" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="918" name="FK Bodø/Glimt" short_name="BOD" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="919" name="SK Brann" short_name="BRA" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="920" name="Vålerenga Fotball" short_name="VAL" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="922" name="Strømsgodset Toppfotball" short_name="STr" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="1463" name="FK Haugesund" short_name="HAU" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="1523" name="Bryne FK" short_name="BRY" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="1756" name="HamKam Fotball" short_name="HAM" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="1757" name="Sandefjord Fotball" short_name="SAN" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="2041" name="Fredrikstad FK" short_name="FRE" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="112199" name="Sarpsborg 08" short_name="SAR" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="113459" name="Kristiansund BK" short_name="KRI" leagueId="41" nationId="36" stadiumId="15"/>
+        <team id="131491" name="KFUM-Kameratene Oslo" short_name="KFU" leagueId="41" nationId="36" stadiumId="15"/>
+    </league>
+    
+    <!-- SWEDISH ALLSVENSKAN - League ID: 56 -->
+    <league id="56" name="Allsvenskan" nationId="46" level="1" season="2025/2026">
+        <team id="319" name="IFK Göteborg" short_name="IFK" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="320" name="Malmö FF" short_name="MFF" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="321" name="Halmstads BK" short_name="HAL" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="433" name="AIK" short_name="AIK" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="700" name="IF Elfsborg" short_name="ELF" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="702" name="IFK Norrköping" short_name="NOR" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="708" name="Hammarby IF" short_name="HAM" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="710" name="Djurgårdens IF" short_name="DJU" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="711" name="BK Häcken" short_name="HAC" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="111594" name="GAIS" short_name="GAI" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="112072" name="Mjällby AIF" short_name="MJA" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="112126" name="IFK Värnamo" short_name="VAR" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="113458" name="IK Sirius" short_name="SIR" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="113892" name="Degerfors IF" short_name="DEG" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="1870" name="Östers IF" short_name="OST" leagueId="56" nationId="46" stadiumId="195"/>
+        <team id="111705" name="IF Brommapojkarna" short_name="BRO" leagueId="56" nationId="46" stadiumId="195"/>
+    </league>
+    
+    <!-- POLISH EKSTRAKLASA - League ID: 66 -->
+    <league id="66" name="Ekstraklasa" nationId="37" level="1" season="2025/2026">
+        <team id="873" name="Lech Poznań" short_name="LPO" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="301" name="Widzew Łódź" short_name="WID" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="420" name="Górnik Zabrze" short_name="GOR" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="1871" name="Legia Warszawa" short_name="LEG" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="110206" name="GKS Katowice" short_name="GKS" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="110745" name="Jagiellonia Białystok" short_name="JAG" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="110746" name="Pogoń Szczecin" short_name="POG" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="110747" name="Cracovia" short_name="CRA" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="110749" name="Zagłębie Lubin" short_name="ZAG" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111082" name="Arka Gdynia" short_name="ARK" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111083" name="Korona Kielce" short_name="KOR" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111086" name="Piast Gliwice" short_name="PIA" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111088" name="Radomiak Radom" short_name="RAD" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111091" name="Lechia Gdańsk" short_name="LGD" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111097" name="Motor Lublin" short_name="MOT" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="114326" name="Raków Częstochowa" short_name="RCZ" leagueId="66" nationId="37" stadiumId="197"/>
+        <team id="111082" name="Arka Gdynia" short_name="ARK" leagueId="66" nationId="37" stadiumId="197"/>
+    </league>
+    
+    <!-- REPUBLIC OF IRELAND PREMIER DIVISION - League ID: 65 -->
+    <league id="65" name="Premier Division" nationId="25" level="1" season="2025/2026">
+        <team id="305" name="Bohemians" short_name="BOH" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="306" name="Shamrock Rovers" short_name="SHA" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="422" name="Cork City" short_name="COR" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="423" name="St Patrick's Athletic" short_name="PAT" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="445" name="Derry City" short_name="DER" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="563" name="Sligo Rovers" short_name="SLI" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="834" name="Shelbourne" short_name="SHE" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="1571" name="Galway United" short_name="GAL" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="1572" name="Drogheda United" short_name="DRO" leagueId="65" nationId="25" stadiumId="149"/>
+        <team id="753" name="Waterford" short_name="WAT" leagueId="65" nationId="25" stadiumId="149"/>
+    </league>
+    
+    <!-- ROMANIAN LIGA I - League ID: 330 -->
+    <league id="330" name="Liga I" nationId="39" level="1" season="2025/2026">
+        <team id="308" name="Universitatea Craiova" short_name="UCR" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="310" name="FC Rapid" short_name="RAP" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="100757" name="Dinamo București" short_name="DIN" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="100759" name="FC Argeș" short_name="ARG" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="100761" name="FCSB" short_name="FCS" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110075" name="Farul Constanța" short_name="FAR" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110078" name="Petrolul Ploiești" short_name="PET" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110750" name="UTA Arad" short_name="UTA" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110751" name="Universitatea Cluj" short_name="UCL" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110752" name="FC Botoșani" short_name="BOT" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="114147" name="FC Hermannstadt" short_name="HER" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="114385" name="CFR Cluj" short_name="CFR" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="114545" name="Metaloglobus București" short_name="MET" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="131459" name="Unirea Slobozia" short_name="UNI" leagueId="330" nationId="39" stadiumId="197"/>
+        <team id="110072" name="ASC Oțelul Galați" short_name="OTE" leagueId="330" nationId="39" stadiumId="197"/>
+    </league>
+    
+    <!-- ==================== 16. REST OF WORLD TEAMS ==================== -->
+    <league id="76" name="Rest of World" nationId="211" level="1" season="2025/2026">
+        <team id="383" name="Palmeiras" short_name="PAL" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="150000000" weekly_wage="2200000" currency="BRL"/>
+        </team>
+        <team id="517" name="Botafogo" short_name="BOT" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="120000000" weekly_wage="2000000" currency="BRL"/>
+        </team>
+        <team id="567" name="Fluminense" short_name="FLU" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="100000000" weekly_wage="1900000" currency="BRL"/>
+        </team>
+        <team id="568" name="Cruzeiro" short_name="CRU" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="110000000" weekly_wage="1900000" currency="BRL"/>
+        </team>
+        <team id="569" name="Vasco da Gama" short_name="VAS" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="90000000" weekly_wage="1800000" currency="BRL"/>
+        </team>
+        <team id="598" name="São Paulo" short_name="SAO" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="130000000" weekly_wage="2100000" currency="BRL"/>
+        </team>
+        <team id="1043" name="Flamengo" short_name="FLA" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="79" midfield="78" defense="77" overall="78"/>
+            <financial transfer_budget="140000000" weekly_wage="2200000" currency="BRL"/>
+        </team>
+        <team id="1048" name="Internacional" short_name="INT" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="78" midfield="77" defense="76" overall="77"/>
+            <financial transfer_budget="120000000" weekly_wage="2000000" currency="BRL"/>
+        </team>
+        <team id="1598" name="Bahia" short_name="BAH" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="80000000" weekly_wage="1700000" currency="BRL"/>
+        </team>
+        <team id="1629" name="Grêmio" short_name="GRE" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="77" midfield="76" defense="75" overall="76"/>
+            <financial transfer_budget="100000000" weekly_wage="1900000" currency="BRL"/>
+        </team>
+        <team id="111052" name="Fortaleza" short_name="FOR" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="76" midfield="75" defense="74" overall="75"/>
+            <financial transfer_budget="85000000" weekly_wage="1800000" currency="BRL"/>
+        </team>
+        <team id="1719" name="Vitória (Bahia)" short_name="VIT" leagueId="76" nationId="54" stadiumId="406">
+            <ratings attack="75" midfield="74" defense="73" overall="74"/>
+            <financial transfer_budget="70000000" weekly_wage="1600000" currency="BRL"/>
+        </team>
+    </league>
+    
+    <!-- ==================== 17. BRAZILIAN SÉRIE A (Full League) ==================== -->
+    <league id="179" name="Brasileirão Série A" nationId="54" level="1" season="2025/2026">
+        <team id="383" name="Palmeiras" short_name="PAL" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="517" name="Botafogo" short_name="BOT" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="567" name="Fluminense" short_name="FLU" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="568" name="Cruzeiro" short_name="CRU" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="569" name="Vasco da Gama" short_name="VAS" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="598" name="São Paulo" short_name="SAO" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1043" name="Flamengo" short_name="FLA" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1048" name="Internacional" short_name="INT" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1598" name="Bahia" short_name="BAH" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1629" name="Grêmio" short_name="GRE" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1719" name="Vitória" short_name="VIT" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1035" name="Atlético Mineiro" short_name="CAM" leagueId="179" nationId="54" stadiumId="406"/>
+        <team id="1041" name="Corinthians" short_name="COR" leagueId="179" nationId="54" stadiumId="406"/>
+    </league>
+
+</football_database>

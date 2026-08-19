@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league name="Categoría Primera A" total_teams="4" generated="2026-05-10">
+  <league_info>
+    <name>Categoría Primera A</name>
+    <total_players>108</total_players>
+    <average_team_rating>66.9</average_team_rating>
+  </league_info>
+  <teams>
+    <team name="Atlético Nacional" players="30">
+      <name>Atlético Nacional</name>
+      <average_rating>68.1</average_rating>
+      <total_value_eur>55050000</total_value_eur>
+      <top_players>
+        <player name="M. Uribe" rating="76"/>
+        <player name="D. Ospina" rating="76"/>
+        <player name="A. Morelos" rating="75"/>
+        <player name="E. Cardona" rating="74"/>
+        <player name="W. Tesillo" rating="74"/>
+      </top_players>
+    </team>
+    <team name="América de Cali" players="28">
+      <name>América de Cali</name>
+      <average_rating>67.4</average_rating>
+      <total_value_eur>37220000</total_value_eur>
+      <top_players>
+        <player name="J. Murillo" rating="72"/>
+        <player name="C. Barrios" rating="72"/>
+        <player name="R. Holgado" rating="72"/>
+        <player name="Y. Candelo" rating="71"/>
+        <player name="D. Bocanegra" rating="71"/>
+      </top_players>
+    </team>
+    <team name="Atlético Bucaramanga" players="23">
+      <name>Atlético Bucaramanga</name>
+      <average_rating>66.6</average_rating>
+      <total_value_eur>21740000</total_value_eur>
+      <top_players>
+        <player name="F. Sambueza" rating="72"/>
+        <player name="A. Quintana" rating="72"/>
+        <player name="F. Castro" rating="70"/>
+        <player name="L. Pons" rating="70"/>
+        <player name="I. Alba" rating="69"/>
+      </top_players>
+    </team>
+    <team name="Once Caldas" players="27">
+      <name>Once Caldas</name>
+      <average_rating>65.6</average_rating>
+      <total_value_eur>29160000</total_value_eur>
+      <top_players>
+        <player name="D. Moreno" rating="75"/>
+        <player name="M. Barrios" rating="71"/>
+        <player name="J. Aguirre" rating="71"/>
+        <player name="M. García" rating="70"/>
+        <player name="I. Rojas" rating="70"/>
+      </top_players>
+    </team>
+  </teams>
+</league>

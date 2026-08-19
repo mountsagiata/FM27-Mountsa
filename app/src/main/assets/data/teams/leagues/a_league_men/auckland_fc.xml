@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="Auckland FC" league="A-League Men" total_players="23" generated="2026-05-10">
+  <team_info>
+    <name>Auckland FC</name>
+    <league>A-League Men</league>
+    <average_rating>61.9</average_rating>
+    <highest_rating>70</highest_rating>
+    <lowest_rating>52</lowest_rating>
+    <total_value_eur>15675000</total_value_eur>
+  </team_info>
+  <players>
+    <player id="208520">
+      <basic_info>
+        <name>H. Sakai</name>
+        <full_name>Hiroki Sakai酒井 宏樹</full_name>
+        <age>35</age>
+        <nationality>Japan</nationality>
+        <height_cm>185</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>RB</position>
+        <jersey_number>2.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>70</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>53.0</shooting>
+        <passing>65.0</passing>
+        <dribbling>64.0</dribbling>
+        <defending>66.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>500000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>625000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/208/520/26_120.png</face_url>
+    </player>
+    <player id="237333">
+      <basic_info>
+        <name>L. Verstraete</name>
+        <full_name>Louis Verstraete</full_name>
+        <age>26</age>
+        <nationality>Belgium</nationality>
+        <height_cm>186</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>LCM</position>
+        <jersey_number>6.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>70</overall>
+        <potential>75</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>5</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>65.0</pace>
+        <shooting>58.0</shooting>
+        <passing>65.0</passing>
+        <dribbling>67.0</dribbling>
+        <defending>64.0</defending>
+        <physical>82.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>2100000</value_eur>
+        <wage_eur>5000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>2800000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/237/333/26_120.png</face_url>
+    </player>
+    <player id="237268">
+      <basic_info>
+        <name>F. de Vries</name>
+        <full_name>Francis de Vries</full_name>
+        <age>30</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>LB</position>
+        <jersey_number>15.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>69</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>LB</position>
+        <position>LM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>64.0</pace>
+        <shooting>53.0</shooting>
+        <passing>67.0</passing>
+        <dribbling>62.0</dribbling>
+        <defending>63.0</defending>
+        <physical>83.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1200000</value_eur>
+        <wage_eur>4000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/237/268/26_120.png</face_url>
+    </player>
+    <player id="243966">
+      <basic_info>
+        <name>G. May</name>
+        <full_name>Guillermo Luis May Bartesaghi</full_name>
+        <age>27</age>
+        <nationality>Uruguay</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>74</weight_kg>
+        <position>LS</position>
+        <jersey_number>10.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>68</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+        <position>CAM</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>68.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>70.0</dribbling>
+        <defending>34.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1400000</value_eur>
+        <wage_eur>4000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1900000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/243/966/26_120.png</face_url>
+    </player>
+    <player id="254143">
+      <basic_info>
+        <name>N. Pijnaker</name>
+        <full_name>Nando Zen Pijnaker</full_name>
+        <age>26</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>191</height_cm>
+        <weight_kg>88</weight_kg>
+        <position>LCB</position>
+        <jersey_number>4.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>67</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>60.0</pace>
+        <shooting>48.0</shooting>
+        <passing>54.0</passing>
+        <dribbling>53.0</dribbling>
+        <defending>65.0</defending>
+        <physical>79.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1100000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1500000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/254/143/26_120.png</face_url>
+    </player>
+    <player id="259723">
+      <basic_info>
+        <name>D. Hall</name>
+        <full_name>Daniel Peter Olatunji Hall</full_name>
+        <age>26</age>
+        <nationality>Australia</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>RCB</position>
+        <jersey_number>23.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>67</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>81.0</pace>
+        <shooting>29.0</shooting>
+        <passing>46.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>64.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1300000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1700000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/259/723/26_120.png</face_url>
+    </player>
+    <player id="240262">
+      <basic_info>
+        <name>J. Brimmer</name>
+        <full_name>Jake William Brimmer</full_name>
+        <age>27</age>
+        <nationality>Malta</nationality>
+        <height_cm>169</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>SUB</position>
+        <jersey_number>22.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>66</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CAM</position>
+        <position>CDM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>73.0</pace>
+        <shooting>61.0</shooting>
+        <passing>68.0</passing>
+        <dribbling>69.0</dribbling>
+        <defending>58.0</defending>
+        <physical>67.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>975000</value_eur>
+        <wage_eur>3000</wage_eur>
+        <contract_until>2028.0</contract_until>
+        <release_clause>1300000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/240/262/26_120.png</face_url>
+    </player>
+    <player id="240096">
+      <basic_info>
+        <name>L. Brook</name>
+        <full_name>Lachlan Ricky Brook</full_name>
+        <age>24</age>
+        <nationality>Australia</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>69</weight_kg>
+        <position>SUB</position>
+        <jersey_number>77.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>66</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>84.0</pace>
+        <shooting>61.0</shooting>
+        <passing>58.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>36.0</defending>
+        <physical>61.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>1300000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1700000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/240/096/26_120.png</face_url>
+    </player>
+    <player id="210826">
+      <basic_info>
+        <name>F. Gallegos</name>
+        <full_name>Luis Felipe Gallegos Leiva</full_name>
+        <age>33</age>
+        <nationality>Chile</nationality>
+        <height_cm>173</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>RCM</position>
+        <jersey_number>28.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>65</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+        <position>CAM</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>77.0</pace>
+        <shooting>56.0</shooting>
+        <passing>63.0</passing>
+        <dribbling>68.0</dribbling>
+        <defending>59.0</defending>
+        <physical>73.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>450000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>563000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/210/826/26_120.png</face_url>
+    </player>
+    <player id="231065">
+      <basic_info>
+        <name>L. Rogerson</name>
+        <full_name>Logan Tipene Rogerson</full_name>
+        <age>27</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>182</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>RM</position>
+        <jersey_number>27.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>64</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>RM</position>
+        <position>CAM</position>
+        <position>RW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>79.0</pace>
+        <shooting>63.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>63.0</dribbling>
+        <defending>46.0</defending>
+        <physical>72.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>625000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2027.0</contract_until>
+        <release_clause>781000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/231/065/26_120.png</face_url>
+    </player>
+    <player id="225993">
+      <basic_info>
+        <name>O. Sail</name>
+        <full_name>Oliver Steven Edward Sail</full_name>
+        <age>29</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>197</height_cm>
+        <weight_kg>80</weight_kg>
+        <position>GK</position>
+        <jersey_number>31.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>64</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>1</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>497000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/225/993/26_120.png</face_url>
+    </player>
+    <player id="227040">
+      <basic_info>
+        <name>S. Cosgrove</name>
+        <full_name>Sam Benjamin Cosgrove</full_name>
+        <age>28</age>
+        <nationality>England</nationality>
+        <height_cm>192</height_cm>
+        <weight_kg>82</weight_kg>
+        <position>SUB</position>
+        <jersey_number>9.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>63</overall>
+        <potential>63</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>52.0</pace>
+        <shooting>64.0</shooting>
+        <passing>49.0</passing>
+        <dribbling>56.0</dribbling>
+        <defending>27.0</defending>
+        <physical>77.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>500000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>625000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/227/040/26_120.png</face_url>
+    </player>
+    <player id="208543">
+      <basic_info>
+        <name>C. Howieson</name>
+        <full_name>Cameron Drew Neru Howieson</full_name>
+        <age>30</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>180</height_cm>
+        <weight_kg>78</weight_kg>
+        <position>SUB</position>
+        <jersey_number>7.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>62</overall>
+        <potential>62</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>70.0</pace>
+        <shooting>61.0</shooting>
+        <passing>62.0</passing>
+        <dribbling>62.0</dribbling>
+        <defending>54.0</defending>
+        <physical>69.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>375000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>469000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/208/543/26_120.png</face_url>
+    </player>
+    <player id="246195">
+      <basic_info>
+        <name>C. Elliot</name>
+        <full_name>Callan Rennie Elliot</full_name>
+        <age>25</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>SUB</position>
+        <jersey_number>17.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>62</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>RB</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>76.0</pace>
+        <shooting>48.0</shooting>
+        <passing>56.0</passing>
+        <dribbling>63.0</dribbling>
+        <defending>55.0</defending>
+        <physical>67.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>475000</value_eur>
+        <wage_eur>2000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>629000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/246/195/26_120.png</face_url>
+    </player>
+    <player id="274006">
+      <basic_info>
+        <name>M. François</name>
+        <full_name>Marlee Jean Francois</full_name>
+        <age>22</age>
+        <nationality>Australia</nationality>
+        <height_cm>181</height_cm>
+        <weight_kg>72</weight_kg>
+        <position>LM</position>
+        <jersey_number>11.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>61</overall>
+        <potential>71</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>75.0</pace>
+        <shooting>55.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>66.0</dribbling>
+        <defending>28.0</defending>
+        <physical>57.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>725000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>1100000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/274/006/26_120.png</face_url>
+    </player>
+    <player id="235860">
+      <basic_info>
+        <name>M. Woud</name>
+        <full_name>Michael Cornelis Woud</full_name>
+        <age>26</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>196</height_cm>
+        <weight_kg>89</weight_kg>
+        <position>SUB</position>
+        <jersey_number>1.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>65</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Left</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>275000</value_eur>
+        <wage_eur>750</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>364000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/235/860/26_120.png</face_url>
+    </player>
+    <player id="73092">
+      <basic_info>
+        <name>J. Randall</name>
+        <full_name>Jesse Carmichael Randall</full_name>
+        <age>22</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>176</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>21.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>60</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>LW</position>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>3</skill_moves>
+      <attributes>
+        <pace>78.0</pace>
+        <shooting>58.0</shooting>
+        <passing>53.0</passing>
+        <dribbling>61.0</dribbling>
+        <defending>31.0</defending>
+        <physical>59.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>550000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>798000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/092/26_120.png</face_url>
+    </player>
+    <player id="73102">
+      <basic_info>
+        <name>L. Gillion</name>
+        <full_name>William Bruce Gillion</full_name>
+        <age>22</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>178</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>SUB</position>
+        <jersey_number>14.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>58</overall>
+        <potential>68</potential>
+      </game_attributes>
+      <positions>
+        <position>LM</position>
+        <position>RM</position>
+        <position>LW</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>83.0</pace>
+        <shooting>50.0</shooting>
+        <passing>43.0</passing>
+        <dribbling>65.0</dribbling>
+        <defending>24.0</defending>
+        <physical>58.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>450000</value_eur>
+        <wage_eur>1000</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>653000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/102/26_120.png</face_url>
+    </player>
+    <player id="73106">
+      <basic_info>
+        <name>J. Bidois</name>
+        <full_name>Jonty Bidois</full_name>
+        <age>20</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>184</height_cm>
+        <weight_kg>75</weight_kg>
+        <position>RS</position>
+        <jersey_number>35.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>53</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>ST</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>72.0</pace>
+        <shooting>52.0</shooting>
+        <passing>40.0</passing>
+        <dribbling>49.0</dribbling>
+        <defending>16.0</defending>
+        <physical>62.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>230000</value_eur>
+        <wage_eur>750</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>431000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/106/26_120.png</face_url>
+    </player>
+    <player id="73937">
+      <basic_info>
+        <name>J. Knowles</name>
+        <full_name>Joseph James Knowles</full_name>
+        <age>20</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>73</weight_kg>
+        <position>SUB</position>
+        <jersey_number>30.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>53</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>GK</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>2</weak_foot>
+      <skill_moves>1</skill_moves>
+      <attributes/>
+      <financial>
+        <value_eur>200000</value_eur>
+        <wage_eur>500</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>375000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/937/26_120.png</face_url>
+    </player>
+    <player id="73103">
+      <basic_info>
+        <name>F. McKenlay</name>
+        <full_name>Finn McKenlay</full_name>
+        <age>19</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>188</height_cm>
+        <weight_kg>76</weight_kg>
+        <position>SUB</position>
+        <jersey_number>18.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>67</potential>
+      </game_attributes>
+      <positions>
+        <position>CDM</position>
+        <position>CM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>49.0</pace>
+        <shooting>46.0</shooting>
+        <passing>52.0</passing>
+        <dribbling>49.0</dribbling>
+        <defending>46.0</defending>
+        <physical>52.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>180000</value_eur>
+        <wage_eur>600</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>338000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/103/26_120.png</face_url>
+    </player>
+    <player id="73105">
+      <basic_info>
+        <name>O. Middleton</name>
+        <full_name>Oliver Middleton</full_name>
+        <age>19</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>177</height_cm>
+        <weight_kg>68</weight_kg>
+        <position>SUB</position>
+        <jersey_number>19.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>66</potential>
+      </game_attributes>
+      <positions>
+        <position>CM</position>
+        <position>CDM</position>
+        <position>RM</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>4</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>65.0</pace>
+        <shooting>33.0</shooting>
+        <passing>50.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>46.0</defending>
+        <physical>49.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>190000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>356000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/105/26_120.png</face_url>
+    </player>
+    <player id="73104">
+      <basic_info>
+        <name>A. Coulibaly</name>
+        <full_name>Adama Coulibaly</full_name>
+        <age>20</age>
+        <nationality>New Zealand</nationality>
+        <height_cm>176</height_cm>
+        <weight_kg>70</weight_kg>
+        <position>SUB</position>
+        <jersey_number>16.0</jersey_number>
+      </basic_info>
+      <game_attributes>
+        <overall>52</overall>
+        <potential>69</potential>
+      </game_attributes>
+      <positions>
+        <position>CB</position>
+        <position>CAM</position>
+        <position>RB</position>
+      </positions>
+      <preferred_foot>Right</preferred_foot>
+      <weak_foot>3</weak_foot>
+      <skill_moves>2</skill_moves>
+      <attributes>
+        <pace>75.0</pace>
+        <shooting>46.0</shooting>
+        <passing>50.0</passing>
+        <dribbling>55.0</dribbling>
+        <defending>51.0</defending>
+        <physical>53.0</physical>
+      </attributes>
+      <financial>
+        <value_eur>200000</value_eur>
+        <wage_eur>650</wage_eur>
+        <contract_until>2026.0</contract_until>
+        <release_clause>375000.0</release_clause>
+      </financial>
+      <face_url>https://cdn.sofifa.net/players/073/104/26_120.png</face_url>
+    </player>
+  </players>
+</team>
